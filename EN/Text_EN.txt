@@ -100,9 +100,9 @@ Faire contrôler tous les employés par l'IA
 ▲
 ▼
 ■
-Y
+A
 M
-W
+S
 Mettre le jeu en pause
 Vitesse normale
 Haute vitesse
