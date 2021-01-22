@@ -1,1 +1,49 @@
 -;-
+Bureau I;Lieu de travail pour le développement, Plus la qualité est élevée,<br>meilleur est le résultat du travail..
+Chauffage; Les employés qui gèlent deviennent insatisfaits plus rapidement.
+Lampe I; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Poubelle; Gardez toujours vos bureaux propres,<br>sinon vos employés seront insatisfaits.
+Distributeur d'eau; les employés assoiffés deviennent insatisfaits plus rapidement.
+Bureau I; Workplace for research. Plus la qualité est élevée,<br>meilleur est le résultat du travail..
+Plante;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Cactus;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Plante Tropical;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Toilet;Ici, les besoins les plus importants sont satisfaits.
+Lavabo; Vous devez toujours vous laver les mains!
+Poster UFO;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Poster Robot;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Poster Aleon;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Poster Retro;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Star Ship Poster;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Record d'or; vous obtenez ce prix pour chaque match<br>qui a été vendu au moins 1.000.000 d'exemplaires.
+Tableau I;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Tableau II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Tableau III;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Tableau IV;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Tableau V;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Sèche-mains; Faites du bruit, ventilez et séchez vos mains.
+Flipper I; Avec cet objet vos employés<br>peut obtenir une nouvelle motivation.
+Banc - Brun Clair;Ici, vos employés peuvent<br>s'asseoir pour une pause.
+Banc - Brun foncé;Ici, vos employés peuvent<br>s'asseoir pour une pause.
+Banc - Menthe;Ici, vos employés peuvent<br>s'asseoir pour une pause.
+Commode I;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Commode II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Commode III;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Armoire à dossiers;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Sputnik 3000; Ce robot de nettoyage ultra-moderne enlève toute la saleté.
+Fauteuil I - Brun;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Fauteuil I - Noir;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Fauteuil I - Vert;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Machine de production I; Avec cette machine, vous pouvez produire des jeux.
+Flipper II;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Flipper III;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Horloge;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Fauteuil II - Grey;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Fauteuil II - Blue;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Fauteuil II - Orange;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Dart machine;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Lampe II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Serveur Intex; Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>100.000</color></b> joueurs.
+Climatisation; Utile pour réguler la température dans les salles serveurs.
+Étagère robuste I; Vos jeux produits sont stockés ici.<br>Sur cet objet, vous pouvez stocker <b><color=blue>25.000</color></b> jeux.
+Bureau I; Le lieu de travail du département marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail..
