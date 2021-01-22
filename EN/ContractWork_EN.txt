@@ -1,74 +1,74 @@
-Optimize graphics engine<0>
-Programming the audio system<0>
-Develop Leveleditor<0>
-Optimize game physics<0>
-Scripting Quests<0>
-Optimize enemy AI<0>
-Optimize loading times<0>
-Programming the memory system<0>
-Create user interface<0>
-Programming the database system<0>
-Developing a game prototype<0>
-Develop localization tool<0>
-Develop diagnostic tool<0>
-Compress game assets<0>
-Programming the dialog system<0>
-Develop collision system<0>
-Programming the File Browser<0>
-Programming Levelloader<0>
-Programming the input manager<0>
-Programming the Spritemanager<0>
-Develop debug controller<0>
-Programming the Event Manager<0>
-Develop animation system<0>
-Develop sprite editor<0>
-Develop drivers<0>
-Implement copy protection<0>
-Optimize control system<1>
-Designing levels<1>
-General Bugtesting<1>
-Testing Quests<1>
-Create game concept<1>
-Hardware compatibility tests<1>
-Testing game stability<1>
-Analyze game performance<1>
-Test game updates<1>
-Optimize Game Balancing<1>
-Testing Plug-Ins<1>
-Analyzing a prototype<1>
-Testing the user interface<1>
-Create a Storyboard<1>
-Writing dialogues<1>
-Create character sprites<2>
-Draw backgrounds<2>
-Draw Items<2>
-Draw user interface<2>
-Create concept graphics<2>
-Draw environment objects<2>
-Create special effects<2>
-Draw cover image<2>
-Create Level Tileset<2>
-Design fonts<2>
-Animate characters<2>
-Creating a soundtrack<3>
-Create Character Sounds<3>
-Record sounds of weapons<3>
-Create user interface sounds<3>
-Create dynamic sounds<3>
-Create Ambience Sounds<3>
-Create Magic Sounds<3>
-Record animal noises<3>
-Create engine noises<3>
-Record classical music<3>
-Create robot sounds<3>
-Mixing explosion sounds<3>
-Record basic movements<4>
-Record martial arts animation<4>
-Create Cutscene animations<4>
-Create animal animations<4>
-Record swordplay animation<4>
-Create animations for monsters<4>
-Create dance animations<4>
-Record soccer players<4>
-Create emote animations<4>
-Record robot animations<4>
+Optimiser le moteur graphique <0>
+Programmation du système audio <0>
+Développer Leveleditor <0>
+Optimiser la physique du jeu <0>
+Quêtes de script <0>
+Optimiser l'IA ennemie <0>
+Optimiser les temps de chargement <0>
+Programmation du système de mémoire <0>
+Créer une interface utilisateur <0>
+Programmation du système de base de données <0>
+Développer un prototype de jeu <0>
+Développer l’outil de localisation <0>
+Développer un outil de diagnostic <0>
+Compresser les ressources du jeu <0>
+Programmation du système de dialogue <0>
+Développer un système de collision <0>
+Programmation du navigateur de fichiers <0>
+Programmation du Levelloader <0>
+Programmation du gestionnaire d'entrée <0>
+Programmation du Spritemanager <0>
+Développer le contrôleur de débogage <0>
+Programmation du gestionnaire d'événements <0>
+Développer le système d'animation <0>
+Développer l'éditeur de sprite <0>
+Développer des pilotes <0>
+Mettre en œuvre la protection contre la copie <0>
+Optimiser le système de contrôle <1>
+Conception des niveaux <1>
+Test de bogue général <1>
+Quêtes de test <1>
+Créer un concept de jeu <1>
+Tests de compatibilité matérielle <1>
+Tester la stabilité du jeu <1>
+Analyser les performances du jeu <1>
+Tester les mises à jour du jeu <1>
+Optimiser l'équilibrage du jeu <1>
+Test des plug-ins <1>
+Analyse d’un prototype <1>
+Test de l'interface utilisateur <1>
+Créer un storyboard <1>
+Rédaction de dialogues <1>
+Créer des sprites de personnages <2>
+Dessiner des arrière-plans <2>
+Dessiner des éléments <2>
+Dessiner l’interface utilisateur <2>
+Créer des graphiques conceptuels <2>
+Dessiner des objets d'environnement <2>
+Créer des effets spéciaux <2>
+Dessiner l'image de couverture <2>
+Créer un jeu de tuiles de niveau <2>
+Polices de conception <2>
+Animer les personnages <2>
+Créer une bande son <3>
+Créer des sons de personnage <3>
+Enregistrer les sons des armes <3>
+Créer des sons d'interface utilisateur <3>
+Créer des sons dynamiques <3>
+Créer des sons d'ambiance <3>
+Créer des sons magiques <3>
+Enregistrer les bruits d'animaux <3>
+Créer des bruits de moteur <3>
+Enregistrer de la musique classique <3>
+Créer des sons de robot <3>
+Mélange de sons d’explosion <3>
+Enregistrer les mouvements de base <4>
+Enregistrer l'animation d'arts martiaux <4>
+Créer des animations Cutscene <4>
+Créer des animations d'animaux <4>
+Enregistrer l'animation du jeu d'épée <4>
+Créer des animations pour les monstres <4>
+Créer des animations de danse <4>
+Enregistrer les joueurs de football <4>
+Créer des animations d'émoticônes <4>
+Enregistrer les animations du robot <4>
