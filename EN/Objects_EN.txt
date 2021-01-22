@@ -48,7 +48,7 @@ Climatisation; Utile pour réguler la température dans les salles serveurs.
 Étagère robuste I; Vos jeux produits sont stockés ici.<br>Sur cet objet, vous pouvez stocker <b><color=blue>25.000</color></b> jeux.
 Bureau I; Le lieu de travail du département marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Lampe III; Vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
-Lieu de travail II; lieu de travail pour le développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau II; lieu de travail pour le développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau III; Bureau de développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau IV; Bureau de développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau V; Bureau de développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
@@ -72,7 +72,7 @@ Fauteuil III - Vert; Avec cet objet,<br>vos employés peuvent obtenir une nouvel
 Fauteuil III - Bleu; Avec cet objet,<br>vos employés peuvent obtenir une nouvelle motivation.
 Armoire à pharmacie; Cela permet aux employés malades de se soigner eux-mêmes.<br>Les employés malades travaillent plus lentement.
 Chauffage électrique; les employés qui gèlent deviennent insatisfaits plus rapidement.<br>Ce radiateur peut être placé sur n'importe quelle position.
-Lieu de travail I; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau I; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau I; Le lieu de travail du studio graphique. Plus la qualité est élevée, meilleur est le résultat du travail.
 Bureau I; Le lieu de travail pour le studio de son.<br>Plus la qualité est élevée, meilleur est le résultat du travail.
 Bureau I; Le lieu de travail du studio de capture de mouvement.<br>Plus la qualité est élevée, meilleur est le résultat du travail.
@@ -127,5 +127,3 @@ Serveur G-Electic; Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serv
 Serveur de métriques;Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>300.000</color></b> Joueurs.
 Serveur DivoTech;Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>400.000</color></b> Joueurs.
 Serveur IBN;Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>500.000</color></b> Joueurs.
-DivoTech Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue>400.000</color></b> players.
-IBN Server;Servers are required for MMO and F2P games.<br>This server can handle <b><color=blue>500.000</color></b> players.
