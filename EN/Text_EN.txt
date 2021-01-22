@@ -8,7 +8,7 @@ Coûts de développement
 $
 À mesure que le niveau d'expérience augmente, les coûts de développement diminuent. <br> De plus, le gameplay, les graphismes, la technologie et les points sonores augmentent.
 Graphique
-Du son
+Son
 Intelligence artificielle
 La physique
 Gameplay
@@ -394,7 +394,7 @@ Atmosphère
 Contenu
 Profondeur de jeu
 Convient aux débutants
-Joueurs de base
+Joueurs de confirmé
 Joueur occasionnel
 Pour chaque langue, il y a des frais de traduction de <color=red> 5 000 $ </color>.
 Activer / désactiver toutes les langues
