@@ -748,7 +748,7 @@ Service client
 Marketing et assistance
 Campagne de fans <NAME> terminée
 Fanshop
-<b> Nombre d'appels, de lettres et d'e-mails </b> <br> Pour répondre aux questions de vos fans, <br> vous devez créer un service d'assistance. <br> <br> ▪ Si trop de questions restent sans réponse , vous perdrez des fans. <br> ▪ Évitez les jeux bugués. <br> ▪ À partir de 5 000 fans, un service support est nécessaire pour traiter toutes les questions.
+<b>Nombre d'appels, de lettres et d'e-mails</b><br> Pour répondre aux questions de vos fans, <br> vous devez créer un service d'assistance. <br> <br> ▪ Si trop de questions restent sans réponse , vous perdrez des fans. <br> ▪ Évitez les jeux bugués. <br> ▪ À partir de 5 000 fans, un service support est nécessaire pour traiter toutes les questions.
 Plus il y a de lettres, d'appels et de courriels sans réponse, plus vos fans sont insatisfaits.
 Démarrer le support client
 Charge de travail
@@ -758,9 +758,9 @@ Charge de travail moyenne
 Charge de travail élevée
 Questions sans réponse: <NUM>
 Record d'or reçu
-Votre jeu <color=blue><NAME> </color> est considéré comme une étape révolutionnaire dans l'industrie du jeu vidéo et a créé une nouvelle tendance.
+Votre jeu <color=blue><NAME></color> est considéré comme une étape révolutionnaire dans l'industrie du jeu vidéo et a créé une nouvelle tendance.
 Avant gardiste
-Prix ​​Mad Games
+Prix Mad Games
 <NUM> Fans
 Récompenses positives
 Récompenses négatives
@@ -772,7 +772,7 @@ Jeu de l'année
 Le pire jeu de l'année
 Records d'or
 Malade
-<b> Miracle médical </b> <br> Les employés dotés d'un système immunitaire fort ne tombent jamais malades.
+<b> Miracle médical </b><br> Les employés dotés d'un système immunitaire fort ne tombent jamais malades.
 Utilisation par mois: <NUM>
 Nouveau jeu
 Chargement du jeu
@@ -809,8 +809,8 @@ Lentement
 Ordinaire
 Vite
 Très vite
-<b> Veuillez sélectionner l'emplacement de l'entreprise </b> <br> Chaque pays a un genre spécial, ce qui signifie un bonus de <color=blue> + 3% </color> sur les ventes.
-Genre spécial: <color=blue><TEXT> </color>
+<b> Veuillez sélectionner l'emplacement de l'entreprise </b><br> Chaque pays a un genre spécial, ce qui signifie un bonus de <color=blue>+3%</color> sur les ventes.
+Genre spécial: <color=blue><TEXT></color>
 Votre personnage ▪ PDG
 Vous devez entrer un nom d'entreprise pour votre studio!
 Corps
@@ -836,7 +836,7 @@ Désactiver le didacticiel
 Popularité aléatoire de la plateforme
 Paramètres de concept de jeu aléatoires
 Aucun événement aléatoire
-<size=20> Mad Games Tycoon 2 </size> <br> <br> Merci d'avoir acheté <color=blue> Mad Games Tycoon 2 </color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, toutes les traductions sont très défectueuses. <br> <br> Amusez-vous bien!
+<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traductions francaise peux être pas complète. <br> traduit par <color=red>Tanfus et Fizzrocks</color><br> Amusez-vous bien!
 Plus la vitesse du jeu est basse, plus les tâches <br> que vos employés peuvent accomplir en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
 Pour un démarrage rapide du jeu, <br> vous pouvez augmenter l'année de départ.
