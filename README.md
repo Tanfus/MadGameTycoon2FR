@@ -1,3 +1,3 @@
 Bonjour, 
 
-voici une tradution Francaise basé sur la langue anglaise
+Voici une tradution Francaise basée sur la langue anglaise
