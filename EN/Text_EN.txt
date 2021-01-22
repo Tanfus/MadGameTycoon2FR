@@ -100,7 +100,7 @@ Faire contrôler tous les employés par l'IA
 ▲
 ▼
 ■
-Oui
+Y
 M
 W
 Mettre le jeu en pause
