@@ -15,7 +15,7 @@ MARCHE A SUIVRE POUR INSTALLER LE PATCH (A SUIVRE ATTENTIVEMENT)
 
 6 - Lancer le jeu.
 
-7 - Dans les options : changez la langue sur "Turkish"
+7 - Dans les options du jeu : changez la langue sur "Turkish"
 
 8 - Ca y est, votre jeu est en français :)
 
