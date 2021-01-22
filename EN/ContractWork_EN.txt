@@ -1,4 +1,4 @@
-﻿Optimize graphics engine<0>
+Optimize graphics engine<0>
 Programming the audio system<0>
 Develop Leveleditor<0>
 Optimize game physics<0>
