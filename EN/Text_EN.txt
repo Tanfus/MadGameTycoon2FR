@@ -67,7 +67,7 @@ Layout
 <b>Remove room</b><br>Alternatively you can press the <color=blue>left shift key</color><br>to remove the room.
 <b>Place door</b><br>The door must be connected to the corridor.<br>With the <color=blue>DEL key</color> you can remove the door.
 <b>Placing windows</b><br>Hold down the <color=blue>left shift key</color><br>to remove windows.
-Accept
+J'accepte
 Price per square meter
 Square meters
 sqm
