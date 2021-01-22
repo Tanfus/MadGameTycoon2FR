@@ -836,14 +836,14 @@ Désactiver le didacticiel
 Popularité aléatoire de la plateforme
 Paramètres de concept de jeu aléatoires
 Aucun événement aléatoire
-<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traductions francaise peux être pas complète. <br> traduit par <color=red>Tanfus et Fizzrocks</color><br> Amusez-vous bien!
+<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traductions francaise peux être pas complète. <br><br> traduction par <color=red>Tanfus</color> et <color=red>Fizzrocks</color><br><br> Amusez-vous bien!
 Plus la vitesse du jeu est basse, plus les tâches <br> que vos employés peuvent accomplir en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
 Pour un démarrage rapide du jeu, <br> vous pouvez augmenter l'année de départ.
 Une mise à jour pour <NAME> a été annulée <br> car le jeu a été retiré du marché.
-<b> Inuits </b> <br> Les employés ayant cette caractéristique ne gèlent jamais.
-<b> Modeste </b> <br> Les employés modestes n’ont pas besoin de matériel de bureau de haute qualité.
-<b> Fer </b> <br> Ces employés ne vont pas aux toilettes pendant les heures de travail.
+<b>Inuits</b><br> Les employés ayant cette caractéristique ne gèlent jamais.
+<b>Modeste </b><br> Les employés modestes n’ont pas besoin de matériel de bureau de haute qualité.
+<b>Fer</b><br> Ces employés ne vont pas aux toilettes pendant les heures de travail.
 Au moins une fonctionnalité de jeu doit être sélectionnée!
 Nouvelles
 Un concurrent publie un jeu
@@ -877,24 +877,24 @@ Définir les paramètres par défaut
 -
 -
 -
-<b> Le marketing [Streamer] a été déverrouillé </b> <br> <br> De plus en plus de gens regardent des jeux sur Internet pendant que les joueurs jouent à leurs jeux préférés. Si nous le faisons correctement, nous pouvons l'utiliser pour promouvoir nos jeux et atteindre directement le groupe cible.
-<b> Le marketing [Internet] a été débloqué </b> <br> <br> Internet devient de plus en plus important pour les campagnes publicitaires. Par conséquent, nous devrions également envisager de lancer des campagnes publicitaires sur Internet.
-<b> Remaster a été débloqué </b> <br> <br> Ne serait-ce pas une bonne idée de laisser un ancien jeu briller dans une nouvelle splendeur? De l'argent rapide et des joueurs heureux!
-<b> MMO et salle de serveurs déverrouillés </b> <br> <br> Vous pouvez maintenant développer des jeux MMO et construire la salle de serveurs nécessaire.
+<b>Le marketing [Streamer] a été déverrouillé</b><br><br> De plus en plus de gens regardent des jeux sur Internet pendant que les joueurs jouent à leurs jeux préférés. Si nous le faisons correctement, nous pouvons l'utiliser pour promouvoir nos jeux et atteindre directement le groupe cible.
+<b>Le marketing [Internet] a été débloqué</b><br><br> Internet devient de plus en plus important pour les campagnes publicitaires. Par conséquent, nous devrions également envisager de lancer des campagnes publicitaires sur Internet.
+<b>Remaster a été débloqué</b><br><br> Ne serait-ce pas une bonne idée de laisser un ancien jeu briller dans une nouvelle splendeur? De l'argent rapide et des joueurs heureux!
+<b>MMO et salle de serveurs déverrouillés</b><br><br>Vous pouvez maintenant développer des jeux MMO et construire la salle de serveurs nécessaire.
 -
-<b> Les licences ont été débloquées </b> <br> <br> Vous disposez désormais de suffisamment d'argent pour acheter des licences. Même les jeux avec un gameplay faible qui utilisent une licence officielle se vendent respectueusement.
-<b> Motion Capture Studio a été déverrouillé </b> <br> <br> Pour parfaire nos animations, nous devons mettre en place un studio de capture de mouvement. Bien que les coûts d'achat soient très élevés, ce sera rentable. Qu'est ce que tu penses de ça?
--
--
+<b>Les licences ont été débloquées</b><br><br> Vous disposez désormais de suffisamment d'argent pour acheter des licences. Même les jeux avec un gameplay faible qui utilisent une licence officielle se vendent respectueusement.
+<b>Motion Capture Studio a été déverrouillé</b><br><br> Pour parfaire nos animations, nous devons mettre en place un studio de capture de mouvement. Bien que les coûts d'achat soient très élevés, ce sera rentable. Qu'est ce que tu penses de ça?
 -
 -
 -
 -
-<b> 2. plateforme a été déverrouillée </b> <br> <br> Vous pouvez désormais développer vos jeux pour deux plateformes. Cela vous permet d'atteindre un plus large éventail de clients.
-<b> 3. plateforme a été déverrouillée </b> <br> <br> Vous pouvez désormais développer vos jeux pour trois plateformes. Cela vous permet d'atteindre un plus large éventail de clients.
-<b> 4. plateforme a été déverrouillée </b> <br> <br> Vous pouvez désormais développer vos jeux pour quatre plateformes. Cela vous permet d'atteindre un plus large éventail de clients.
-<b> La protection contre la copie a été déverrouillée </b> <br> Aujourd'hui, la première protection efficace contre la copie est sortie. Vous pouvez désormais protéger vos jeux avec une protection contre la copie.
-<b> La suite a été déverrouillée </b> <br> <br> L'un de vos jeux a reçu une bonne note de la presse. Nous devrions penser à développer une suite à une date ultérieure.
+-
+-
+<b>2. plateforme a été déverrouillée</b><br><br> Vous pouvez désormais développer vos jeux pour deux plateformes. Cela vous permet d'atteindre un plus large éventail de clients.
+<b>3. plateforme a été déverrouillée</b><br><br> Vous pouvez désormais développer vos jeux pour trois plateformes. Cela vous permet d'atteindre un plus large éventail de clients.
+<b>4. plateforme a été déverrouillée</b><br><br> Vous pouvez désormais développer vos jeux pour quatre plateformes. Cela vous permet d'atteindre un plus large éventail de clients.
+<b>La protection contre la copie a été déverrouillée</b><br> Aujourd'hui, la première protection efficace contre la copie est sortie. Vous pouvez désormais protéger vos jeux avec une protection contre la copie.
+<b>La suite a été déverrouillée</b><br><br> L'un de vos jeux a reçu une bonne note de la presse. Nous devrions penser à développer une suite à une date ultérieure.
 -
 -
 Correction de bugs
@@ -917,7 +917,7 @@ Amélioration du gameplay pour <NAME1> terminée
 Réaffecter le support
 Graphiques de haute qualité
 Amélioration graphique pour <NAME1> terminée
-Nécessite la fonctionnalité de jeu <color=yellow><NAME> </color>
+Nécessite la fonctionnalité de jeu <color=yellow><NAME></color>
 Des sons de haute qualité
 Amélioration du son pour <NAME1> terminée
 Animations de haute qualité
