@@ -8,7 +8,7 @@ Coûts de développement
 $
 À mesure que le niveau d'expérience augmente, les coûts de développement diminuent. <br> De plus, le gameplay, les graphismes, la technologie et les points sonores augmentent.
 Graphique
-Du son
+Son
 Intelligence artificielle
 La physique
 Gameplay
@@ -35,7 +35,7 @@ Salle des serveurs
 Dans le <color=blue> développement </color>, vous pouvez développer des jeux et des moteurs.
 Dans cette salle, vous pouvez développer de nouvelles technologies.
 Avec l '<color=blue> assurance qualité </color>, vous pouvez améliorer <br> le gameplay de vos jeux et éliminer efficacement les bogues.
-<color=blue> Studios graphiques> / color> créent des graphismes professionnels pour vos jeux.
+<color=blue> Studios graphiques </color> créent des graphismes professionnels pour vos jeux.
 Avec un <color=blue> Sound Studio </color>, vous pouvez créer des sons de haute qualité pour vos jeux.
 Dans le <color=blue> service Marketing </color>, vous pouvez faire la publicité de vos jeux.
 Le <color=blue> service d'assistance </color> est nécessaire pour soutenir vos fans.
@@ -68,7 +68,7 @@ Disposition
 <b> Placer la porte </b> <br> La porte doit être reliée au couloir. <br> Avec la <color=blue> touche DEL </color>, vous pouvez retirer la porte.
 <b> Placement des fenêtres </b> <br> Maintenez la <color=blue> touche Maj gauche </color> <br> enfoncée pour supprimer des fenêtres.
 J'accepte
-Prix ​​au mètre carré
+Prix au mètre carré
 Mètres carrés
 m2
 ▪ Toutes les chambres ne sont pas accessibles.
@@ -174,7 +174,7 @@ Manette
 Mémoire externe
 Mémoire interne
 RAM
-Cas
+Tour
 Moniteur
 Étui de poche
 Pour déplacer la tâche, cliquez sur une pièce du même type avec le <color=blue> bouton gauche de la souris </color>.
@@ -246,16 +246,16 @@ Nom aléatoire
 Genre spécial
 Moteur d'offre à vendre
 Commencer le développement
-<color=red> ??? </color>
+<color=red>???</color>
 Tout activer / désactiver
 Remarque
 Vous devez choisir un genre spécial!
 Vous devez donner un nom au moteur!
 Vous devez ajouter au moins une nouvelle fonctionnalité du moteur!
-<color=black> Gameplay: <NUM> </color>
-<color=black> Graphique: <NUM> </color>
-<color=black> Son: <NUM> </color>
-<color=black> Technologie: <NUM> </color>
+<color=black>Gameplay: <NUM></color>
+<color=black>Graphique: <NUM></color>
+<color=black>Son: <NUM></color>
+<color=black>Technologie: <NUM></color>
 Propres moteurs
 Quel moteur souhaitez-vous mettre à jour?
 Partage des profits
@@ -328,8 +328,8 @@ Veuillez sélectionner le type de jeu. Pour les jeux MMO et F2P, la fonction "Mu
 Taille du jeu
 Plus le jeu est grand, plus vous pouvez utiliser de fonctionnalités de jeu.
 B
-B +
-UNE
+B+
+A
 AA
 AAA
 Max. traits
@@ -344,12 +344,12 @@ Veuillez choisir le groupe cible de votre jeu.
 Genre principal
 Sous-genre
 Supprimer le genre
-Sera déverrouillé si vous avez recherché <color=blue> Multijoueur en ligne </color>.
-Sera déverrouillé si vous avez recherché <color=blue> Multijoueur en ligne </color>.
-Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color=blue> "Divers" </color>.
-Vous pouvez rechercher le sous-genre sous l'en-tête <color=blue> "Divers" </color>.
-Vous pouvez rechercher le sous-thème sous l'en-tête <color=blue> "Divers" </color>.
-Sera déverrouillé si vous avez <color=blue> $ 1.000.000 </color>.
+Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</color>.
+Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</color>.
+Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color=blue>"Divers"</color>.
+Vous pouvez rechercher le sous-genre sous l'en-tête <color=blue>"Divers"</color>.
+Vous pouvez rechercher le sous-thème sous l'en-tête <color=blue>"Divers"</color>.
+Sera déverrouillé si vous avez <color=blue>$1.000.000</color>.
 Sujet principal
 Sous-thème
 Supprimer le sujet
@@ -365,13 +365,13 @@ Plateforme 4
 Jeu exclusif
 ▪ Les jeux exclusifs ne peuvent être publiés que sur une seule plateforme. <br> Grâce à l'exclusivité, les chiffres de vente de la plateforme peuvent augmenter.
 Part de marché totale:
-Sera débloqué si l'un de vos jeux obtient une note globale <br> d'au moins <color=blue> 70% </color>.
-Sera déverrouillé en <color=blue> avril 1986 </color>.
+Sera débloqué si l'un de vos jeux obtient une note globale <br> d'au moins <color=blue>70%</color>.
+Sera déverrouillé en <color=blue>Avril 1986</color>.
 Moteur
 Plateformes
-Sera débloqué si vous avez publié au moins <color=blue> 5 jeux </color>.
-Sera débloqué si vous avez publié au moins <color=blue> 10 jeux </color>.
-Sera déverrouillé si vous avez publié au moins <color=blue> 15 jeux </color>.
+Sera débloqué si vous avez publié au moins <color=blue>5 jeux</color>.
+Sera débloqué si vous avez publié au moins <color=blue>10 jeux</color>.
+Sera déverrouillé si vous avez publié au moins <color=blue>15 jeux</color>.
 Supprimer la plateforme
 Dev. frais
 Niveau technologique minimum
@@ -382,7 +382,7 @@ Les plates-formes suivantes ont été supprimées car elles ne disposent pas du 
 Protection contre la copie
 Supprimer la protection contre la copie
 Sans protection contre la copie
-Aucun <color=blue> logiciel de protection contre la copie </color> n’a encore été publié.
+Aucun <color=blue>logiciel de protection contre la copie</color> n’a encore été publié.
 Priorité de conception
 Priorité de travail
 Langues
@@ -396,7 +396,7 @@ Profondeur de jeu
 Convient aux débutants
 Joueurs de base
 Joueur occasionnel
-Pour chaque langue, il y a des frais de traduction de <color=red> 5 000 $ </color>.
+Pour chaque langue, il y a des frais de traduction de <color=red>$5.000</color>.
 Activer / désactiver toutes les langues
 La priorité de travail ne doit pas être supérieure à 100%!
 Un genre principal doit être sélectionné!
@@ -416,7 +416,7 @@ Frais de recherche
 Points de recherche
 La priorité de travail est inférieure à 100%!
 Jeu terminé
-Le travail le plus nécessaire sur ce jeu est terminé et il est <color=blue> prêt pour la sortie </color>. Si vous le souhaitez, vous pouvez continuer à travailler sur le jeu et apporter des améliorations. Cependant, dans la <color=blue> phase de polissage </color>, les résultats du travail sont réduits et les bogues ne sont que lentement supprimés.
+Le travail le plus nécessaire sur ce jeu est terminé et il est <color=blue>prêt pour la sortie</color>. Si vous le souhaitez, vous pouvez continuer à travailler sur le jeu et apporter des améliorations. Cependant, dans la <color=blue>phase de polissage</color>, les résultats du travail sont réduits et les bogues ne sont que lentement supprimés.
 Nouvel enregistrement!
 Rechercher un éditeur
 Autodistribution
@@ -439,7 +439,7 @@ Fanbase
 Oui
 Expérience acquise
 Aucune expérience acquise
-Aperçu, combien de jeux sont actuellement disponibles, qui ont également le genre <color=blue><GENRE> </color> ou le sujet <color=blue><THEME> </color>.
+Aperçu, combien de jeux sont actuellement disponibles, qui ont également le genre <color=blue><GENRE></color> ou le sujet <color=blue><THEME></color>.
 Analyse de marché
 Total [Genre]
 Total [Sujet]
@@ -471,15 +471,15 @@ Info-bulle: Grafik 5
 Info-bulle: Grafik 6
 MoCap [Animations du lecteur]
 MoCap [animations PNJ]
-Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue> bouton gauche de la souris </color>.
+Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
 Soutien
 Annuler l'assistance
 Attendez ...
 <b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous serez offert d'emplois. <br> De plus, le paiement est plus élevé.
 Motivation moyenne de vos collaborateurs
-Le genre <color=green><NAME1> </color> et le sujet <color=green><NAME2> </color> sont actuellement à la mode.
-Le genre <color=red><NAME1> </color> et le sujet <color=red><NAME2> </color> sont actuellement impopulaires.
-Cette tendance se poursuivra pendant <color=blue><TIME> </color> semaines.
+Le genre <color=green><NAME1></color> et le sujet <color=green><NAME2></color> sont actuellement à la mode.
+Le genre <color=red><NAME1></color> et le sujet <color=red><NAME2></color> sont actuellement impopulaires.
+Cette tendance se poursuivra pendant <color=blue><TIME></color> semaines.
 Nouvelle tendance
 La semaine
 Total
@@ -492,22 +492,22 @@ Les chiffres de vente de <color=blue><NAME> </color> ont fortement baissé, de s
 Semaines en solde
 Coûts marketing
 Frais de moteur
-<color=blue><NAME1> </color> a publié le jeu <color=blue><NAME2> </color>.
-Votre éditeur a lancé une campagne marketing pour <color=blue><NAME1> </color>.
+<color=blue><NAME1></color> a publié le jeu <color=blue><NAME2></color>.
+Votre éditeur a lancé une campagne marketing pour <color=blue><NAME1></color>.
 Montre la qualité de vos bureaux.
 Montre la pollution de vos bureaux.
 Cela vous permet de voir si vos bureaux sont trop froids.
 Ici, vous pouvez définir les messages affichés.
-<color=blue><NAME1> </color> a autorisé votre moteur <color=blue><NAME2> </color>.
+<color=blue><NAME1></color> a autorisé votre moteur <color=blue><NAME2></color>.
 Déclaration
-Le développeur <color=blue><NAME1> </color> a autorisé votre moteur pour <color=blue><NAME2> </color>. La facture vient de vous être envoyée.
+Le développeur <color=blue><NAME1></color> a autorisé votre moteur pour <color=blue><NAME2></color>. La facture vient de vous être envoyée.
 Part en pourcentage
 Partager par partie
-<b> PDG </b> <br> Votre personnage ne perd pas sa motivation.
+<b>PDG</b> <br> Votre personnage ne perd pas sa motivation.
 Personnage de joueur
 Aucune salle attribuée
 L'employé a démissionné
-Le service du personnel rapporte que <color=blue><NAME> </color> a démissionné. Vous devez toujours faire attention aux besoins de vos employés et éviter les longues périodes de crise et le manque de motivation.
+Le service du personnel rapporte que <color=blue><NAME></color> a démissionné. Vous devez toujours faire attention aux besoins de vos employés et éviter les longues périodes de crise et le manque de motivation.
 Refroidissement
 Campagne de marketing
 Pourquoi voulez-vous démarrer une nouvelle campagne marketing?
@@ -523,8 +523,8 @@ Annonces Internet
 Top streamer
 la télé
 Hype maximum qui peut être généré avec cette campagne.
-Sera déverrouillé en <color=blue> février 2005 </color>.
-Sera déverrouillé en <color=blue> mars 1993 </color>.
+Sera déverrouillé en <color=blue>Février 2005</color>.
+Sera déverrouillé en <color=blue>Mars 1993</color>.
 Débloqué
 En développement
 Campagne marketing pour <NAME1> terminée
@@ -532,8 +532,8 @@ Coûts de production
 Coûts du serveur
 Qualité
 Bonus sur les résultats du travail: <NUM>%
-Sera déverrouillé si vous avez recherché <color=blue> une fonction du moteur </color>.
-Est disponible à partir de l'année <NOMBRE>
+Sera déverrouillé si vous avez recherché <color=blue>une fonction du moteur</color>.
+Est disponible à partir de l'année <NUM>
 Commencer la formation
 Cours de formation
 Conception de jeux pour les débutants
@@ -560,14 +560,14 @@ Matériel et technologie pour les professionnels
 Recherche pour les débutants
 Recherche avancée
 Recherche pour les professionnels
-Niveau maximum: <color=blue><NUM> </color>
-Efficacité: <color=blue> Faible </color>
-Efficacité: <color=blue> Medium </color>
-Efficacité: <color=blue> High </color>
+Niveau maximum: <color=blue><NUM></color>
+Efficacité: <color=blue>Faible</color>
+Efficacité: <color=blue>Medium</color>
+Efficacité: <color=blue>High</color>
 Cours de formation "<NAME>" terminé
 Voulez-vous vraiment jeter ce produit? Ce processus est irréversible!
 Êtes-vous sûr de vouloir annuler la tâche en cours?
-Vous serez remboursé <color=green><NUM> </color>.
+Vous serez remboursé <color=green><NUM></color>.
 Licences
 GFX [Graphiques d'environnement]
 GFX [GUI]
@@ -603,12 +603,12 @@ Pénalité contractuelle
 Date limite
 Charge de travail
 Client
-Date limite: <b> <NUM> semaines </b>
+Date limite: <b><NUM> semaines</b>
 Supprimer le travail
-Travaux commandés terminés: <NOM> <br> Paiement: <NUM>
-Vous devez payer une pénalité contractuelle de <color=red><NUM> </color>.
-Semaines: <NOMBRE>
-Échec des travaux de commande: <NOM> <br> Pénalité contractuelle: <NUM>
+Travaux commandés terminés: <NAME><br>Paiement: <NUM>
+Vous devez payer une pénalité contractuelle de <color=red><NUM></color>.
+Semaines: <NUM>
+Échec des travaux de commande: <NAME> <br> Pénalité contractuelle: <NUM>
 Sélectionnez le jeu
 Jeux disponibles
 Hype qui est créé au début du développement.
@@ -622,9 +622,9 @@ Remasterisé
 Or
 Rechargé
 De luxe
-<color=noir> (<NUM>) </color>
+<color=noir>(<NUM>)</color>
 Plate-forme
-Note minimale pour le paiement du bonus: <b> <NUM>% </b>
+Note minimale pour le paiement du bonus: <b><NUM>%</b>
 Prime
 Remettez le jeu
 ▪ Jeu de contrat ▪ <br> Les travaux les plus nécessaires sur ce jeu sont terminés. Vous pouvez remettre le jeu à votre client ou y travailler davantage.
