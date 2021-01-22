@@ -8,7 +8,7 @@ La mécanique du jeu ressemble à un clou dans le pied.
 Il n'y a qu'un seul mot pour le gameplay: torture!
 Personne n'y a joué avant la sortie? C'est injouable!
 Le gameplay a commencé faible puis a chuté brusquement.
-[FIN]
+[END]
 
 [GRAPHIC_10]
 Les graphismes sont vraiment moche! J'ai rarement vu quelque chose comme ça.
@@ -23,7 +23,7 @@ Ce n'est pas un graphique. Ce sont des pixels cassés.
 Le jeu nous montre que les graphistes doivent d'abord acquérir des compétences artistiques.
 La seule chose qui peut être créditée au graphisme: il utilise des pixels. Mais les mauvais.
 Je ne sais pas ce qui fait le plus mal à l'œil: Tabasco ou ces graphismes.
-[FIN]
+[END]
 
 [SOUND_10]
 La musique et le fond sonore sont une insulte aux oreilles!
@@ -39,7 +39,7 @@ Celui qui a fait le son: ne recommencez jamais!
 Le son viole les Conventions de Genève. Terrible!
 Une exposition de cinq minutes au son ressemble à un coup de fouet.
 Connaissez-vous le bruit des ongles sur un tableau noir? Les sons de ce jeu sont similaires à cela.
-[FIN]
+[END]
 
 [CONTROL_10]
 Les contrôles sont beaucoup trop compliqués et imprécis. Insupportable!
@@ -55,7 +55,7 @@ Quiconque comprend et maîtrise ces contrôles mérite un doctorat. Vraiment inj
 Ce contrôle est si mauvais que j'ai fait pousser 100 cheveux gris pendant l'examen.
 Les commandes donnent l'impression d'essayer de ramener le Titanic en train de couler à terre.
 Les contrôles sont une forme moderne de torture! Qui a programmé ça?
-[FIN]
+[END]
 
 [TOTAL_10]
 Le jeu est un désastre! Pour moi, c'est l'un des pires jeux de l'année.
@@ -75,7 +75,7 @@ Vous ne devriez pas vendre ce jeu, mais l'enterrer. Très profond!
 Le jeu est tellement cruel qu'il pourrait devenir un bâillon courant.
 Un jeu qui incite même les testeurs de jeux à repenser leur choix de carrière. C'est de la torture.
 Quiconque a programmé ce triste tas de code devrait avoir honte.
-[FIN]
+[END]
 
 [GAMEPLAY_20]
 Quant au gameplay, ce n'est pas amusant!
@@ -91,7 +91,7 @@ Regarder un marathon de tournoi d'échecs de 24 heures est plus excitant que ce 
 Le jeu est un pur ennui! Le gameplay est aussi amusant que le pied d'athlète.
 Le gameplay est vraiment nul. Avec l'intrigue, vous pouvez endormir le café.
 Lorsque vous développez un jeu, vous devez également penser au gameplay. Malheureusement, personne n'a fait ça ici.
-[FIN]
+[END]
 
 [GRAPHIC_20]
 Les graphismes sont désespérément dépassés et ne répondent plus aux normes actuelles.
@@ -110,7 +110,7 @@ Les graphismes ont probablement été réalisés pendant les pauses café. Je ne
 Les graphismes sont si mauvais que même les cercles ressemblent à des rectangles.
 Le point culminant des graphiques est l'écran noir avant de l'allumer. A partir de là, ça descend.
 La mise en scène graphique est amateur. Les développeurs auraient dû y consacrer plus d'efforts.
-[FIN]
+[END]
 
 [SOUND_20]
 Avec la musique insupportable, vous devez immédiatement baisser le contrôle du volume.
@@ -127,7 +127,7 @@ Si vous avez dépensé beaucoup d'argent en matériel audio: évitez ce jeu!
 Quelque chose de positif dans le son: des sons sortent des haut-parleurs. Malheureusement, les mauvais.
 Le pire son jamais.
 Ma chasse d'eau sonne mieux que la bande originale du jeu. Très très mauvais!
-[FIN]
+[END]
 
 [CONTROL_20]
 Les contrôles sont tout simplement ridicules. Non jouable!
@@ -141,7 +141,7 @@ Malheureusement, je n'ai pas pu tester le jeu de manière approfondie, car les c
 Les commandes donnent envie de frapper le contrôleur contre le mur. Frustrant!
 Malheureusement, le plaisir s'arrête avec les commandes du jeu. Si imprécis que j'ai douté de mes capacités.
 Les commandes extrêmement imprécises sont comparables à une voiture sans volant. Les développeurs ont échoué ici!
-[FIN]
+[END]
 
 [TOTAL_20]
 Quiconque joue à ce jeu pendant plus de 15 minutes mérite une médaille!
@@ -162,7 +162,7 @@ Si vous laissez tomber un haltère sur votre pied, vous vous amuserez plus qu'av
 Les développeurs devraient avoir honte de ce jeu. La puante du mois!
 Le développeur voulait probablement juste gagner de l'argent rapidement et ne pas développer un bon jeu. Des ordures!
 Ce jeu est vraiment mauvais. Si vous vous mordez la langue, vous aurez plus de plaisir!
-[FIN]
+[END]
 
 [GAMEPLAY_30]
 Le gameplay est démotivant. Le jeu n'est tout simplement pas amusant.
@@ -180,7 +180,7 @@ Les mécanismes de jeu sont difficiles à maîtriser. Ennuyeuse!
 L'intrigue est aussi excitante qu'un modèle de test et le gameplay peu exigeant.
 Malheureusement, les développeurs ont totalement foiré les mécanismes du jeu. Le jeu est tout simplement ennuyeux!
 Les mécanismes de jeu sont très simples. Au bout de 30 minutes au plus tard, même le joueur le plus patient s'ennuiera.
-[FIN]
+[END]
 
 [GRAPHIC_30]
 Un autre mot sur les graphismes: Malheureusement, aucun effort n'a été fait ici!
@@ -196,7 +196,7 @@ Malheureusement, les développeurs ont tout mal fait avec les graphismes du jeu.
 Les graphismes pourraient être pires, mais aussi nettement meilleurs.
 Conseil au développeur: la prochaine fois, investissez un peu plus de temps dans les graphismes.
 Les graphismes sont inférieurs à la moyenne.
-[FIN]
+[END]
 
 [SOUND_30]
 Les bandes sonores du jeu sont médiocres et les effets sonores sont rugueux.
@@ -215,7 +215,7 @@ Connaissez-vous la musique ennuyeuse dans les grands magasins? Voici à quoi res
 La musique semble complètement sans inspiration et les effets sonores sont mal exécutés.
 Malheureusement, les effets sonores ont dû être créés par des amateurs.
 Les effets sonores sont techniquement complètement dépassés. Beaucoup plus est possible sur ce système de jeu.
-[FIN]
+[END]
 
 [CONTROL_30]
 Les contrôles sont très imprécis. Cela réduit considérablement le plaisir du jeu.
@@ -234,7 +234,7 @@ Positif: Le menu principal est facile à contrôler. Négatif: les commandes du 
 Les normes de genre étaient simplement ignorées dans les contrôles. D'autres jeux le font beaucoup mieux!
 Si vous aimez la perte de contrôle, vous allez adorer ce jeu. Tout le monde sera ennuyé.
 Le contrôle du jeu est beaucoup trop compliqué. Regarder le manuel devient une routine.
-[FIN]
+[END]
 
 [TOTAL_30]
 Les développeurs ne se sont vraiment pas rendus fiers de ce jeu!
@@ -256,7 +256,7 @@ Malheureusement, cela ne suffit que pour le «mauvais» sceau d'approbation.
 Le jeu est un package global non poli qui ne peut pas suivre la concurrence.
 Le jeu est un échec complet. Beaucoup de choses ont dû mal tourner pendant le développement.
 Un jeu vraiment ennuyeux! En fin de compte, vous vous demandez simplement ce que sont les développeurs par profession.
-[FIN]
+[END]
 
 [GAMEPLAY_40]
 Le gameplay impoli ne permet pas beaucoup de plaisir. Dommage!
@@ -289,7 +289,7 @@ Les graphismes du jeu sont nettement inférieurs à l'état de l'art.
 Le genre mérite vraiment de meilleurs graphismes. Celui-ci est en dessous de la moyenne.
 Le développeur n'a pas compris que les jeux informatiques sont un support visuel. Je ne peux pas expliquer autrement les graphiques non polis.
 Les graphiques semblent mal détaillés et non polis. La concurrence fait un bien meilleur travail.
-[FIN]
+[END]
 
 [SOUND_40]
 Malheureusement, le son présente des faiblesses et ne tire pas parti des capacités du système.
@@ -306,7 +306,7 @@ Les effets sonores semblent avoir été créés par deux personnes. Un très tal
 La musique ne correspond pas du tout au jeu. Les effets sonores sont moyens.
 La musique ressemble à monter sans fin dans un ascenseur. Tout simplement trop monotone!
 Les effets sonores sont en fait acceptables. Cela ne correspond tout simplement pas au genre et au jeu.
-[FIN]
+[END]
 
 [CONTROL_40]
 Les commandes ennuyeuses feront sombrer le joueur moyen dans le désespoir.
@@ -321,7 +321,7 @@ Les commandes semblent extrêmement imprécises. Je ne pouvais tout simplement p
 Avec beaucoup de pratique, vous pouvez vous adapter au facteur déchets. Cependant, ce n'est pas amusant.
 Personne dans l'équipe éditoriale n'était satisfait des contrôles. Même dans les menus, les contrôles sont trop compliqués.
 À propos des commandes: le jeu montre que vous pouvez rendre des choses simples très compliquées.
-[FIN]
+[END]
 
 [TOTAL_40]
 Même en tant qu'amoureux de ce genre, vous n'en aurez pas pour votre argent.
@@ -340,7 +340,7 @@ Ma conclusion: le jeu ne mérite même pas une note de 50!
 En fin de compte, il reste à dire qu'il ne suffit pas d'être un grand succès. Ce n'est même pas un coup mineur.
 Ce jeu a certainement des atouts, mais il fait trop d'erreurs et gâche votre plaisir.
 La conclusion: j'avais hâte de voir le match. Malheureusement, une fois que j'y ai joué, j'ai été déçu.
-[FIN]
+[END]
 
 [GAMEPLAY_50]
 Le gameplay extrêmement difficile ne permet pas beaucoup de plaisir de jeu.
@@ -360,7 +360,7 @@ Le mot «ennuyeux» décrit assez bien le gameplay et l'intrigue.
 Ce genre mérite plus que de telles mécaniques de jeu moyennes.
 L'intrigue est supportable, mais les développeurs auraient dû travailler sur le gameplay.
 Le gameplay est tout simplement monotone. Nous aurions aimé voir plus de créativité.
-[FIN]
+[END]
 
 [GRAPHIC_50]
 Malheureusement, les graphismes non polis ne sont pas convaincants. Le concours a fait un meilleur travail.
@@ -381,7 +381,7 @@ Si vous n'avez pas de forte demande en graphisme, vous pouvez vivre avec.
 Les graphismes du jeu sont acceptables. Cependant, j'aurais aimé voir plus d'attention aux détails.
 Graphiquement, le jeu n'est que moyen ordinaire.
 Les graphismes de ce titre n'étaient apparemment qu'une préoccupation secondaire. Au final, ce n'est que moyen.
-[FIN]
+[END]
 
 [SOUND_50]
 Les effets sonores et la bande-son inférieure à la moyenne sont une véritable déception.
@@ -399,7 +399,7 @@ La musique aurait également adapté un économiseur d'écran. Les effets sonore
 Les concepteurs sonores semblent avoir fait un effort pour créer des effets sonores décents. Malheureusement, il y en a beaucoup trop peu!
 Les bandes sonores seraient vraiment bonnes si elles correspondaient au jeu. Mais ce n'est pas le cas.
 Les effets sonores proviennent probablement d'une bibliothèque standard. Tout est de qualité moyenne.
-[FIN]
+[END]
 
 [CONTROL_50]
 Les contrôles inférieurs à la moyenne provoquent de la frustration à certains moments.
@@ -416,7 +416,7 @@ Malheureusement, les commandes du jeu ne sont pas assez intuitives. Il ne reste 
 Les commandes du jeu simplifient les choses compliquées. Malheureusement, cela complique également les choses simples.
 Les commandes du jeu servent leur objectif, sans forces ni faiblesses particulières.
 Les commandes moins intuitives du jeu ne permettent pas un score plus élevé ici.
-[FIN]
+[END]
 
 [TOTAL_50]
 Le jeu aurait pu être un jeu décent avec des programmeurs compétents. Dommage!
@@ -437,7 +437,7 @@ En conclusion, je ne peux que dire: le jeu est ennuyeux!
 En conclusion, ce jeu n'a époustouflé aucun d'entre nous.
 Mon avis: sur de très nombreux points, le jeu est tout au plus moyen.
 Les fans du genre pourraient être heureux pendant quelques heures. Malheureusement, je n'en fais pas partie.
-[FIN]
+[END]
 
 [GAMEPLAY_60]
 Le gameplay change de niveau en niveau. Parfois vers le haut, parfois vers le bas.
@@ -452,7 +452,7 @@ L'intrigue génère des tensions par étapes, mais elle ne dure jamais longtemps
 Le gameplay est amusant et amusant. L'intrigue, en revanche, est une blague.
 L'intrigue est excellente. D'un autre côté, les mécanismes de jeu obsolètes ne résistent tout simplement pas.
 Le gameplay a ses atouts, mais l'histoire n'est pas vraiment passionnante.
-[FIN]
+[END]
 
 [GRAPHIC_60]
 Les graphismes sont assez moyens. Je l'ai vu mieux sur ce système.
@@ -469,7 +469,7 @@ Il existe certainement des jeux avec de meilleurs graphismes. Au final, ce sera 
 Les graphismes du jeu ne méritent pas une médaille, mais ils peuvent toujours suivre la concurrence.
 Les graphiques non polis répondent à peine à l'état de l'art, guère plus.
 Les grands effets graphiques méritent d'être mentionnés. Le reste des graphismes semble plutôt médiocre.
-[FIN]
+[END]
 
 [SOUND_60]
 Les sons et mélodies numérisés correspondent au jeu. Rien de spécial.
@@ -486,7 +486,7 @@ Le son est en fait assez bon. Malheureusement, il y a aussi des problèmes techn
 Les effets sonores du jeu sont excellents. La musique, en revanche, est un délavage total.
 Les effets sonores sont encore un peu en retard sur la concurrence.
 Un peu plus de variété, alors il y aurait eu une note plus élevée pour le son.
-[FIN]
+[END]
 
 [CONTROL_60]
 Le système de contrôle moyen nécessite un certain temps pour s'adapter.
@@ -498,7 +498,7 @@ Les commandes du jeu sont correctes. Cependant, il manque d'intuition.
 Les contrôles du jeu sont corrects mais imprécis dans certaines parties. Cela aurait pu être mieux résolu.
 Les contrôles du jeu ne sont pas exceptionnels, mais il y a de pires représentants du genre.
 À propos des commandes: les menus sont inutilement compliqués. Sinon, tout va bien.
-[FIN]
+[END]
 
 [TOTAL_60]
 En général, il reste à dire que les fans inconditionnels de tels jeux en auront pour leur argent.
@@ -519,7 +519,7 @@ Malheureusement, c'est trop trivial à bien des égards pour être un bon jeu.
 Les fans de genre peuvent l'acheter pour passer le temps entre deux très bons titres.
 Ceux qui n'ont pas de grandes attentes peuvent s'amuser avec le jeu.
 Si le patron avait donné plus de temps de développement aux programmeurs, ce serait un bon jeu. En l'état, ce n'est que médiocre.
-[FIN]
+[END]
 
 [GAMEPLAY_70]
 A propos du gameplay: Gameplay bien pensé avec des faiblesses mineures.
@@ -533,7 +533,7 @@ Les premières heures de jeu sont une joie particulière. Malheureusement, l'int
 Les idées de gameplay sont excellentes, mais parfois mal implémentées techniquement.
 J'aurais aimé donner plus de points pour le gameplay, mais les nombreux défauts de conception l'ont empêché.
 Le gameplay est plutôt bon, mais il me semble que le développeur s'est trop inspiré d'autres jeux.
-[FIN]
+[END]
 
 [GRAPHIC_70]
 Les graphismes sont corrects, mais ne sont pas totalement convaincants.
@@ -547,7 +547,7 @@ Les graphismes du jeu semblent solides, mais n'ont rien de spécial.
 À propos des graphismes: techniquement, plus aurait été possible, mais ça va.
 Le style graphique est en fait assez joli, mais tout le monde ne partagera pas cet avis.
 Les fans de genre ne seront pas ravis des graphismes du jeu, mais ils seront satisfaits.
-[FIN]
+[END]
 
 [SOUND_70]
 Les effets sonores numérisés sont assez bons mais rien de spécial.
@@ -560,7 +560,7 @@ Il n'y avait certainement pas de Mozart responsable de la musique, mais les effe
 Il n'y a rien de négatif à dire sur le son. Cependant, ce n'est pas non plus un chef-d'œuvre.
 Les bandes sonores du jeu sont excellentes, mais les effets sonores ne m'époustouflent pas.
 Le son serait génial si certains effets sonores n'avaient pas de problèmes techniques.
-[FIN]
+[END]
 
 [CONTROL_70]
 Concernant les commandes, il n'y a pas de problème majeur si vous prenez peu de temps pour les apprendre.
@@ -573,7 +573,7 @@ Je pense que les contrôles sont trop imprécis. Cependant, la plupart des gens 
 Les commandes sont faciles à utiliser, mais elles pourraient être plus intuitives.
 Les commandes simples sont en fait bonnes, juste un peu imprécises de temps en temps.
 Les commandes sont de bonne qualité standard. Je n'ai eu aucun problème majeur.
-[FIN]
+[END]
 
 [TOTAL_70]
 Si vous êtes fan de ce genre, vous devriez absolument y jeter un coup d'œil.
@@ -601,7 +601,7 @@ Malheureusement, le développeur ne s'est pas soucié de certaines fonctionnalit
 Dans l'ensemble, le jeu est plutôt réussi. Malgré ses faiblesses, il est toujours divertissant
 Je n'avais pas de grandes attentes avant l'examen et j'ai été surpris. Pourtant, ce n'est pas suffisant pour un succès.
 De moi, il y a une recommandation d'achat! Mais seulement si vous êtes fan du genre.
-[FIN]
+[END]
 
 [GAMEPLAY_80]
 Le gameplay varié est amusant et offre quelques innovations.
@@ -624,7 +624,7 @@ Le gameplay n'est pas nouveau, mais il est très stimulant.
 Le jeu a une histoire passionnante et une fin vraiment cool.
 Ici, une belle histoire a été combinée avec un excellent gameplay.
 Le gameplay est varié et stimulant. Non seulement les fans de genre vont l'adorer.
-[FIN]
+[END]
 
 [GRAPHIC_80]
 Les bons graphiques tirent parti des capacités du système.
@@ -641,7 +641,7 @@ Le titre a des graphismes magnifiques et détaillés. Au dessus de la moyenne.
 Les graphismes ont été conçus avec beaucoup de détails. Nous avons également aimé les effets.
 Les graphismes sont non seulement jolis, mais aussi variés.
 L'expérience de jeu est joliment présentée. Le gameplay et les graphismes s'harmonisent très bien.
-[FIN]
+[END]
 
 [SOUND_80]
 La musique et le son sont convaincants et réalistes avec une bonne qualité. Je l'aime.
@@ -658,7 +658,7 @@ Acoustiquement, le jeu est très bon, mais pas parfait.
 Le son du jeu a répondu à mes attentes.
 Des bandes sonores bien composées et de superbes effets sonores se démarquent positivement.
 Les effets sonores sonnent bien, mais malheureusement, il n'y a que quelques morceaux de musique.
-[FIN]
+[END]
 
 [CONTROL_80]
 Si vous recherchez un jeu avec des commandes simples, vous le trouverez dans ce titre.
@@ -675,7 +675,7 @@ Les commandes ne sont pas une révolution, mais elles montrent de petites améli
 J'ai été surpris par les commandes simples du jeu.
 Une fois que vous vous êtes familiarisé avec le jeu, les commandes sont faciles à utiliser.
 Vous ne pouvez pas vous plaindre des commandes du jeu. Bon travail!
-[FIN]
+[END]
 
 [TOTAL_80]
 Un bon jeu qui a longtemps retenu mon intérêt.
@@ -702,7 +702,7 @@ Pendant quelques heures, vous êtes transporté dans un monde de jeu merveilleux
 Même si cela ne suffit pas pour une meilleure note, je voulais un jeu comme celui-ci depuis longtemps.
 Un conseil d'initié pour tous les fans du genre, qui ne devrait bientôt plus rester aussi secret.
 À mon avis, il devrait y avoir plus de titres comme celui-ci.
-[FIN]
+[END]
 
 [GAMEPLAY_90]
 Je dois admettre que le gameplay est vraiment impressionnant. Très divertissant!
@@ -722,7 +722,7 @@ En raison de l'intrigue passionnante, le temps passe vite. Je me suis amusé de 
 Un gameplay simple mais très motivant. Félicitations aux développeurs!
 L'équilibre du jeu est particulièrement bien fait. Un modèle pour tous les jeux de ce genre!
 Le gameplay motivant et l'histoire bien écrite m'ont surpris de manière positive.
-[FIN]
+[END]
 
 [GRAPHIC_90]
 Les graphismes fantaisie et variés sont un véritable accroche-regard!
@@ -736,7 +736,7 @@ Techniquement, les graphismes sont très impressionnants. Il n'y a pas grand-cho
 Si j'étais un jeu, j'aimerais ressembler à ça. Grands graphismes!
 Graphiquement, le jeu établit de nouvelles normes. J'ai particulièrement aimé le monde du jeu détaillé.
 Une grande conception artistique et des effets techniquement impressionnants ont étonné toute l'équipe éditoriale.
-[FIN]
+[END]
 
 [SOUND_90]
 Les effets sonores magnifiquement numérisés sont parmi les meilleurs de ce système de jeu.
@@ -749,7 +749,7 @@ Le jeu a une bande-son électronique fantastique avec des effets sonores techniq
 J'ai été vraiment impressionné par les effets sonores explosifs. Félicitations aux spécialistes du son!
 La bande originale du jeu est exceptionnelle et les effets sonores sont de très haute qualité.
 La bande-son atmosphérique et minimaliste s'adapte parfaitement au jeu.
-[FIN]
+[END]
 
 [CONTROL_90]
 Un système de contrôle vraiment bien pensé et simple vous permet de plonger immédiatement dans le gameplay.
@@ -761,7 +761,7 @@ Le jeu montre comment un système de contrôle doit fonctionner aujourd'hui.
 Les commandes étaient parfaitement adaptées au gameplay. Tout est juste ici!
 J'ai beaucoup aimé les commandes du jeu. Beaucoup a été fait ici pour que le joueur puisse commencer tout de suite.
 Les contrôles sont super! Je n'aurais pas pensé que les commandes pouvaient être aussi innovantes.
-[FIN]
+[END]
 
 [TOTAL_90]
 Le jeu est un must absolu pour les fans de genre! Haut!
@@ -786,7 +786,7 @@ Ce jeu est si bon que je crains que de nombreux mauvais clones n'apparaissent da
 Un grand jeu avec des défis variés. Non seulement les fans de genre s'amuseront avec ce jeu.
 Ce jeu est sûr d'être un gros vendeur!
 Mon avis: ce jeu est un excellent cadeau d'anniversaire pour tout joueur!
-[FIN]
+[END]
 
 [GAMEPLAY_100]
 Le gameplay brillant est amusant du début à la fin.
@@ -801,7 +801,7 @@ Le gameplay m'a époustouflé. Les nombreuses nouvelles idées sont très amusan
 L'intrigue est particulièrement impressionnante. Il est difficile de croire que c'est un jeu vidéo.
 Vous ne pouvez pas croire les mécaniques de jeu ingénieuses si vous ne les avez pas expérimentées vous-même.
 Dieu est un concepteur de jeux - et a conçu ce jeu. Parfait!
-[FIN]
+[END]
 
 [GRAPHIC_100]
 Les graphismes techniquement parfaits du jeu établissent de nouvelles normes sur ce système de jeu.
@@ -821,7 +821,7 @@ Visuellement, le jeu semble avoir été développé pour un système de nouvelle
 Ce graphique est meilleur que la réalité! Exceptionnel!
 Personne n'aurait pensé que de tels graphiques sont possibles sur ce système. Phénoménal!
 Je suis sûr que les graphiques enfreignent certaines lois de la nature. Absolument parfait!
-[FIN]
+[END]
 
 [SOUND_100]
 Des effets sonores impressionnants et de la bonne musique accompagnent le gameplay.
@@ -837,7 +837,7 @@ Je n'ai jamais été aussi époustouflé par la musique d'un jeu. C'est une pure
 Les excellents effets sonores sont particulièrement remarquables. Plus n'est pas possible sur ce système!
 Même la puce sonore est honorée de pouvoir produire ces sons. Brillant!
 Les effets sonores sont géniaux! Ce sera le nouveau standard de l'industrie du jeu!
-[FIN]
+[END]
 
 [CONTROL_100]
 Les commandes sont vraiment exceptionnelles! Vous pouvez commencer tout de suite.
@@ -854,7 +854,7 @@ J'ai été très positivement surpris par les commandes du jeu. Digne d'un prix!
 À propos des commandes: même avec deux mains gauches, vous ne perdrez jamais le contrôle du jeu.
 Toute l'équipe éditoriale a été surprise de la perfection des commandes.
 Je ne peux dire qu'une chose à propos des commandes: parfait!
-[FIN]
+[END]
 
 [TOTAL_100]
 Le jeu est l'un des plus impressionnants que j'ai vu ces derniers temps. Génial!
@@ -878,4 +878,4 @@ Seulement trois mots: ACHETEZ! ACHETER!!! ACHETER!!!
 Mon avis: arrêtez de lire cette critique et achetez le jeu!
 Ce jeu est un chef-d'œuvre! Je suis absolument ravi!
 Ce jeu met tous les autres jeux dans l'ombre. Un vrai chef d'oeuvre!
-[FIN]
+[END]
