@@ -321,8 +321,8 @@ Suite
 Remasterisé
 Voulez-vous développer un nouveau jeu ou une suite / remaster d'un ancien jeu?
 Jeu standard
-Massivement multijoueur en ligne
-Libre de jouer
+MMORPG
+Free to Play
 Type de jeu
 Veuillez sélectionner le type de jeu. Pour les jeux MMO et F2P, la fonction "Multijoueur en ligne" est requise.
 Taille du jeu
