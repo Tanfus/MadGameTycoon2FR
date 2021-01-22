@@ -1,14 +1,14 @@
-﻿USA
-Japan
-Great Britain
-China
-South Korea
-Germany
+USA
+Japon
+Grande Bretagne
+Chine
+Corée du Sud
+Allemagne
 France
 Canada
-Russia
-Spain
-Italy
-Poland
-Sweden
-Australia
+Russie
+Espagne
+Italie
+Pologne
+Suède
+Australie
