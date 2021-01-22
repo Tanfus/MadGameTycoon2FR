@@ -339,7 +339,7 @@ Enfants
 Adolescents
 Adultes
 Seniors
-Tout
+Tout Public
 Veuillez choisir le groupe cible de votre jeu.
 Genre principal
 Sous-genre
