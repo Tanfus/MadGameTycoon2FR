@@ -299,7 +299,7 @@ Licences achetées
 Licence de film
 Licence de livre
 Licence sportive
-Cette licence peut être utilisée pour les jeux <NOMBRE>.
+Cette licence peut être utilisée pour les jeux <NUM>.
 Popularité
 La liste est vide!
 Type de licence
@@ -608,21 +608,21 @@ Supprimer le travail
 Travaux commandés terminés: <NAME><br>Paiement: <NUM>
 Vous devez payer une pénalité contractuelle de <color=red><NUM></color>.
 Semaines: <NUM>
-Échec des travaux de commande: <NAME> <br> Pénalité contractuelle: <NUM>
+Échec des travaux de commande: <NAME><br>Pénalité contractuelle: <NUM>
 Sélectionnez le jeu
 Jeux disponibles
 Hype qui est créé au début du développement.
 A partir de quel jeu une suite doit-elle être développée?
-<b> Sequel </b> <br> Les suites de jeux bénéficient du succès de leurs prédécesseurs. <br> Au début du développement, le battage médiatique est généré, <br> et il y a un bonus sur les chiffres de vente.
-<b> Remaster </b> <br> Les coûts de développement des remasters sont réduits de 50%. <br> Seuls les jeux peuvent être remasterisés, <br> qui ont déjà été retirés du marché.
-<b> Nouveau jeu </b> <br> Lorsque vous créez un nouveau jeu, <br> vous pouvez par la suite développer un remaster ou une suite.
+<b>Suite</b><br>Les suites de jeux bénéficient du succès de leurs prédécesseurs. <br>Au début du développement, le battage médiatique est généré, <br>et il y a un bonus sur les chiffres de vente.
+<b>Remaster</b><br>Les coûts de développement des remasters sont réduits de 50%. <br>Seuls les jeux peuvent être remasterisés, <br>qui ont déjà été retirés du marché.
+<b>Nouveau jeu</b><br>Lorsque vous créez un nouveau jeu, <br>vous pouvez par la suite développer un remaster ou une suite.
 Ce nom de jeu existe déjà!
 Quel jeu souhaitez-vous remasteriser? Seuls les jeux qui ont déjà été retirés du marché peuvent être sélectionnés.
 Remasterisé
 Or
 Rechargé
 De luxe
-<color=noir>(<NUM>)</color>
+<color=black>(<NUM>)</color>
 Plate-forme
 Note minimale pour le paiement du bonus: <b><NUM>%</b>
 Prime
@@ -637,7 +637,7 @@ Vous ne pouvez remplacer que les plates-formes déjà retirées du marché.
 Frais de portage supplémentaires
 Pour les jeux sous contrat, vous n'êtes pas autorisé à changer de plateforme!
 Vous devez annuler la tâche en cours pour cette salle!
-<b> Nombre de travaux sous contrat </b> <br> <br>
+<b>Nombre de travaux sous contrat </b><br><br>
 Nombre de jeux contractuels
 Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br> <br> <color=blue> Cliquez pour sélectionner l'employé </color>
 Mises à jour et modules complémentaires
@@ -773,7 +773,7 @@ Le pire jeu de l'année
 Records d'or
 Malade
 <b> Miracle médical </b> <br> Les employés dotés d'un système immunitaire fort ne tombent jamais malades.
-Utilisation par mois: <NOMBRE>
+Utilisation par mois: <NUM>
 Nouveau jeu
 Chargement du jeu
 Options
@@ -840,7 +840,7 @@ Aucun événement aléatoire
 Plus la vitesse du jeu est basse, plus les tâches <br> que vos employés peuvent accomplir en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
 Pour un démarrage rapide du jeu, <br> vous pouvez augmenter l'année de départ.
-Une mise à jour pour <NOM> a été annulée <br> car le jeu a été retiré du marché.
+Une mise à jour pour <NAME> a été annulée <br> car le jeu a été retiré du marché.
 <b> Inuits </b> <br> Les employés ayant cette caractéristique ne gèlent jamais.
 <b> Modeste </b> <br> Les employés modestes n’ont pas besoin de matériel de bureau de haute qualité.
 <b> Fer </b> <br> Ces employés ne vont pas aux toilettes pendant les heures de travail.
@@ -907,7 +907,7 @@ Jeu rétro
 Les jeux rétro ne peuvent être lancés que sur des plateformes qui ont déjà été retirées du marché!
 Il n'est pas possible de changer les plateformes dans un jeu rétro!
 Rétro
-Un nouveau jeu exclusif pour <NOM> nous est parvenu. Voyons si cela vaut la peine d'être acheté. <br>
+Un nouveau jeu exclusif pour <NAME> nous est parvenu. Voyons si cela vaut la peine d'être acheté. <br>
 Spécial rétro! Les propriétaires de <NAME> peuvent s'attendre à un nouveau jeu. Nous vérifions si la joie est justifiée. <br>
 Quel jeu doit être vérifié et corrigé?
 L'amélioration du jeu a déjà été exécutée
@@ -1048,10 +1048,10 @@ Terminé [Polissage]
 Terminer le développement
 <NUM> mois
 Voulez-vous vraiment signer un contrat d'exclusivité avec <NAME>?
-Vous avez déjà un contrat exclusif avec <NOM>! Le terme restant est de <NUM> mois.
-Le produit est devenu <NOM> un contrat exclusif! Le terme restant est de <NUM> mois.
+Vous avez déjà un contrat exclusif avec <NAME>! Le terme restant est de <NUM> mois.
+Le produit est devenu <NAME> un contrat exclusif! Le terme restant est de <NUM> mois.
 Remettez <color=blue><NAME> </color>
-Le contrat exclusif avec <NOM> a expiré. Vous pouvez à nouveau distribuer vos jeux vous-même ou trouver un nouvel éditeur.
+Le contrat exclusif avec <NAME> a expiré. Vous pouvez à nouveau distribuer vos jeux vous-même ou trouver un nouvel éditeur.
 <b> Leadership </b> <br> Les employés ayant de solides compétences en leadership donnent un bonus s’ils sont déployés en tant que développeur principal.
 <b> Polyvalent </b> <br> La limite des capacités secondaires est augmentée.
 Vous n'avez pas encore sélectionné tous les avantages!
@@ -1168,7 +1168,7 @@ Une étude de marché a montré que la plate-forme <color=blue><NAME> </color> s
 Rapport final de <color=blue><NAME> </color>
 Le groupe cible est le moins intéressé par la plateforme <color=blue><NAME> </color>.
 L'étude de marché a montré que les joueurs <color=blue><NUM1> </color> préfèrent une <color=blue> version commerciale </color> et <color=blue><NUM2> </color> une <color=blue> version numérique </color>.
-Nous avons pu voir que les acheteurs <color=blue><NUM1> </color> sont intéressés par une <color=blue> Deluxe Edition </color> et <color=blue><NUM2> </color> dans une <color=bleu> Édition Collectors </color>.
+Nous avons pu voir que les acheteurs <color=blue><NUM1> </color> sont intéressés par une <color=blue> Deluxe Edition </color> et <color=blue><NUM2> </color> dans une <color=blue> Édition Collectors </color>.
 La tendance suivante avec une probabilité de <color=blue> 80% </color> est <color=blue><NAME1> </color> et <color=blue><NAME2> </color>.
 Bientôt impopulaires avec <color=blue> 80% </color> probabilité sont <color=blue><NAME1> </color> et <color=blue><NAME2> </color>.
 Vous pouvez effectuer des études de marché dans le service marketing.
@@ -1257,7 +1257,7 @@ Nouvelle série de quêtes principale
 <b> MMO d'options spéciales </b> <br> ▪ Création d'un module complémentaire MMO
 <b> Options spéciales pour les F2P </b> <br> ▪ Les F2P ne sont pas encore disponibles
 Vous devez choisir au moins 3 nouveaux contenus pour le MMO-Addon!
-Le développement de l'addon MMO <NOM> a été annulé, <br> parce que le jeu principal a été retiré du marché.
+Le développement de l'addon MMO <NAME> a été annulé, <br> parce que le jeu principal a été retiré du marché.
 Les serveurs surchauffent! <br> <color=red> -50% de performances </color>
 La plateforme est prête pour Internet
 Si vous souhaitez développer un MMO ou un jeu F2P, toutes les plateformes doivent être compatibles avec Internet!
