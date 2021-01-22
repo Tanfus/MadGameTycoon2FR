@@ -105,9 +105,9 @@ Pompiers
 Trains
 Forces spéciales
 Druides
-Des fruits
+Fruits
 Chimie
-La physique
+Physique
 Puzzles
 Poissons
 Hélicoptères
@@ -115,23 +115,23 @@ Rêves
 Mecha
 Jouets
 Cyborgs
-Des pierres
-bac à sable
+Pierres (?)
+Bac à sable
 Cuisine
 Singes
-Les chevaux
-Vélo
+Chevaux
+Cyclisme
 Châteaux
 Stations spatiales
 Casinos
-îles
+Îles
 Chats
 Chiens
 Mouton
 Chèvres
 Lapins
 Bunker
-les diables
+Diables
 Radioactivité
 Politique
 Barbares
@@ -139,9 +139,9 @@ Vacances
 Écureuils
 Reporters
 Âge de glace
-Les révolutions
+Révolutions
 Enfer
-ange
+Ange
 Bonbons
 Chasseur de primes
 Chasseurs de trésors
@@ -151,12 +151,12 @@ Grenouilles
 Sous-marins
 Karaté
 Sorcières
-la criminalité
+Criminalité
 Sports extrêmes
 Paintball
 Planètes
 Évolution
-La comédie
+Comédie
 Survie
 Médecins
 Aptitude
@@ -167,7 +167,7 @@ Entreprises
 Lutte
 Poulpes
 Éducation
-Anime
+Manga
 Crocodiles
 Cinéma
 Télévision
@@ -175,203 +175,15 @@ Spectacle de quiz
 Religion
 Tennis
 Basketball
-Stars du rock
-Cabines
+Rock'n'Roll
+Taxi
 Champignons
-Base-ball
-football américain
+Baseball
+Football américain
 Hockey sur glace
 Criquet
-Le rugby
-Le golf
-Des oiseaux
-zoo
-Far WestAnimaux domestiques
-Les pirates
-Hôpital
-Arts martiaux
-Âge de pierre
-Moyen Âge
-Cyberpunk
-Conquête
-Voleurs
-Industrialisation
-Tueur à gages
-Super héros
-Mafia
-Steampunk
-Mode
-Films
-La musique
-Creusement
-La colonisation
-Guerres mondiales
-Vie courante
-Orcs
-Samouraï
-Mercenaire
-Assistants
-Vikings
-Les dragons
-Prison
-Des fantômes
-Chevaliers
-Transport
-Romains
-Horreur
-Virus
-Le piratage
-Économie
-Détectives
-OVNIS
-Loups-garous
-Chasse
-En chantant
-Dansant
-Espionnage
-Des sports
-Avions
-Ninjas
-réservoirs
-Fantaisie
-Extraterrestres
-Des robots
-Des gamins
-École
-Donjons
-Vaisseaux spatiaux
-Gangsters
-Militaire
-Espace
-Villes
-Vampires
-Des morts-vivants
-Développement de jeu
-Police
-Sports mécaniques
-Football
-Boxe
-Heure de fin
-Dessin
-Voitures
-Navires
-Elfes
-Parc d'attractions
-Pince
-Science
-Blocs de construction
-Démons
-Agents
-Assassins
-Portails
-Vers
-Dieux
-Fées
-Trolls
-Squelettes
-Art
-Jeux d'argent
-Érotique
-Trésors
-Les plantes
-Mathématiques
-Agriculture
-Cowboys
-Voyage dans le temps
-Dinosaures
-Mondes parallèles
-Éléments
-Le cyberespace
-Nourriture
-Nains
-Camions
-motocyclettes
-Sortir ensemble
-Plongée
-Conspirations
-Pompiers
-Les trains
-Forces spéciales
-Druides
-Des fruits
-Chimie
-La physique
-Puzzles
-Des poissons
-Hélicoptères
-Rêves
-Mecha
-Jouets
-Cyborgs
-Des pierres
-bac à sable
-Cuisine
-Singes
-Les chevaux
-Vélo
-Châteaux
-Stations spatiales
-Casinos
-îles
-Chats
-Chiens
-Mouton
-Chèvres
-Lapins
-Bunker
-les diables
-Radioactivité
-Politique
-Barbares
-Vacances
-Écureuils
-Reporters
-Âge de glace
-Les révolutions
-Enfer
-ange
-Bonbons
-Chasseur de primes
-Chasseurs de trésors
-Insectes
-Prédateurs
-Grenouilles
-Sous-marins
-Karaté
-Sorcières
-la criminalité
-Sports extrêmes
-Paintball
-Planètes
-Évolution
-La comédie
-Survie
-Médecins
-Aptitude
-Monstre
-Historique
-Animaux
-Entreprises
-Lutte
-Poulpes
-Éducation
-Anime
-Crocodiles
-Cinéma
-Télévision
-Spectacle de quiz
-Religion
-Tennis
-Basketball
-Stars du rock
-Cabines
-Champignons
-Base-ball
-football américain
-Hockey sur glace
-Criquet
-Le rugby
-Le golf
-Des oiseaux
-zoo
+Rugby
+Golf
+Oiseaux
+Zoo
 Far West
