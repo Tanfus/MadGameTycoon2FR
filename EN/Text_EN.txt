@@ -1,4 +1,4 @@
-<b> Construire des salles </b> <br> Ici, vous pouvez créer des salles.
+<b>Construire des salles</b><br> Ici, vous pouvez créer des salles.
 -
 -
 -
@@ -6,7 +6,7 @@ Niveau technologique
 Expérience
 Coûts de développement
 $
-À mesure que le niveau d'expérience augmente, les coûts de développement diminuent. <br> De plus, le gameplay, les graphismes, la technologie et les points sonores augmentent.
+À mesure que le niveau d'expérience augmente, les coûts de développement diminuent. <br>De plus, le gameplay, les graphismes, la technologie et les points sonores augmentent.
 Graphique
 Son
 Intelligence artificielle
@@ -32,41 +32,41 @@ Salon
 Salle d'entrainement
 Production
 Salle des serveurs
-Dans le <color=blue> développement </color>, vous pouvez développer des jeux et des moteurs.
+Dans le <color=blue>développement</color>, vous pouvez développer des jeux et des moteurs.
 Dans cette salle, vous pouvez développer de nouvelles technologies.
-Avec l '<color=blue> assurance qualité </color>, vous pouvez améliorer <br> le gameplay de vos jeux et éliminer efficacement les bogues.
-<color=blue> Studios graphiques </color> créent des graphismes professionnels pour vos jeux.
-Avec un <color=blue> Sound Studio </color>, vous pouvez créer des sons de haute qualité pour vos jeux.
-Dans le <color=blue> service Marketing </color>, vous pouvez faire la publicité de vos jeux.
-Le <color=blue> service d'assistance </color> est nécessaire pour soutenir vos fans.
-Le <color=blue> développement de la console </color> n'est pas encore disponible.
-Dans la <color=blue> salle de stockage </color>, vos jeux produits sont stockés.
-Le <color=blue> Motion Capture Studio </color> est nécessaire pour enregistrer des animations professionnelles.
-Les <color=blue> Toilettes </color> devraient être disponibles partout.
-Dans le <color=blue> Lounge </color>, vos employés <br> peuvent se détendre et se motiver.
-La <color=blue> Salle de formation </color> est <br> idéale pour former vos employés.
+Avec l '<color=blue>assurance qualité</color>, vous pouvez améliorer <br> le gameplay de vos jeux et éliminer efficacement les bogues.
+<color=blue>Studios graphiques</color> créent des graphismes professionnels pour vos jeux.
+Avec un <color=blue>Sound Studio</color>, vous pouvez créer des sons de haute qualité pour vos jeux.
+Dans le <color=blue>service Marketing</color>, vous pouvez faire la publicité de vos jeux.
+Le <color=blue>service d'assistance</color> est nécessaire pour soutenir vos fans.
+Le <color=blue>développement de la console</color> n'est pas encore disponible.
+Dans la <color=blue>salle de stockage</color>, vos jeux produits sont stockés.
+Le <color=blue>Motion Capture Studio</color> est nécessaire pour enregistrer des animations professionnelles.
+Les <color=blue>Toilettes</color> devraient être disponibles partout.
+Dans le <color=blue>Lounge</color>, vos employés <br> peuvent se détendre et se motiver.
+La <color=blue>Salle de formation</color> est <br> idéale pour former vos employés.
 Dans cette salle, vous pouvez produire vos jeux.
-La <color=blue> Salle des serveurs </color> est nécessaire si vous souhaitez développer des jeux MMO.
+La <color=blue>Salle des serveurs</color> est nécessaire si vous souhaitez développer des jeux MMO.
 *
 *
-Vous pouvez rechercher l'assurance qualité sous la rubrique <color=blue> "Divers" </color>.
-Vous pouvez rechercher un studio graphique sous la rubrique <color=blue> "Divers" </color>.
-Vous pouvez rechercher un studio de son sous la rubrique <color=blue> "Divers" </color>.
-Vous pouvez rechercher le département marketing sous la rubrique <color=blue> "Divers" </color>.
-Vous pouvez rechercher la section de support sous l'en-tête <color=blue> "Divers" </color>.
+Vous pouvez rechercher l'assurance qualité sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher un studio graphique sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher un studio de son sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher le département marketing sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher la section de support sous l'en-tête <color=blue>"Divers"</color>.
 Le développement de la console ne peut pas encore être déverrouillé.
-La salle de stockage sera déverrouillée lorsque vous aurez recherché la <color=blue> production </color>.
-Cela sera déverrouillé en <color=blue> novembre 1993 </color>.
+La salle de stockage sera déverrouillée lorsque vous aurez recherché la <color=blue>production</color>.
+Cela sera déverrouillé en <color=blue>Novembre 1993</color>.
 *
 *
-Vous pouvez rechercher une salle de formation sous la rubrique <color=blue> "Divers" </color>.
-Vous pouvez rechercher la production sous la rubrique <color=blue> "Divers" </color>.
-Sera déverrouillé si vous avez recherché <color=blue> Multijoueur en ligne </color>.
+Vous pouvez rechercher une salle de formation sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher la production sous la rubrique <color=blue>"Divers"</color>.
+Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</color>.
 Disposition
-<b> Conception de la pièce </b> <br> Vous pouvez appuyer sur la <color=blue> touche Maj gauche </color> <br> pour supprimer la pièce.
-<b> Supprimer la pièce </b> <br> Vous pouvez également appuyer sur la <color=blue> touche Maj gauche </color> <br> pour supprimer la pièce.
-<b> Placer la porte </b> <br> La porte doit être reliée au couloir. <br> Avec la <color=blue> touche DEL </color>, vous pouvez retirer la porte.
-<b> Placement des fenêtres </b> <br> Maintenez la <color=blue> touche Maj gauche </color> <br> enfoncée pour supprimer des fenêtres.
+<b>Conception de la pièce</b><br> Vous pouvez appuyer sur la <color=blue>touche Maj gauche </color><br> pour supprimer la pièce.
+<b>Supprimer la pièce</b><br> Vous pouvez également appuyer sur la <color=blue>touche Maj gauche </color><br> pour supprimer la pièce.
+<b>Placer la porte</b><br> La porte doit être reliée au couloir. <br> Avec la <color=blue>touche DEL</color>, vous pouvez retirer la porte.
+<b>Placement des fenêtres</b><br> Maintenez la <color=blue>touche Maj gauche</color><br> enfoncée pour supprimer des fenêtres.
 J'accepte
 Prix au mètre carré
 Mètres carrés
@@ -75,7 +75,7 @@ m2
 Technique
 ▪ La taille minimale de <NUM> doit être remplie.
 ▪ Une porte est manquante.
-<b> Acheter des objets </b> <br> Ici, vous pouvez acheter des objets pour vos pièces.
+<b>Acheter des objets </b><br> Ici, vous pouvez acheter des objets pour vos pièces.
 Acheter des articles
 Faire pivoter l'objet
 Placer l'objet
@@ -86,10 +86,10 @@ Déplacer l'objet
 Vendre l'article
 Licencier un employé
 Raccourci:
-Prix ​​de vente
-<b> Gestion </b> <br> Vous trouverez ici toutes les fonctions nécessaires au fonctionnement de votre entreprise.
-<b> Statistiques </b> <br> Ici vous pouvez voir toutes les statistiques sur les finances, les jeux ou les plateformes.
-<b> Employés </b> <br> Ici, vous pouvez ajouter de nouveaux employés et gérer des groupes.
+Prix de vente
+<b>Gestion</b><br> Vous trouverez ici toutes les fonctions nécessaires au fonctionnement de votre entreprise.
+<b>Statistiques</b><br> Ici vous pouvez voir toutes les statistiques sur les finances, les jeux ou les plateformes.
+<b>Employés</b><br> Ici, vous pouvez ajouter de nouveaux employés et gérer des groupes.
 Couloir
 Cela vous permet de désactiver la levée des employés.
 Cela vous permet de désactiver la levée d'objets.
@@ -106,7 +106,7 @@ S
 Mettre le jeu en pause
 Vitesse normale
 Haute vitesse
-<b> Achetez des articles pour cette salle </b>
+<b>Achetez des articles pour cette salle</b>
 Motivation
 AUCUN
 AUCUN
@@ -114,7 +114,7 @@ AUCUN
 Description de l'emplacement de stockage
 Description du serveur
 Description de la machine
-Gardez toujours vos bureaux propres! <br> En raison de la forte pollution, vos employés peuvent démissionner <br> et plus aucun employé ne postulera dans votre entreprise.
+Gardez toujours vos bureaux propres!<br> En raison de la forte pollution, vos employés peuvent démissionner<br> et plus aucun employé ne postulera dans votre entreprise.
 Employés
 Abandonner les employés
 Le design du jeu
@@ -127,14 +127,14 @@ Matériel et ingénierie
 Recherche
 Un salaire
 Licencier des employés
-<b> Concepteur vedette </b> <br> Les concepteurs vedettes créent un battage publicitaire pour les jeux sur lesquels ils travaillent.
-<b> Inépuisable </b> <br> Les employés inépuisables n'ont pas besoin de pauses.
-<b> Sans erreur </b> <br> Les employés sans erreur ne créent jamais de bogues.
-<b> Loyal </b> <br> Les employés fidèles ne quitteront jamais.
-<b> Talentueux </b> <br> Les employés talentueux apprennent plus vite.
-<b> Chance </b> <br> Les résultats de travail critiques sont beaucoup plus fréquents.
-<b> Sportif </b> <br> La vitesse de déplacement est augmentée.
-<b> Ordonné </b> <br> Les employés ordinaires ne font pas de saleté ni d'ordures.
+<b>Concepteur vedette </b><br> Les concepteurs vedettes créent un battage publicitaire pour les jeux sur lesquels ils travaillent.
+<b>Inépuisable </b><br> Les employés inépuisables n'ont pas besoin de pauses.
+<b>Sans erreur </b><br> Les employés sans erreur ne créent jamais de bogues.
+<b>Loyal </b><br> Les employés fidèles ne quitteront jamais.
+<b>Talentueux </b><br> Les employés talentueux apprennent plus vite.
+<b>Chance </b><br> Les résultats de travail critiques sont beaucoup plus fréquents.
+<b>Sportif </b><br> La vitesse de déplacement est augmentée.
+<b>Ordonné </b><br> Les employés ordinaires ne font pas de saleté ni d'ordures.
 Designer de jeu
 Programmeur
 Artiste graphique
@@ -151,7 +151,7 @@ Refonte de la salle
 Démolir la pièce
 Veuillez saisir le nom de la chambre
 Annuler
-Voulez-vous vraiment démolir la pièce? <br> En vendant l'inventaire, vous obtenez <color=green><NUM> </color>.
+Voulez-vous vraiment démolir la pièce?<br> En vendant l'inventaire, vous obtenez <color=green><NUM></color>.
 Recherche
 Tout rechercher automatiquement
 <NUM> Points de recherche
@@ -177,10 +177,10 @@ RAM
 Tour
 Moniteur
 Étui de poche
-Pour déplacer la tâche, cliquez sur une pièce du même type avec le <color=blue> bouton gauche de la souris </color>.
+Pour déplacer la tâche, cliquez sur une pièce du même type avec le <color=blue>bouton gauche de la souris</color>.
 Retirer
 Retirer la porte
-<b> Motivation </b> <br> Les employés non motivés travaillent plus lentement.
+<b>Motivation</b><br> Les employés non motivés travaillent plus lentement.
 Nom
 <NUM> Employés
 Licencier des employés
@@ -363,9 +363,9 @@ Plateforme 2
 Plateforme 3
 Plateforme 4
 Jeu exclusif
-▪ Les jeux exclusifs ne peuvent être publiés que sur une seule plateforme. <br> Grâce à l'exclusivité, les chiffres de vente de la plateforme peuvent augmenter.
+▪ Les jeux exclusifs ne peuvent être publiés que sur une seule plateforme.<br>Grâce à l'exclusivité, les chiffres de vente de la plateforme peuvent augmenter.
 Part de marché totale:
-Sera débloqué si l'un de vos jeux obtient une note globale <br> d'au moins <color=blue>70%</color>.
+Sera débloqué si l'un de vos jeux obtient une note globale<br> d'au moins <color=blue>70%</color>.
 Sera déverrouillé en <color=blue>Avril 1986</color>.
 Moteur
 Plateformes
@@ -639,7 +639,7 @@ Pour les jeux sous contrat, vous n'êtes pas autorisé à changer de plateforme!
 Vous devez annuler la tâche en cours pour cette salle!
 <b>Nombre de travaux sous contrat </b><br><br>
 Nombre de jeux contractuels
-Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br> <br> <color=blue> Cliquez pour sélectionner l'employé </color>
+Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br><br><color=blue>Cliquez pour sélectionner l'employé</color>
 Mises à jour et modules complémentaires
 Quel type de mise à jour ou d'addon souhaitez-vous développer?
 Mise à jour gratuite
@@ -666,7 +666,7 @@ Quel concept de jeu aimeriez-vous voir?
 Copier le concept de jeu
 Paramètres de base
 Le moteur sélectionné a un niveau de technologie trop bas!
-Lettres de fans pour <b><NAME> </b>
+Lettres de fans pour <b><NAME></b>
 Statistiques
 Graphiques
 Finances
