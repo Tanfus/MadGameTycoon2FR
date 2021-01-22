@@ -1,377 +1,189 @@
-Animaux domestiques
-Les pirates
-Hôpital
-Arts martiaux
-Âge de pierre
-Moyen Âge
+Pets
+Pirates
+Hospital
+Martial arts
+Stone Age
+Middle Ages
 Cyberpunk
-Conquête
-Voleurs
-Industrialisation
-Tueur à gages
-Super héros
+Conquest
+Thieves
+Industrialization
+Contract killer
+Superheroes
 Mafia
 Steampunk
-Mode
-Films
-La musique
-Creusement
-La colonisation
-Guerres mondiales
-Vie courante
+Fashion
+Movies
+Music
+Digging
+Colonization
+World Wars
+Everyday life
 Orcs
-Samouraï
-Mercenaire
-Assistants
+Samurai
+Mercenary
+Wizards
 Vikings
-Les dragons
+Dragons
 Prison
-Des fantômes
-Chevaliers
-Transport
-Romains
-Horreur
-Virus
-Le piratage
-Économie
-Détectives
-OVNIS
-Loups-garous
-Chasse
-En chantant
-Dansant
-Espionnage
-Des sports
-Avions
+Ghosts
+Knights
+Transportation
+Romans
+Horror
+Viruses
+Hacking
+Economy
+Detectives
+UFOs
+Werewolves
+Hunting
+Singing
+Dancing
+Espionage
+Sports
+Airplanes
 Ninjas
-réservoirs
-Fantaisie
-Extraterrestres
-Des robots
-Des gamins
-École
-Donjons
-Vaisseaux spatiaux
+Tanks
+Fantasy
+Aliens
+Robots
+Kids
+School
+Dungeons
+Spaceships
 Gangsters
-Militaire
-Espace
-Villes
+Military
+Space
+Cities
 Vampires
-Des morts-vivants
-Développement de jeu
+Zombies
+Game development
 Police
-Sports mécaniques
-Football
-Boxe
-Heure de fin
-Dessin
-Voitures
-Navires
-Elfes
-Parc d'attractions
-Pince
+Motorsports
+Soccer
+Boxing
+End Time
+Drawing
+Cars
+Ships
+Elves
+Theme Parks
+Clampner
 Science
-Blocs de construction
-Démons
+Building blocks
+Demons
 Agents
 Assassins
-Portails
-Vers
-Dieux
-Fées
+Portals
+Worms
+Gods
+Fairies
 Trolls
-Squelettes
+Skeletons
 Art
-Jeux d'argent
-Érotique
-Trésors
-Les plantes
-Mathématiques
+Gambling
+Erotica
+Treasures
+Plants
+Mathematics
 Agriculture
 Cowboys
-Voyage dans le temps
-Dinosaures
-Mondes parallèles
-Éléments
-Le cyberespace
-Nourriture
-Nains
-Camions
-motocyclettes
-Sortir ensemble
-Plongée
-Conspirations
-Pompiers
-Les trains
-Forces spéciales
-Druides
-Des fruits
-Chimie
-La physique
+Time Travel
+Dinosaurs
+Parallel worlds
+Elements
+Cyberspace
+Food
+Dwarfs
+Trucks
+Motorcycles
+Dating
+Diving
+Conspiracies
+Fire Department
+Trains
+Special Forces
+Druids
+Fruits
+Chemistry
+Physics
 Puzzles
-Des poissons
-Hélicoptères
-Rêves
+Fishes
+Helicopters
+Dreams
 Mecha
-Jouets
+Toys
 Cyborgs
-Des pierres
-bac à sable
-Cuisine
-Singes
-Les chevaux
-Vélo
-Châteaux
-Stations spatiales
+Stones
+Sandbox
+Cooking
+Monkeys
+Horses
+Bicycle
+Castles
+Space stations
 Casinos
-îles
-Chats
-Chiens
-Mouton
-Chèvres
-Lapins
+Islands
+Cats
+Dogs
+Sheep
+Goats
+Rabbits
 Bunker
-les diables
-Radioactivité
-Politique
-Barbares
-Vacances
-Écureuils
+Devils
+Radioactivity
+Politics
+Barbarians
+Vacation
+Squirrels
 Reporters
-Âge de glace
-Les révolutions
-Enfer
-ange
-Bonbons
-Chasseur de primes
-Chasseurs de trésors
-Insectes
-Prédateurs
-Grenouilles
-Sous-marins
-Karaté
-Sorcières
-la criminalité
-Sports extrêmes
+Ice Age
+Revolutions
+Hell
+Angel
+Candy
+Bounty Hunter
+Treasure hunters
+Insects
+Predators
+Frogs
+Submarines
+Karate
+Witches
+Crime
+Extreme sports
 Paintball
-Planètes
-Évolution
-La comédie
-Survie
-Médecins
-Aptitude
-Monstre
-Historique
-Animaux
-Entreprises
-Lutte
-Poulpes
-Éducation
+Planets
+Evolution
+Comedy
+Survival
+Doctors
+Fitness
+Monster
+Historical
+Animals
+Companies
+Wrestling
+Octopuses
+Education
 Anime
 Crocodiles
-Cinéma
-Télévision
-Spectacle de quiz
+Cinema
+Television
+Quiz show
 Religion
 Tennis
 Basketball
-Stars du rock
-Cabines
-Champignons
-Base-ball
-football américain
-Hockey sur glace
-Criquet
-Le rugby
-Le golf
-Des oiseaux
-zoo
-Far WestAnimaux domestiques
-Les pirates
-Hôpital
-Arts martiaux
-Âge de pierre
-Moyen Âge
-Cyberpunk
-Conquête
-Voleurs
-Industrialisation
-Tueur à gages
-Super héros
-Mafia
-Steampunk
-Mode
-Films
-La musique
-Creusement
-La colonisation
-Guerres mondiales
-Vie courante
-Orcs
-Samouraï
-Mercenaire
-Assistants
-Vikings
-Les dragons
-Prison
-Des fantômes
-Chevaliers
-Transport
-Romains
-Horreur
-Virus
-Le piratage
-Économie
-Détectives
-OVNIS
-Loups-garous
-Chasse
-En chantant
-Dansant
-Espionnage
-Des sports
-Avions
-Ninjas
-réservoirs
-Fantaisie
-Extraterrestres
-Des robots
-Des gamins
-École
-Donjons
-Vaisseaux spatiaux
-Gangsters
-Militaire
-Espace
-Villes
-Vampires
-Des morts-vivants
-Développement de jeu
-Police
-Sports mécaniques
-Football
-Boxe
-Heure de fin
-Dessin
-Voitures
-Navires
-Elfes
-Parc d'attractions
-Pince
-Science
-Blocs de construction
-Démons
-Agents
-Assassins
-Portails
-Vers
-Dieux
-Fées
-Trolls
-Squelettes
-Art
-Jeux d'argent
-Érotique
-Trésors
-Les plantes
-Mathématiques
-Agriculture
-Cowboys
-Voyage dans le temps
-Dinosaures
-Mondes parallèles
-Éléments
-Le cyberespace
-Nourriture
-Nains
-Camions
-motocyclettes
-Sortir ensemble
-Plongée
-Conspirations
-Pompiers
-Les trains
-Forces spéciales
-Druides
-Des fruits
-Chimie
-La physique
-Puzzles
-Des poissons
-Hélicoptères
-Rêves
-Mecha
-Jouets
-Cyborgs
-Des pierres
-bac à sable
-Cuisine
-Singes
-Les chevaux
-Vélo
-Châteaux
-Stations spatiales
-Casinos
-îles
-Chats
-Chiens
-Mouton
-Chèvres
-Lapins
-Bunker
-les diables
-Radioactivité
-Politique
-Barbares
-Vacances
-Écureuils
-Reporters
-Âge de glace
-Les révolutions
-Enfer
-ange
-Bonbons
-Chasseur de primes
-Chasseurs de trésors
-Insectes
-Prédateurs
-Grenouilles
-Sous-marins
-Karaté
-Sorcières
-la criminalité
-Sports extrêmes
-Paintball
-Planètes
-Évolution
-La comédie
-Survie
-Médecins
-Aptitude
-Monstre
-Historique
-Animaux
-Entreprises
-Lutte
-Poulpes
-Éducation
-Anime
-Crocodiles
-Cinéma
-Télévision
-Spectacle de quiz
-Religion
-Tennis
-Basketball
-Stars du rock
-Cabines
-Champignons
-Base-ball
-football américain
-Hockey sur glace
-Criquet
-Le rugby
-Le golf
-Des oiseaux
-zoo
-Far West
+Rockstars
+Cabs
+Mushrooms
+Baseball
+American Football
+Ice Hockey
+Cricket
+Rugby
+Golf
+Birds
+Zoo
+Wild West
