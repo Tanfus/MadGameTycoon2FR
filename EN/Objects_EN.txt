@@ -97,3 +97,33 @@ Tapis III: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des b
 Tapis IV: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Tapis V; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Tapis VI: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Réfrigérateur; Idéal pour conserver les aliments périssables.
+TV; vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Télévision moderne; vos employés sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Radio; vos employés sont plus motivés quand<br>ils travaillent dans des bureaux bien équipés.
+Bureau II;Le lieu de travail du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III;Le lieu de travail du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV;Le lieu de travail du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V;Le lieu de travail du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Radio Moderne;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Petite armoire I;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Petite armoire II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Petite armoire III;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Bureau de formation II;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
+Bureau de formation III;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
+Bureau de formation IV;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
+Bureau de formation V;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
+Machine de production II; Avec cette machine, vous pouvez produire des jeux.
+Machine de production III; Avec cette machine, vous pouvez produire des jeux.
+Machine de production IV; Avec cette machine, vous pouvez produire des jeux.
+Machine de production V; Avec cette machine, vous pouvez produire des jeux.
+Bureau IV;Le lieu de travail pour le studio de son. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V;Le lieu de travail pour le studio de son. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau II;Le lieu de travail pour le studio de capture de mouvement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III;Le lieu de travail pour le studio de capture de mouvement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV;Le lieu de travail pour le studio de capture de mouvement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V;Le lieu de travail pour le studio de capture de mouvement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Serveur G-Electic; Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>200.000</color></b> Joueurs.
+Serveur de métriques;Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>300.000</color></b> Joueurs.
+Serveur DivoTech;Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>400.000</color></b> Joueurs.
+Serveur IBN;Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>500.000</color></b> Joueurs.
