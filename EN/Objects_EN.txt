@@ -47,3 +47,53 @@ Serveur Intex; Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur 
 Climatisation; Utile pour réguler la température dans les salles serveurs.
 Étagère robuste I; Vos jeux produits sont stockés ici.<br>Sur cet objet, vous pouvez stocker <b><color=blue>25.000</color></b> jeux.
 Bureau I; Le lieu de travail du département marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail..
+Lampe III; Vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Lieu de travail II; lieu de travail pour le développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III; Bureau de développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV; Bureau de développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V; Bureau de développement. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau de formation I; Cela permet aux employés d'être formés.<br>Plus la qualité est élevée,<br>meilleur est le résultat.
+Tableau blanc: vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Bureau II; Bureau de recherche. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau II; Le lieu de travail pour le service marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III; Le lieu de travail du service marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV; Le lieu de travail pour le service marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V; Le lieu de travail pour le service marketing. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau I; Le lieu de travail du service support. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau II; Le lieu de travail du service support. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III; Le lieu de travail du service support. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV; Le lieu de travail du service support. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V; Le lieu de travail du service support. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III; Bureau de recherche. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV; Bureau de recherche. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Lieu de travail V; lieu de travail pour la recherche.<br>Plus la qualité est élevée, meilleur est le résultat du travail.
+Fauteuil III - Rouge; Avec cet objet,<br>vos employés peuvent obtenir une nouvelle motivation.
+Fauteuil III - Vert; Avec cet objet,<br>vos employés peuvent obtenir une nouvelle motivation.
+Fauteuil III - Bleu; Avec cet objet,<br>vos employés peuvent obtenir une nouvelle motivation.
+Armoire à pharmacie; Cela permet aux employés malades de se soigner eux-mêmes.<br>Les employés malades travaillent plus lentement.
+Chauffage électrique; les employés qui gèlent deviennent insatisfaits plus rapidement.<br>Ce radiateur peut être placé sur n'importe quelle position.
+Lieu de travail I; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau I; Le lieu de travail du studio graphique. Plus la qualité est élevée, meilleur est le résultat du travail.
+Bureau I; Le lieu de travail pour le studio de son.<br>Plus la qualité est élevée, meilleur est le résultat du travail.
+Bureau I; Le lieu de travail du studio de capture de mouvement.<br>Plus la qualité est élevée, meilleur est le résultat du travail.
+Clavier; Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
+Etagère robuste II; Vos jeux produits sont stockés ici.<br>Sur cet objet,<br>vous pouvez stocker des jeux de <b><color=blue>50.000</color> </b>.
+Etagère robuste III; Vos jeux produits sont stockés ici.<br>Sur cet objet vous pouvez stocker des jeux <b><color=blue>100.000</color> </b>.
+Bureau II; Le lieu de travail du studio de son. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III; Le lieu de travail du studio de son. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Peinture animalière I; Vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Peinture animalière II; Vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Peinture animalière III; Vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Peinture animalière IV: Vos employés sont plus motivés <br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Peinture animalière V; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Bureau II; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau III; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau IV; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau V; Le lieu de travail pour l'assurance qualité. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Voiture de sport: vous devriez vendre votre ancienne voiture de sport pour gagner de l'argent.
+Tapis I; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Tapis II: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Tapis III: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Tapis IV: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Tapis V; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
+Tapis VI: Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
