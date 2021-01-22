@@ -1,1 +1,3 @@
-# MadGameTycoon2FR
+Bonjour, 
+
+voici une tradution Francaise basé sur la langue anglaise
