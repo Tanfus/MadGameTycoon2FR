@@ -32,41 +32,41 @@ Salon
 Salle d'entrainement
 Production
 Salle des serveurs
-Dans le <color = blue> développement </color>, vous pouvez développer des jeux et des moteurs.
+Dans le <color=blue> développement </color>, vous pouvez développer des jeux et des moteurs.
 Dans cette salle, vous pouvez développer de nouvelles technologies.
-Avec l '<color = blue> assurance qualité </color>, vous pouvez améliorer <br> le gameplay de vos jeux et éliminer efficacement les bogues.
-<color = blue> Studios graphiques> / color> créent des graphismes professionnels pour vos jeux.
-Avec un <color = blue> Sound Studio </color>, vous pouvez créer des sons de haute qualité pour vos jeux.
-Dans le <color = blue> service Marketing </color>, vous pouvez faire la publicité de vos jeux.
-Le <color = blue> service d'assistance </color> est nécessaire pour soutenir vos fans.
-Le <color = blue> développement de la console </color> n'est pas encore disponible.
-Dans la <color = blue> salle de stockage </color>, vos jeux produits sont stockés.
-Le <color = blue> Motion Capture Studio </color> est nécessaire pour enregistrer des animations professionnelles.
-Les <color = blue> Toilettes </color> devraient être disponibles partout.
-Dans le <color = blue> Lounge </color>, vos employés <br> peuvent se détendre et se motiver.
-La <color = blue> Salle de formation </color> est <br> idéale pour former vos employés.
+Avec l '<color=blue> assurance qualité </color>, vous pouvez améliorer <br> le gameplay de vos jeux et éliminer efficacement les bogues.
+<color=blue> Studios graphiques> / color> créent des graphismes professionnels pour vos jeux.
+Avec un <color=blue> Sound Studio </color>, vous pouvez créer des sons de haute qualité pour vos jeux.
+Dans le <color=blue> service Marketing </color>, vous pouvez faire la publicité de vos jeux.
+Le <color=blue> service d'assistance </color> est nécessaire pour soutenir vos fans.
+Le <color=blue> développement de la console </color> n'est pas encore disponible.
+Dans la <color=blue> salle de stockage </color>, vos jeux produits sont stockés.
+Le <color=blue> Motion Capture Studio </color> est nécessaire pour enregistrer des animations professionnelles.
+Les <color=blue> Toilettes </color> devraient être disponibles partout.
+Dans le <color=blue> Lounge </color>, vos employés <br> peuvent se détendre et se motiver.
+La <color=blue> Salle de formation </color> est <br> idéale pour former vos employés.
 Dans cette salle, vous pouvez produire vos jeux.
-La <color = blue> Salle des serveurs </color> est nécessaire si vous souhaitez développer des jeux MMO.
+La <color=blue> Salle des serveurs </color> est nécessaire si vous souhaitez développer des jeux MMO.
 *
 *
-Vous pouvez rechercher l'assurance qualité sous la rubrique <color = blue> "Divers" </color>.
-Vous pouvez rechercher un studio graphique sous la rubrique <color = blue> "Divers" </color>.
-Vous pouvez rechercher un studio de son sous la rubrique <color = blue> "Divers" </color>.
-Vous pouvez rechercher le département marketing sous la rubrique <color = blue> "Divers" </color>.
-Vous pouvez rechercher la section de support sous l'en-tête <color = blue> "Divers" </color>.
+Vous pouvez rechercher l'assurance qualité sous la rubrique <color=blue> "Divers" </color>.
+Vous pouvez rechercher un studio graphique sous la rubrique <color=blue> "Divers" </color>.
+Vous pouvez rechercher un studio de son sous la rubrique <color=blue> "Divers" </color>.
+Vous pouvez rechercher le département marketing sous la rubrique <color=blue> "Divers" </color>.
+Vous pouvez rechercher la section de support sous l'en-tête <color=blue> "Divers" </color>.
 Le développement de la console ne peut pas encore être déverrouillé.
-La salle de stockage sera déverrouillée lorsque vous aurez recherché la <color = blue> production </color>.
-Cela sera déverrouillé en <color = blue> novembre 1993 </color>.
+La salle de stockage sera déverrouillée lorsque vous aurez recherché la <color=blue> production </color>.
+Cela sera déverrouillé en <color=blue> novembre 1993 </color>.
 *
 *
-Vous pouvez rechercher une salle de formation sous la rubrique <color = blue> "Divers" </color>.
-Vous pouvez rechercher la production sous la rubrique <color = blue> "Divers" </color>.
-Sera déverrouillé si vous avez recherché <color = blue> Multijoueur en ligne </color>.
+Vous pouvez rechercher une salle de formation sous la rubrique <color=blue> "Divers" </color>.
+Vous pouvez rechercher la production sous la rubrique <color=blue> "Divers" </color>.
+Sera déverrouillé si vous avez recherché <color=blue> Multijoueur en ligne </color>.
 Disposition
-<b> Conception de la pièce </b> <br> Vous pouvez appuyer sur la <color = blue> touche Maj gauche </color> <br> pour supprimer la pièce.
-<b> Supprimer la pièce </b> <br> Vous pouvez également appuyer sur la <color = blue> touche Maj gauche </color> <br> pour supprimer la pièce.
-<b> Placer la porte </b> <br> La porte doit être reliée au couloir. <br> Avec la <color = blue> touche DEL </color>, vous pouvez retirer la porte.
-<b> Placement des fenêtres </b> <br> Maintenez la <color = blue> touche Maj gauche </color> <br> enfoncée pour supprimer des fenêtres.
+<b> Conception de la pièce </b> <br> Vous pouvez appuyer sur la <color=blue> touche Maj gauche </color> <br> pour supprimer la pièce.
+<b> Supprimer la pièce </b> <br> Vous pouvez également appuyer sur la <color=blue> touche Maj gauche </color> <br> pour supprimer la pièce.
+<b> Placer la porte </b> <br> La porte doit être reliée au couloir. <br> Avec la <color=blue> touche DEL </color>, vous pouvez retirer la porte.
+<b> Placement des fenêtres </b> <br> Maintenez la <color=blue> touche Maj gauche </color> <br> enfoncée pour supprimer des fenêtres.
 J'accepte
 Prix ​​au mètre carré
 Mètres carrés
@@ -177,7 +177,7 @@ RAM
 Cas
 Moniteur
 Étui de poche
-Pour déplacer la tâche, cliquez sur une pièce du même type avec le <color = blue> bouton gauche de la souris </color>.
+Pour déplacer la tâche, cliquez sur une pièce du même type avec le <color=blue> bouton gauche de la souris </color>.
 Retirer
 Retirer la porte
 <b> Motivation </b> <br> Les employés non motivés travaillent plus lentement.
@@ -246,16 +246,16 @@ Nom aléatoire
 Genre spécial
 Moteur d'offre à vendre
 Commencer le développement
-<color = red> ??? </color>
+<color=red> ??? </color>
 Tout activer / désactiver
 Remarque
 Vous devez choisir un genre spécial!
 Vous devez donner un nom au moteur!
 Vous devez ajouter au moins une nouvelle fonctionnalité du moteur!
-<color = black> Gameplay: <NUM> </color>
-<color = black> Graphique: <NUM> </color>
-<color = black> Son: <NUM> </color>
-<color = black> Technologie: <NUM> </color>
+<color=black> Gameplay: <NUM> </color>
+<color=black> Graphique: <NUM> </color>
+<color=black> Son: <NUM> </color>
+<color=black> Technologie: <NUM> </color>
 Propres moteurs
 Quel moteur souhaitez-vous mettre à jour?
 Partage des profits
@@ -344,12 +344,12 @@ Veuillez choisir le groupe cible de votre jeu.
 Genre principal
 Sous-genre
 Supprimer le genre
-Sera déverrouillé si vous avez recherché <color = blue> Multijoueur en ligne </color>.
-Sera déverrouillé si vous avez recherché <color = blue> Multijoueur en ligne </color>.
-Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color = blue> "Divers" </color>.
-Vous pouvez rechercher le sous-genre sous l'en-tête <color = blue> "Divers" </color>.
-Vous pouvez rechercher le sous-thème sous l'en-tête <color = blue> "Divers" </color>.
-Sera déverrouillé si vous avez <color = blue> $ 1.000.000 </color>.
+Sera déverrouillé si vous avez recherché <color=blue> Multijoueur en ligne </color>.
+Sera déverrouillé si vous avez recherché <color=blue> Multijoueur en ligne </color>.
+Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color=blue> "Divers" </color>.
+Vous pouvez rechercher le sous-genre sous l'en-tête <color=blue> "Divers" </color>.
+Vous pouvez rechercher le sous-thème sous l'en-tête <color=blue> "Divers" </color>.
+Sera déverrouillé si vous avez <color=blue> $ 1.000.000 </color>.
 Sujet principal
 Sous-thème
 Supprimer le sujet
@@ -365,13 +365,13 @@ Plateforme 4
 Jeu exclusif
 ▪ Les jeux exclusifs ne peuvent être publiés que sur une seule plateforme. <br> Grâce à l'exclusivité, les chiffres de vente de la plateforme peuvent augmenter.
 Part de marché totale:
-Sera débloqué si l'un de vos jeux obtient une note globale <br> d'au moins <color = blue> 70% </color>.
-Sera déverrouillé en <color = blue> avril 1986 </color>.
+Sera débloqué si l'un de vos jeux obtient une note globale <br> d'au moins <color=blue> 70% </color>.
+Sera déverrouillé en <color=blue> avril 1986 </color>.
 Moteur
 Plateformes
-Sera débloqué si vous avez publié au moins <color = blue> 5 jeux </color>.
-Sera débloqué si vous avez publié au moins <color = blue> 10 jeux </color>.
-Sera déverrouillé si vous avez publié au moins <color = blue> 15 jeux </color>.
+Sera débloqué si vous avez publié au moins <color=blue> 5 jeux </color>.
+Sera débloqué si vous avez publié au moins <color=blue> 10 jeux </color>.
+Sera déverrouillé si vous avez publié au moins <color=blue> 15 jeux </color>.
 Supprimer la plateforme
 Dev. frais
 Niveau technologique minimum
@@ -382,7 +382,7 @@ Les plates-formes suivantes ont été supprimées car elles ne disposent pas du 
 Protection contre la copie
 Supprimer la protection contre la copie
 Sans protection contre la copie
-Aucun <color = blue> logiciel de protection contre la copie </color> n’a encore été publié.
+Aucun <color=blue> logiciel de protection contre la copie </color> n’a encore été publié.
 Priorité de conception
 Priorité de travail
 Langues
@@ -396,7 +396,7 @@ Profondeur de jeu
 Convient aux débutants
 Joueurs de base
 Joueur occasionnel
-Pour chaque langue, il y a des frais de traduction de <color = red> 5 000 $ </color>.
+Pour chaque langue, il y a des frais de traduction de <color=red> 5 000 $ </color>.
 Activer / désactiver toutes les langues
 La priorité de travail ne doit pas être supérieure à 100%!
 Un genre principal doit être sélectionné!
@@ -416,7 +416,7 @@ Frais de recherche
 Points de recherche
 La priorité de travail est inférieure à 100%!
 Jeu terminé
-Le travail le plus nécessaire sur ce jeu est terminé et il est <color = blue> prêt pour la sortie </color>. Si vous le souhaitez, vous pouvez continuer à travailler sur le jeu et apporter des améliorations. Cependant, dans la <color = blue> phase de polissage </color>, les résultats du travail sont réduits et les bogues ne sont que lentement supprimés.
+Le travail le plus nécessaire sur ce jeu est terminé et il est <color=blue> prêt pour la sortie </color>. Si vous le souhaitez, vous pouvez continuer à travailler sur le jeu et apporter des améliorations. Cependant, dans la <color=blue> phase de polissage </color>, les résultats du travail sont réduits et les bogues ne sont que lentement supprimés.
 Nouvel enregistrement!
 Rechercher un éditeur
 Autodistribution
@@ -471,7 +471,7 @@ Info-bulle: Grafik 5
 Info-bulle: Grafik 6
 MoCap [Animations du lecteur]
 MoCap [animations PNJ]
-Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color = blue> bouton gauche de la souris </color>.
+Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue> bouton gauche de la souris </color>.
 Soutien
 Annuler l'assistance
 Attendez ...
@@ -523,8 +523,8 @@ Annonces Internet
 Top streamer
 la télé
 Hype maximum qui peut être généré avec cette campagne.
-Sera déverrouillé en <color = blue> février 2005 </color>.
-Sera déverrouillé en <color = blue> mars 1993 </color>.
+Sera déverrouillé en <color=blue> février 2005 </color>.
+Sera déverrouillé en <color=blue> mars 1993 </color>.
 Débloqué
 En développement
 Campagne marketing pour <NAME1> terminée
@@ -532,7 +532,7 @@ Coûts de production
 Coûts du serveur
 Qualité
 Bonus sur les résultats du travail: <NUM>%
-Sera déverrouillé si vous avez recherché <color = blue> une fonction du moteur </color>.
+Sera déverrouillé si vous avez recherché <color=blue> une fonction du moteur </color>.
 Est disponible à partir de l'année <NOMBRE>
 Commencer la formation
 Cours de formation
@@ -561,9 +561,9 @@ Recherche pour les débutants
 Recherche avancée
 Recherche pour les professionnels
 Niveau maximum: <color=blue><NUM> </color>
-Efficacité: <color = blue> Faible </color>
-Efficacité: <color = blue> Medium </color>
-Efficacité: <color = blue> High </color>
+Efficacité: <color=blue> Faible </color>
+Efficacité: <color=blue> Medium </color>
+Efficacité: <color=blue> High </color>
 Cours de formation "<NAME>" terminé
 Voulez-vous vraiment jeter ce produit? Ce processus est irréversible!
 Êtes-vous sûr de vouloir annuler la tâche en cours?
@@ -622,7 +622,7 @@ Remasterisé
 Or
 Rechargé
 De luxe
-<color = noir> (<NUM>) </color>
+<color=noir> (<NUM>) </color>
 Plate-forme
 Note minimale pour le paiement du bonus: <b> <NUM>% </b>
 Prime
@@ -639,7 +639,7 @@ Pour les jeux sous contrat, vous n'êtes pas autorisé à changer de plateforme!
 Vous devez annuler la tâche en cours pour cette salle!
 <b> Nombre de travaux sous contrat </b> <br> <br>
 Nombre de jeux contractuels
-Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br> <br> <color = blue> Cliquez pour sélectionner l'employé </color>
+Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br> <br> <color=blue> Cliquez pour sélectionner l'employé </color>
 Mises à jour et modules complémentaires
 Quel type de mise à jour ou d'addon souhaitez-vous développer?
 Mise à jour gratuite
@@ -809,7 +809,7 @@ Lentement
 Ordinaire
 Vite
 Très vite
-<b> Veuillez sélectionner l'emplacement de l'entreprise </b> <br> Chaque pays a un genre spécial, ce qui signifie un bonus de <color = blue> + 3% </color> sur les ventes.
+<b> Veuillez sélectionner l'emplacement de l'entreprise </b> <br> Chaque pays a un genre spécial, ce qui signifie un bonus de <color=blue> + 3% </color> sur les ventes.
 Genre spécial: <color=blue><TEXT> </color>
 Votre personnage ▪ PDG
 Vous devez entrer un nom d'entreprise pour votre studio!
@@ -836,7 +836,7 @@ Désactiver le didacticiel
 Popularité aléatoire de la plateforme
 Paramètres de concept de jeu aléatoires
 Aucun événement aléatoire
-<size = 20> Mad Games Tycoon 2 </size> <br> <br> Merci d'avoir acheté <color = blue> Mad Games Tycoon 2 </color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, toutes les traductions sont très défectueuses. <br> <br> Amusez-vous bien!
+<size=20> Mad Games Tycoon 2 </size> <br> <br> Merci d'avoir acheté <color=blue> Mad Games Tycoon 2 </color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, toutes les traductions sont très défectueuses. <br> <br> Amusez-vous bien!
 Plus la vitesse du jeu est basse, plus les tâches <br> que vos employés peuvent accomplir en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
 Pour un démarrage rapide du jeu, <br> vous pouvez augmenter l'année de départ.
@@ -936,7 +936,7 @@ Paramètres de conception parfaits
 Le licenciement des employés peut provoquer une mauvaise humeur chez tous vos employés!
 mauvaise humeur
 Le licenciement d'un employé a provoqué une mauvaise humeur. Vos employés ont maintenant peur pour leur travail et la motivation a diminué.
-Souhaitez-vous participer à la <color = blue> Mad Games Convention </color> cette année?
+Souhaitez-vous participer à la <color=blue> Mad Games Convention </color> cette année?
 Veuillez sélectionner la taille de votre stand. Plus le stand est grand, plus vous pouvez présenter de produits. De plus, les grands stands attirent davantage l'attention.
 Petit stand
 Stand du milieu
@@ -945,11 +945,11 @@ Consoles de jeux
 Ne participez pas
 Convention de Mad Games
 Taille du stand
-Quels produits aimeriez-vous exposer à la <color = blue> Mad Games Convention </color>?
+Quels produits aimeriez-vous exposer à la <color=blue> Mad Games Convention </color>?
 Sélectionnez le jeu
 Sélectionnez la console
 Retirer le produit
-Vous devez choisir au moins un produit qui sera exposé à la <color = blue> Mad Games Convention </color>!
+Vous devez choisir au moins un produit qui sera exposé à la <color=blue> Mad Games Convention </color>!
 Nombre de visiteurs de votre stand
 Cette année, jusqu'à <color=blue><NUM> </color> visiteurs sont attendus.
 L'organisateur rapporte que les billets <color=blue><NUM> </color> pour le salon ont été vendus.
@@ -991,7 +991,7 @@ Concepteur principal
 Classe d'âge
 <color=blue><NAME> </color> a reçu la classification d'âge suivante du MGSR:
 Employés disponibles
-▪ Le concepteur principal doit avoir un niveau élevé de connaissances en <color = blue> game design </color>. <br> Tous les employés travaillant sur ce jeu recevront un bonus, <br> en fonction de cette valeur. <br> < br> ▪ Le concepteur principal doit être dans cette salle.
+▪ Le concepteur principal doit avoir un niveau élevé de connaissances en <color=blue> game design </color>. <br> Tous les employés travaillant sur ce jeu recevront un bonus, <br> en fonction de cette valeur. <br> < br> ▪ Le concepteur principal doit être dans cette salle.
 Nommer en tant que concepteur principal
 Progrès du développement
 Paramètres des employés
@@ -1015,7 +1015,7 @@ Moins il y a de pauses, <br> plus la motivation diminue rapidement.
 Une pression de travail élevée accélère le travail de vos employés. <br> Cependant, la qualité de leur travail en souffre.
 Ici, vous pouvez définir le niveau de motivation <br> de vos employés à utiliser le salon.
 Cela vous permet de déterminer à quel stade de développement commence le temps de crise. <br> Dans le Crunchtime, tous les besoins de vos employés sont ignorés. <br> <br> Mais attention! En période de crise, les employés ont tendance à démissionner.
-La profession décide quelle capacité peut être entraînée à <color = blue> 100 </color>. <br> Toutes les autres capacités ont une limite de <color = blue> 50 </color>.
+La profession décide quelle capacité peut être entraînée à <color=blue> 100 </color>. <br> Toutes les autres capacités ont une limite de <color=blue> 50 </color>.
 Profession
 Fonctionnalités de jeu requises
 Les plates-formes sélectionnées nécessitent les fonctionnalités de jeu suivantes:
@@ -1078,14 +1078,14 @@ Vos programmeurs ont de la chance. Certains rapports de bogue se sont avérés e
 Un de vos graphistes a continué à travailler sur le jeu actuel pendant son temps libre. En conséquence, de nombreux graphiques inférieurs ont été améliorés.
 L'un de vos spécialistes du son a trouvé un morceau de musique ancien qu'il a créé dans sa bibliothèque. Cette piste correspond extraordinairement bien au jeu actuel.
 Vos programmeurs ont reçu le dernier SDK et l'ont mis à jour immédiatement. Ainsi, certains problèmes techniques pourraient être résolus.
-<b> Crash du jeu vidéo <br> <color = blue> -50% de jeux vendus </color> </b> <br> <br> Le marché des jeux vidéo s'est effondré. <br> Au cours des prochains mois, les chiffres des ventes pour tous les jeux diminuera fortement. <br> Espérons que le marché se stabilisera bientôt.
-<b> Boom des jeux vidéo <br> <color = blue> + 50% de jeux vendus </color> </b> <br> <br> L'industrie des jeux vidéo connaît une forte reprise. <br> Dans les mois à venir , tous les jeux se vendront nettement mieux.
-<b> Stagnation des commandes <br> <color = blue> aucune nouvelle commande </color> </b> <br> <br> Une baisse globale des commandes a éclaté. <br> Aucune nouvelle offre d'emploi ne vous sera proposée dans le futur proche.
-<b> Pénurie de main-d'œuvre <br> <color = blue> aucune nouvelle demande d'employé </color> </b> <br> <br> L'industrie informatique se plaint d'une grave pénurie d'employés. <br> Aucun employé ne postulera à vous dans un proche avenir.
-<b> Crise bancaire <br> <color = blue> + 200% d'intérêt </color> </b> <br> <br> Une crise bancaire mondiale a éclaté. <br> Toutes les banques exigent désormais des taux d'intérêt nettement plus élevés pour les prêts.
-<b> Era of Legends <br> <color = blue> + 200% de chances que les légendes s'appliquent </color> </b> <br> <br> De nombreux employés expérimentés recherchent un nouvel emploi. <br> Dans le les mois à venir, d'autres légendes du développement de jeux s'appliqueront à vous.
-<b> Boom immobilier <br> <color = blue> + 100% des prix de l'immobilier </color> </b> <br> <br> Un boom immobilier mondial a considérablement augmenté les prix d'achat des biens immobiliers. <br > Même pour les bâtiments à démolir, des sommes énormes sont demandées.
-<b> Pandémie <br> <color = blue> + 300% de chances que les employés tombent malades </color> </b> <br> <br> Une pandémie mondiale de grippe frappe le monde du travail de manière inattendue. <br> Heureusement, l'évolution de la maladie est bénigne, mais la performance au travail diminue néanmoins sensiblement.
+<b> Crash du jeu vidéo <br> <color=blue> -50% de jeux vendus </color> </b> <br> <br> Le marché des jeux vidéo s'est effondré. <br> Au cours des prochains mois, les chiffres des ventes pour tous les jeux diminuera fortement. <br> Espérons que le marché se stabilisera bientôt.
+<b> Boom des jeux vidéo <br> <color=blue> + 50% de jeux vendus </color> </b> <br> <br> L'industrie des jeux vidéo connaît une forte reprise. <br> Dans les mois à venir , tous les jeux se vendront nettement mieux.
+<b> Stagnation des commandes <br> <color=blue> aucune nouvelle commande </color> </b> <br> <br> Une baisse globale des commandes a éclaté. <br> Aucune nouvelle offre d'emploi ne vous sera proposée dans le futur proche.
+<b> Pénurie de main-d'œuvre <br> <color=blue> aucune nouvelle demande d'employé </color> </b> <br> <br> L'industrie informatique se plaint d'une grave pénurie d'employés. <br> Aucun employé ne postulera à vous dans un proche avenir.
+<b> Crise bancaire <br> <color=blue> + 200% d'intérêt </color> </b> <br> <br> Une crise bancaire mondiale a éclaté. <br> Toutes les banques exigent désormais des taux d'intérêt nettement plus élevés pour les prêts.
+<b> Era of Legends <br> <color=blue> + 200% de chances que les légendes s'appliquent </color> </b> <br> <br> De nombreux employés expérimentés recherchent un nouvel emploi. <br> Dans le les mois à venir, d'autres légendes du développement de jeux s'appliqueront à vous.
+<b> Boom immobilier <br> <color=blue> + 100% des prix de l'immobilier </color> </b> <br> <br> Un boom immobilier mondial a considérablement augmenté les prix d'achat des biens immobiliers. <br > Même pour les bâtiments à démolir, des sommes énormes sont demandées.
+<b> Pandémie <br> <color=blue> + 300% de chances que les employés tombent malades </color> </b> <br> <br> Une pandémie mondiale de grippe frappe le monde du travail de manière inattendue. <br> Heureusement, l'évolution de la maladie est bénigne, mais la performance au travail diminue néanmoins sensiblement.
 -
 -
 Manuel du jeu n / b
@@ -1108,7 +1108,7 @@ Contenu de l'édition
 Offre édition à vendre
 Coûts de base
 Les meilleures éditions obtiennent automatiquement le contenu des petites éditions.
-Sera déverrouillé en <color = blue> février 2003 </color>.
+Sera déverrouillé en <color=blue> février 2003 </color>.
 Prix ​​en détail
 Prod. frais
 Offre Édition Standard
@@ -1148,7 +1148,7 @@ Vendre des actions
 Il n'y a pas d'espace de stockage disponible.
 Vendre le stock entier
 Voulez-vous vraiment vendre le stock complet? Un distributeur de jeux à petit budget vous a fait une offre.
-Quel jeu souhaitez-vous republier en tant que <color = blue> budgetgame </color>? Seuls les jeux qui ne sont pas disponibles depuis au moins <color = blue> un an </color> peuvent être sélectionnés.
+Quel jeu souhaitez-vous republier en tant que <color=blue> budgetgame </color>? Seuls les jeux qui ne sont pas disponibles depuis au moins <color=blue> un an </color> peuvent être sélectionnés.
 <color=blue><NUM> </color> semaines à disponible
 Semaines à disponible
 Sous quelle étiquette souhaitez-vous publier la version budgétaire?
@@ -1156,21 +1156,21 @@ Classique
 argent
 Meilleur choix
 Platine
-<color = blue> Réédition possible </color>
+<color=blue> Réédition possible </color>
 Vous ne pouvez pas choisir de contenu pour les jeux à petit budget!
 Les fans sont divisés en fonction de leur genre préféré.
 Étude de marché
 Nombre total de fans
 Réaliser une nouvelle étude de marché
-Aucune étude de marché n'a encore été menée. Lancez une étude de marché pour savoir quel <color = blue> genre </color> sera bientôt à la mode ou quelle <color = blue> plateforme </color> le groupe cible s'intéresse.
+Aucune étude de marché n'a encore été menée. Lancez une étude de marché pour savoir quel <color=blue> genre </color> sera bientôt à la mode ou quelle <color=blue> plateforme </color> le groupe cible s'intéresse.
 Etude de marché terminée
 Une étude de marché a montré que la plate-forme <color=blue><NAME> </color> se vendra le plus.
 Rapport final de <color=blue><NAME> </color>
 Le groupe cible est le moins intéressé par la plateforme <color=blue><NAME> </color>.
-L'étude de marché a montré que les joueurs <color=blue><NUM1> </color> préfèrent une <color = blue> version commerciale </color> et <color=blue><NUM2> </color> une <color = blue> version numérique </color>.
-Nous avons pu voir que les acheteurs <color=blue><NUM1> </color> sont intéressés par une <color = blue> Deluxe Edition </color> et <color=blue><NUM2> </color> dans une <color = bleu> Édition Collectors </color>.
-La tendance suivante avec une probabilité de <color = blue> 80% </color> est <color=blue><NAME1> </color> et <color=blue><NAME2> </color>.
-Bientôt impopulaires avec <color = blue> 80% </color> probabilité sont <color=blue><NAME1> </color> et <color=blue><NAME2> </color>.
+L'étude de marché a montré que les joueurs <color=blue><NUM1> </color> préfèrent une <color=blue> version commerciale </color> et <color=blue><NUM2> </color> une <color=blue> version numérique </color>.
+Nous avons pu voir que les acheteurs <color=blue><NUM1> </color> sont intéressés par une <color=blue> Deluxe Edition </color> et <color=blue><NUM2> </color> dans une <color=bleu> Édition Collectors </color>.
+La tendance suivante avec une probabilité de <color=blue> 80% </color> est <color=blue><NAME1> </color> et <color=blue><NAME2> </color>.
+Bientôt impopulaires avec <color=blue> 80% </color> probabilité sont <color=blue><NAME1> </color> et <color=blue><NAME2> </color>.
 Vous pouvez effectuer des études de marché dans le service marketing.
 Si vous souhaitez vendre votre moteur, vous devez définir le prix de vente ou les frais de licence.
 Désactiver le son de l'icône de travail
@@ -1183,14 +1183,14 @@ Articles puissants
 Personnages de jeu spéciaux
 Instances et territoires
 Financement
-Nécessite la fonctionnalité de jeu <color = orange> Achats intégrés </color> <br> Cette fonctionnalité n'a pas encore été ajoutée!
+Nécessite la fonctionnalité de jeu <color=orange> Achats intégrés </color> <br> Cette fonctionnalité n'a pas encore été ajoutée!
 Coûts de base
 La technologie
 Contenu et fonctionnalités
 Coûts totaux
 Frais et licences
 Les coupes budgétaires peuvent avoir un effet <br> négatif sur la qualité du jeu.
-Le financement ne peut pas être réduit pour les <color = orange> jeux contractuels </color>.
+Le financement ne peut pas être réduit pour les <color=orange> jeux contractuels </color>.
 Malheureusement, le jeu montre que le budget a été réduit à certains endroits.
 [Le niveau de technologie du moteur est trop élevé]
 Vos fans attendent déjà avec impatience la suite de <NAME>. Vous avez reçu un bonus hype.
@@ -1204,7 +1204,7 @@ Objets de niveau IV
 Objets de niveau V
 <b> Complexité </b> <br> Plus il est difficile de développer sur une plateforme, <br> plus il faut de temps pour développer le jeu.
 Le mode multijoueur est encore à ses débuts. Certaines fonctions importantes manquent et la connexion peut être interrompue.
-Aucun <color = blue> logiciel anti-triche </color> n'a encore été publié.
+Aucun <color=blue> logiciel anti-triche </color> n'a encore été publié.
 <b> L'anti-triche a été débloqué </b> <br> Afin de lutter contre le nombre croissant de pirates dans nos produits de jeux en ligne, un logiciel anti-triche professionnel a été publié aujourd'hui. Vous pouvez maintenant ajouter un logiciel anti-triche à vos jeux.
 Logiciel anti-triche à acheter
 Logiciel anti-triche acheté
@@ -1233,7 +1233,7 @@ Convertir MMO en F2P
 Allumer / éteindre le serveur
 Afficher / masquer les murs
 Si vous souhaitez héberger un jeu, vous devez ouvrir le port 7777.
-Si vous souhaitez développer un jeu <color = blue> MMO ou F2P </color>, vous devez ajouter la fonction de jeu <color = blue> Multijoueur en ligne </color>.
+Si vous souhaitez développer un jeu <color=blue> MMO ou F2P </color>, vous devez ajouter la fonction de jeu <color=blue> Multijoueur en ligne </color>.
 Abonnements
 Veuillez définir le prix de l'abonnement mensuel.
 Revenu total
@@ -1258,7 +1258,7 @@ Nouvelle série de quêtes principale
 <b> Options spéciales pour les F2P </b> <br> ▪ Les F2P ne sont pas encore disponibles
 Vous devez choisir au moins 3 nouveaux contenus pour le MMO-Addon!
 Le développement de l'addon MMO <NOM> a été annulé, <br> parce que le jeu principal a été retiré du marché.
-Les serveurs surchauffent! <br> <color = red> -50% de performances </color>
+Les serveurs surchauffent! <br> <color=red> -50% de performances </color>
 La plateforme est prête pour Internet
 Si vous souhaitez développer un MMO ou un jeu F2P, toutes les plateformes doivent être compatibles avec Internet!
 Didacticiel
@@ -1266,10 +1266,10 @@ Prochain
 Retour
 Mettre en pause automatiquement
 Le jeu s'arrête automatiquement lorsqu'un joueur ouvre un menu.
-<color = green> >> A acheté une nouvelle propriété << </color>
-<color = green> >> Sortie du jeu '<NAME>' << </color>
-<color = green> >> Sortie du moteur '<NAME>' << </color>
-La banque vous a informé que votre compte d'entreprise avait un solde négatif depuis plusieurs mois. Un délai de <color = blue> 12 mois </color> vous sera accordé pour effacer le solde de votre compte. Sinon, l '<color = blue> insolvabilité </color> menace.
+<color=green> >> A acheté une nouvelle propriété << </color>
+<color=green> >> Sortie du jeu '<NAME>' << </color>
+<color=green> >> Sortie du moteur '<NAME>' << </color>
+La banque vous a informé que votre compte d'entreprise avait un solde négatif depuis plusieurs mois. Un délai de <color=blue> 12 mois </color> vous sera accordé pour effacer le solde de votre compte. Sinon, l '<color=blue> insolvabilité </color> menace.
 Attention
 Nombre de mois avant que votre compte ne soit équilibré.
 Jeu terminé
