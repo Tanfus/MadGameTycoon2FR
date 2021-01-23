@@ -1,4 +1,4 @@
-﻿[ID]0
+[ID]0
 [TYP]4
 [NAME EN]Fonction Pause
 [NAME GE]Pause Funktion
@@ -120,7 +120,7 @@
 
 [ID]6
 [TYP]4
-[NAME EN]Quêtes Secondaire
+[NAME EN]Quêtes Secondaires
 [NAME GE]Sidequests
 [NAME CH]支线任务
 [NAME TU]Yan Görevler
@@ -240,7 +240,7 @@
 
 [ID]12
 [TYP]4
-[NAME EN]Quêtes Rejouable
+[NAME EN]Quêtes Rejouables
 [NAME GE]Wiederholbare Quests
 [NAME CH]重新开始任务
 [NAME TU]Tekrarlanabilir Görevler
