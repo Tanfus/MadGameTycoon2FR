@@ -157,7 +157,7 @@ Tout rechercher automatiquement
 <NUM> Points de recherche
 Poursuivre la recherche
 Genres
-Les sujets
+Les Thèmes
 Caractéristiques du moteur
 Fonctionnalités de jeu
 Matériel
@@ -350,9 +350,9 @@ Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color=blue>"
 Vous pouvez rechercher le sous-genre sous l'en-tête <color=blue>"Divers"</color>.
 Vous pouvez rechercher le sous-thème sous l'en-tête <color=blue>"Divers"</color>.
 Sera déverrouillé si vous avez <color=blue>$1.000.000</color>.
-Sujet principal
-Sous-thème
-Supprimer le sujet
+Thème principal
+Thème Secondaire
+Supprimer le Thème
 Alphabet
 Licence
 Supprimer la licence
@@ -427,7 +427,7 @@ Programmation terminée
 Nouvelle légende du développeur de jeux
 Sur le marché du travail, <NAME> est disponible.
 L'expérience avec les genres affecte le gameplay.
-L'expérience des sujets affecte le gameplay.
+L'expérience des Thèmes affecte le gameplay.
 L'expérience avec les plates-formes a un impact sur les graphismes, le son et la technologie.
 Nouveau concurrent
 Éditeur
@@ -439,10 +439,10 @@ Fanbase
 Oui
 Expérience acquise
 Aucune expérience acquise
-Aperçu, combien de jeux sont actuellement disponibles, qui ont également le genre <color=blue><GENRE></color> ou le sujet <color=blue><THEME></color>.
+Aperçu, combien de jeux sont actuellement disponibles, qui ont également le genre <color=blue><GENRE></color> ou le Thème <color=blue><THEME></color>.
 Analyse de marché
 Total [Genre]
-Total [Sujet]
+Total [Thème]
 Sur la plate-forme [Genre]
 Sur la plate-forme [Topic]
 Rapport de développement
@@ -463,12 +463,12 @@ Info-bulle: Son 3
 Info-bulle: Son 4
 Info-bulle: Son 5
 Info-bulle: Son 6
-Info-bulle: Grafik 1
-Info-bulle: Grafik 2
-Info-bulle: Grafik 3
-Info-bulle: Grafik 4
-Info-bulle: Grafik 5
-Info-bulle: Grafik 6
+Info-bulle: Graphique 1
+Info-bulle: Graphique 2
+Info-bulle: Graphique 3
+Info-bulle: Graphique 4
+Info-bulle: Graphique 5
+Info-bulle: Graphique 6
 MoCap [Animations du lecteur]
 MoCap [animations PNJ]
 Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
@@ -477,8 +477,8 @@ Annuler l'assistance
 Attendez ...
 <b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous serez offert d'emplois. <br> De plus, le paiement est plus élevé.
 Motivation moyenne de vos collaborateurs
-Le genre <color=green><NAME1></color> et le sujet <color=green><NAME2></color> sont actuellement à la mode.
-Le genre <color=red><NAME1></color> et le sujet <color=red><NAME2></color> sont actuellement impopulaires.
+Le genre <color=green><NAME1></color> et le Thème <color=green><NAME2></color> sont actuellement à la mode.
+Le genre <color=red><NAME1></color> et le Thème <color=red><NAME2></color> sont actuellement impopulaires.
 Cette tendance se poursuivra pendant <color=blue><TIME></color> semaines.
 Nouvelle tendance
 La semaine
@@ -593,10 +593,10 @@ Contrôle qualité [performances]
 Contrôle qualité [interface utilisateur]
 Contrôle qualité [mécanique du jeu]
 Contrôle qualité [conception de niveau]
-Travaux commandés
+Contrats
 Quel type de commande souhaitez-vous faire?
 Mission courte
-Jeu de contrat
+Contrat de Jeu
 Traitez tous les travaux automatiquement
 Paiement
 Pénalité contractuelle
@@ -605,10 +605,10 @@ Charge de travail
 Client
 Date limite: <b><NUM> semaines</b>
 Supprimer le travail
-Travaux commandés terminés: <NAME><br>Paiement: <NUM>
+Contrats terminés: <NAME><br>Paiement: <NUM>
 Vous devez payer une pénalité contractuelle de <color=red><NUM></color>.
 Semaines: <NUM>
-Échec des travaux de commande: <NAME><br>Pénalité contractuelle: <NUM>
+Échec des Contrats: <NAME><br>Pénalité contractuelle: <NUM>
 Sélectionnez le jeu
 Jeux disponibles
 Hype qui est créé au début du développement.
@@ -627,7 +627,7 @@ Plate-forme
 Note minimale pour le paiement du bonus: <b><NUM>%</b>
 Prime
 Remettez le jeu
-▪ Jeu de contrat ▪ <br> Les travaux les plus nécessaires sur ce jeu sont terminés. Vous pouvez remettre le jeu à votre client ou y travailler davantage.
+▪ Contrat de Jeu ▪ <br> Les travaux les plus nécessaires sur ce jeu sont terminés. Vous pouvez remettre le jeu à votre client ou y travailler davantage.
 Le client vous a transféré un salaire de <color=blue><NUM1> </color>. Vous recevrez le paiement bonus de <color=blue><NUM2> </color> dès que le jeu sera terminé et que la presse aura évalué le jeu au moins <color=blue><NUM3> </color>.
 Vous ne pouvez pas accepter ce travail car vous ne disposez pas du kit de développement requis.
 Vous avez reçu la facture finale du jeu contractuel.
@@ -641,9 +641,9 @@ Vous devez annuler la tâche en cours pour cette salle!
 Nombre de jeux contractuels
 Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br><br><color=blue>Cliquez pour sélectionner l'employé</color>
 Mises à jour et DLC
-Quel type de mise à jour ou d'addon souhaitez-vous développer?
+Quel type de mise à jour ou de DLC souhaitez-vous développer?
 Mise à jour gratuite
-Addon payant
+DLC payant
 Module complémentaire MMO
 Veuillez sélectionner le contenu de la mise à jour gratuite.
 Pour quel jeu une mise à jour gratuite doit-elle être développée?
@@ -670,12 +670,12 @@ Lettres de fans pour <b><NAME></b>
 Statistiques
 Graphiques
 Finances
-Propres jeux
+Mes Jeux
 Infos et histoire
 Éditeur et développeur
 Propres consoles
 Moteurs
-Graphiques de tous les temps
+Hit Parade
 Graphiques hebdomadaires
 Graphiques de téléchargement F2P
 Graphiques d'abonnement aux MMO
@@ -713,14 +713,14 @@ Dépenses
 le revenu
 Revenus du jeu
 Licences de moteur
-Travaux commandés
+Contrats
 Jeux de contrat
 Prix
 L'année dernière
 Année actuelle
 An
 Evénements des dernières années
-Jeux actuellement disponibles avec le genre ou le sujet
+Jeux actuellement disponibles avec le genre ou le Thème
 Relevés mensuels
 Bénéfice total
 Hype par campagne / Hype maximum pouvant être généré avec cette campagne
@@ -775,7 +775,7 @@ Malade
 <b> Miracle médical </b><br> Les employés dotés d'un système immunitaire fort ne tombent jamais malades.
 Utilisation par mois: <NUM>
 Nouveau jeu
-Chargement du jeu
+Charger une Partie
 Options
 Crédits
 Fermer le jeu
@@ -929,8 +929,8 @@ Lorsque vous créez un rapport de vos jeux, vous pouvez vérifier les paramètre
 Créez automatiquement des rapports de jeu
 Rapport de jeu pour <NAME1> terminé
 Priorité aux revues de jeux
-Les sujets et le groupe cible correspondent-ils à <color=yellow><NAME> </color>?
-Aucun sous-thème
+Les Thèmes et le groupe cible correspondent-ils à <color=yellow><NAME> </color>?
+Aucun Thème Secondaire
 Sous-genres appropriés pour <color=yellow><NAME> </color>
 Paramètres de conception parfaits
 Le licenciement des employés peut provoquer une mauvaise humeur chez tous vos employés!
@@ -953,12 +953,12 @@ Vous devez choisir au moins un produit qui sera exposé à la <color=blue> Mad G
 Nombre de visiteurs de votre stand
 Cette année, jusqu'à <color=blue><NUM> </color> visiteurs sont attendus.
 L'organisateur rapporte que les billets <color=blue><NUM> </color> pour le salon ont été vendus.
-Pour quel jeu faut-il développer un AddOn payant?
-Nombre d'addons
-Nom de l'addon
-Jeux de budget les plus vendus
-Addons les plus vendus
-Meilleurs lots vendus
+Pour quel jeu faut-il développer un DLC payant?
+Nombre de DLC
+Nom du DLC
+Jeux Soldé les plus vendus
+DLC les plus vendus
+Meilleurs Bundles vendus
 Nouvelles fonctionnalités de jeu
 Contenu complémentaire
 Ajouter
@@ -970,21 +970,21 @@ Nouveaux personnages joueurs
 Nouveaux mécanismes de jeu
 Nouveau monde de jeu
 Nouvelle campagne
-L'addon n'a pas encore de nouveau contenu!
-Vous devez donner un nom à l'addon!
+Le DLC n'a pas encore de nouveau contenu!
+Vous devez donner un nom à au DLC!
 Trop de fonctionnalités de jeu ont été sélectionnées!
 Nombre de concurrents
 Développer du nouveau contenu
 Pack de jeux
 Jeu de budget
-Addon autonome
-▪ Les addons normaux nécessitent le jeu principal. <br> Ils augmentent les ventes du jeu principal, <br> mais ne peuvent pas dépasser les ventes du jeu principal. <br> <br> ▪ Les addons autonomes ne nécessitent pas le jeu principal mais une nouvelle campagne. <br> Les chiffres de vente du jeu principal ne sont pas affectés. <br> Mais les chiffres de vente peuvent être plus élevés que dans le jeu principal.
-Addon terminé
-Le travail le plus nécessaire sur cet addon est terminé. Si le jeu principal est distribué par un éditeur, vous êtes contractuellement tenu de faire distribuer l'addon par le même éditeur.
+Stand alone
+▪ Les DLC normaux nécessitent le jeu principal. <br> Ils augmentent les ventes du jeu principal, <br> mais ne peuvent pas dépasser les ventes du jeu principal. <br> <br> ▪ Les Stand-Alone ne nécessitent pas le jeu principal mais une nouvelle campagne. <br> Les chiffres de vente du jeu principal ne sont pas affectés. <br> Mais les chiffres de vente peuvent être plus élevés que dans le jeu principal.
+DLC terminé
+Le travail le plus nécessaire sur ce DLC est terminé. Si le jeu principal est distribué par un éditeur, vous êtes contractuellement tenu de faire distribuer le DLC par le même éditeur.
 Éditeurs intéressés
 Donner un complément à l'éditeur
 Jeu principal
-Et enfin les courtes critiques des derniers addons de vos jeux préférés. Comme d'habitude, nous vous montrons quel addon en vaut la peine!
+Et enfin les courtes critiques des derniers DLC de vos jeux préférés. Comme d'habitude, nous vous montrons quel DLC en vaut la peine!
 Estimation de l'âge
 Concepteur principal
 Évaluation du logiciel Mad Games
@@ -1224,7 +1224,7 @@ Le genre de spécialité et la plate-forme augmentent <br> les chances de résul
 Afficher les bulles
 Lorsque vous signez un contrat d'exclusivité avec un éditeur, vous êtes obligé de faire distribuer tous les jeux par cet éditeur.
 En attente du serveur ...
-Save Game n'existe pas!
+Cette sauvegarde n'existe pas!
 L'hôte veut sauvegarder la partie.
 Port: 7777
 Prix ​​de l'abonnement
@@ -1253,11 +1253,11 @@ Nouveaux ennemis
 Nouveaux personnages et classes de joueurs
 Nouveau monde de jeu et nouvelles instances
 Nouvelle série de quêtes principale
-<b> Options spéciales pour les jeux standard </b> <br> ▪ Création d'extensions et d'addons autonomes <br> ▪ Création d'un remasterisé <br> ▪ Sortie en tant que jeu à petit budget <br> ▪ Sortie en bundle
+<b> Options spéciales pour les jeux standard </b> <br> ▪ Création d'extensions et de Stand-Alone <br> ▪ Création d'un remasterisé <br> ▪ Sortie en tant que jeu à petit budget <br> ▪ Sortie en bundle
 <b> MMO d'options spéciales </b> <br> ▪ Création d'un module complémentaire MMO
 <b> Options spéciales pour les F2P </b> <br> ▪ Les F2P ne sont pas encore disponibles
-Vous devez choisir au moins 3 nouveaux contenus pour le MMO-Addon!
-Le développement de l'addon MMO <NAME> a été annulé, <br> parce que le jeu principal a été retiré du marché.
+Vous devez choisir au moins 3 nouveaux contenus pour le DLC du MMO!
+Le développement du DLC du MMO <NAME> a été annulé, <br> parce que le jeu principal a été retiré du marché.
 Les serveurs surchauffent! <br> <color=red> -50% de performances </color>
 La plateforme est prête pour Internet
 Si vous souhaitez développer un MMO ou un jeu F2P, toutes les plateformes doivent être compatibles avec Internet!
