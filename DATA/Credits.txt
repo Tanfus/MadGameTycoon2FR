@@ -1,0 +1,32 @@
+﻿<b><size=20>MAD GAMES TYCOON 2</size></b>
+Eggcode Games
+
+<b>DEVELOPMENT</b>
+Stefan Pohl
+
+<b>SOUNDS & MUSIC</b>
+Audiohub
+Unity Assets
+
+<b>ENGINE</b>
+Unity
+www.unity.com
+
+<b>ADDITIONAL GRAPHICS</b>
+openclipart.org
+
+<b>QUALITY ASSURANCE</b>
+Martin Barth
+Patrick Lehmann
+
+<b>TRANSLATION</b>
+Tanfus, fizzroks & Astata
+
+<b>SPECIAL THANKS</b>
+Michaela Tischmacher & Armida Accossu
+Tanja Westermann & Martina Barth
+Rene Otto & Hermann Sukkau
+Amy, Loki & Mailo
+
+www.eggcodegames.com
+©2020 Eggcode Games
