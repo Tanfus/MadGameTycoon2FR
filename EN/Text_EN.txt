@@ -117,29 +117,29 @@ Description de la machine
 Gardez toujours vos bureaux propres!<br> En raison de la forte pollution, vos employés peuvent démissionner<br> et plus aucun employé ne postulera dans votre entreprise.
 Employés
 Abandonner les employés
-Le design du jeu
-La programmation
-Conception graphique
-Musique et son
-Marketing et assistance
-Test de jeu
-Matériel et ingénierie
+Design du Jeu
+Programmation
+Conception Graphique
+Musique et Son
+Marketing et Support
+Testeur de Jeu
+Matériel et Ingénierie
 Recherche
-Un salaire
+Un Salaire
 Licencier des employés
-<b>Concepteur vedette </b><br> Les concepteurs vedettes créent un battage publicitaire pour les jeux sur lesquels ils travaillent.
-<b>Inépuisable </b><br> Les employés inépuisables n'ont pas besoin de pauses.
-<b>Sans erreur </b><br> Les employés sans erreur ne créent jamais de bogues.
-<b>Loyal </b><br> Les employés fidèles ne quitteront jamais.
-<b>Talentueux </b><br> Les employés talentueux apprennent plus vite.
-<b>Chance </b><br> Les résultats de travail critiques sont beaucoup plus fréquents.
-<b>Sportif </b><br> La vitesse de déplacement est augmentée.
-<b>Ordonné </b><br> Les employés ordinaires ne font pas de saleté ni d'ordures.
+<b>Concepteur vedette</b><br> Les concepteurs vedettes créent un battage publicitaire pour les jeux sur lesquels ils travaillent.
+<b>Inépuisable</b><br> Les employés inépuisables n'ont pas besoin de pauses.
+<b>Perfectionniste</b><br> Les employés perfectionnistes ne créent jamais de bogues.
+<b>Loyal</b><br> Les employés fidèles ne demissionneront jamais.
+<b>Talentueux</b><br> Les employés talentueux apprennent plus vite.
+<b>Chanceux</b><br> Les réussites critiques sont beaucoup plus fréquentes.
+<b>Sportif</b><br> La vitesse de déplacement est augmentée.
+<b>Ordonné</b><br> Les employés ordonnés ne font produise pas de saleté ni de déchets.
 Designer de jeu
 Programmeur
-Artiste graphique
-Artiste sonore
-Travailleur de bureau
+Artiste Graphique
+Artiste Sonore
+Assiduité
 Testeur de jeux
 Technicien
 Scientifiques
@@ -149,7 +149,7 @@ Désactiver l'IA pour cette pièce
 Renommer la pièce
 Refonte de la salle
 Démolir la pièce
-Veuillez saisir le nom de la chambre
+Veuillez saisir le nom de la pièce
 Annuler
 Voulez-vous vraiment démolir la pièce?<br> En vendant l'inventaire, vous obtenez <color=green><NUM></color>.
 Recherche
@@ -348,7 +348,7 @@ Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</co
 Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</color>.
 Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color=blue>"Divers"</color>.
 Vous pouvez rechercher le sous-genre sous l'en-tête <color=blue>"Divers"</color>.
-Vous pouvez rechercher le sous-thème sous l'en-tête <color=blue>"Divers"</color>.
+Vous pouvez rechercher le thème secondaire sous l'en-tête <color=blue>"Divers"</color>.
 Sera déverrouillé si vous avez <color=blue>$1.000.000</color>.
 Thème principal
 Thème Secondaire
@@ -813,21 +813,21 @@ Très vite
 Genre spécial: <color=blue><TEXT></color>
 Votre personnage ▪ PDG
 Vous devez entrer un nom d'entreprise pour votre studio!
-Corps
+Tenue
 Cheveux
 Yeux
 Barbe
-Couleur de peau
-Couleur de cheveux
-Top couleur
-Couleur de base
+Couleur de la peau
+Couleur des cheveux
+Couleur du Haut
+Couleur du Pantalon
 Couleur supplémentaire
 Vous devez entrer un nom pour votre personnage!
 Masculin
 Femme
 Apparence
 Compétences
-Avantages
+Attributs
 <NUM> points de compétence restants
 Vous devez dépenser tous les points de compétence!
 Lancer les dés
@@ -837,13 +837,13 @@ Popularité aléatoire de la plateforme
 Paramètres de concept de jeu aléatoires
 Aucun événement aléatoire
 <size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traductions francaise peux être pas complète. <br><br> Traduction par <color=red>Tanfus</color> et <color=red>fizzrocks</color><br><br> Amusez-vous bien !
-Plus la vitesse du jeu est basse, plus les tâches <br> que vos employés peuvent accomplir en une semaine. <br> Cela rend le jeu plus facile.
+Plus la vitesse du jeu est basse, plus vos employés<br>peuvent accomplir de tâches en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
 Pour un démarrage rapide du jeu, <br> vous pouvez augmenter l'année de départ.
 Une mise à jour pour <NAME> a été annulée <br> car le jeu a été retiré du marché.
 <b>Inuits</b><br> Les employés ayant cette caractéristique ne gèlent jamais.
-<b>Modeste </b><br> Les employés modestes n’ont pas besoin de matériel de bureau de haute qualité.
-<b>Fer</b><br> Ces employés ne vont pas aux toilettes pendant les heures de travail.
+<b>Modeste</b><br> Les employés modestes n’ont pas besoin de matériel de bureau de haute qualité.
+<b>Vessie d'acier</b><br> Ces employés ne vont pas aux toilettes pendant les heures de travail.
 Au moins une fonctionnalité de jeu doit être sélectionnée!
 Nouvelles
 Un concurrent publie un jeu
@@ -1052,8 +1052,8 @@ Vous avez déjà un contrat exclusif avec <NAME>! Le terme restant est de <NUM> 
 Le produit est devenu <NAME> un contrat exclusif! Le terme restant est de <NUM> mois.
 Remettez <color=blue><NAME> </color>
 Le contrat exclusif avec <NAME> a expiré. Vous pouvez à nouveau distribuer vos jeux vous-même ou trouver un nouvel éditeur.
-<b> Leadership </b> <br> Les employés ayant de solides compétences en leadership donnent un bonus s’ils sont déployés en tant que développeur principal.
-<b> Polyvalent </b> <br> La limite des capacités secondaires est augmentée.
+<b>Leader</b> <br> Les employés ayant de solides compétences en leadership donnent un bonus s’ils sont déployés en tant que développeur principal.
+<b>Polyvalent</b> <br> La limite des capacités secondaires est augmentée.
 Vous n'avez pas encore sélectionné tous les avantages!
 Carte
 Parc industriel-A
