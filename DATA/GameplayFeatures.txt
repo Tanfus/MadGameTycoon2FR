@@ -206,7 +206,7 @@
 [DESC GE]Multiplayer auf einem Bildschirm macht es möglich,<br> sich mit dem besten Freund zu messen.
 [DESC CH]可以进行分屏多人游戏<br>来和你最好的朋友开黑.
 [DESC TU]Bölünmüş Ekran, en iyi arkadaşınızla<br> rekabet etmenizi mümkün kılar.
-[NAME FR]Ecran Scindé Mutlijoueur
+[NAME FR]Ecran Scindé
 [DESC FR]Le mode multijoueur en écran partagé permet<br>pour rivaliser avec votre meilleur ami.
 [DATE]OCT 1980
 [RES POINTS]100
@@ -404,8 +404,8 @@
 [DESC GE]Diese Funktion macht es möglich,<br>das Spiel ein weiteres mal mit neuen Inhalt durchzuspielen.
 [DESC CH]可以实现<br>玩家游玩新赛季的游戏内容.
 [DESC TU]Bu işlev, oyunu yeni içerikle<br> oynamayı mümkün kılar.
-[NAME FR]New Game Plus
-[DESC FR]Cette fonction permet de<br>rejouez le jeu avec un nouveau contenu.
+[NAME FR]Mode "New Game Plus"
+[DESC FR]Cette fonction permet de<br>rejouer le jeu avec un nouveau contenu, souvent plus difficile.
 [DATE]JUL 1986
 [RES POINTS]250
 [PRICE]50000
@@ -471,7 +471,7 @@
 [DESC CH]这个功能可以让你<br>与几个朋友在一个房间进行开黑.
 [DESC TU]Bu özellik, oyunu bir odada birden fazla kişiyle<br> oynamanıza olanak tanır.
 [NAME FR]LAN Multijoueur
-[DESC FR]Cette fonction vous permet de jouer<br>le jeu avec plusieurs personnes dans une même pièce.
+[DESC FR]Cette fonction vous permet de jouer<br>le jeu avec plusieurs personnes sur un réseau local.
 [DATE]OCT 1989
 [RES POINTS]320
 [PRICE]65000
@@ -779,7 +779,7 @@
 [DESC CH]允许玩家<br>分享游戏攻略<br>在不同的社交软件上.
 [DESC TU]Bu özellik, oyun deneyimini<br> farklı sosyal medya kanallarında<br> paylaşmayı mümkün kılar.
 [NAME FR]Intégration Réseaux Sociaux
-[DESC FR]Cette fonctionnalité permet de<br>partager l'expérience de jeu<br>sur différents canaux de médias sociaux.
+[DESC FR]Cette fonctionnalité permet de<br>partager l'expérience de jeu<br>sur différents réseaux sociaux.
 [DATE]DEC 2005
 [RES POINTS]720
 [PRICE]150000
@@ -822,7 +822,7 @@
 [DESC GE]Mit Argumented Reality kann die<br>reale Welt und die Spielwelt miteinander kombiniert werden.
 [DESC CH]AR增强现实技术允许现实世界<br>和游戏世界相结合.
 [DESC TU]Artırılmış Gerçeklik ile gerçek dünya<br> ve oyun dünyası birleştirilebilir.
-[NAME FR]Prise en charge de la réalité augmentée
+[NAME FR]Réalité augmentée
 [DESC FR]Avec la réalité augmentée le monde réel<br>et le monde du jeu peut être combiné.
 [DATE]FEB 2015
 [RES POINTS]920
@@ -866,7 +866,7 @@
 [DESC GE]Wettereffekte werten das Spiel vor allem optisch auf.
 [DESC CH]天气效果增强了游戏世界的视觉效果.
 [DESC TU]Hava efektleri oyunu görsel olarak geliştirir.
-[NAME FR]Effets Météo
+[NAME FR]Météo
 [DESC FR]Les effets météorologiques améliorent visuellement le jeu.
 [DATE]APR 1994
 [RES POINTS]450
@@ -888,7 +888,7 @@
 [DESC GE]Zwischensequenzen eignen sich hervorragend<br>um die Geschichte des Spiels voran zu treiben.
 [DESC CH]过场动画非常适合描述<br>游戏剧情.
 [DESC TU]Ara sahneler oyunun hikayesini anlatmak için mükemmeldir.
-[NAME FR]Scène Coupé
+[NAME FR]Cinématiques
 [DESC FR]Les cinématiques sont parfaites pour raconter<br>l'histoire du jeu.
 [DATE]MAY 1987
 [RES POINTS]275
@@ -910,7 +910,7 @@
 [DESC GE]Mit diesem Feature ist der Spieler<br>nicht mehr gezwungen sämtliche Texte<br>zu lesen.
 [DESC CH]有了这个功能，玩家就不会<br>被迫阅读所有的文本.
 [DESC TU]Bu özellikle, oyuncu artık tüm metinleri okumaya zorlanmaz.
-[NAME FR]Sortie vocale
+[NAME FR]Sortie Vocale
 [DESC FR]Avec cette fonctionnalité, le joueur n'est pas，<br>plus obligé de lire tous les textes.
 [DATE]JUN 1985
 [RES POINTS]220
@@ -1064,8 +1064,8 @@
 [DESC GE]Durch dieses Feature kann der Spieler<br>seine bevorzugte Steuerung selbst konfigurieren.
 [DESC CH]允许玩家设置<br>自己喜欢的输入按钮.
 [DESC TU]Bu özellik, oyuncunun<br> kendi tercih ettiği giriş şemasını yapılandırmasına olanak tanır.
-[NAME FR]Contrôles Réglables
-[DESC FR]This feature allows the player to configure<br>his preferred input scheme by himself.
+[NAME FR]Commandes Personnalisables
+[DESC FR]Cette fonction permet au joueur de configurer<br>lui-même ses commandes préférées.
 [DATE]JUN 1989
 [RES POINTS]320
 [PRICE]65000
@@ -1109,7 +1109,7 @@
 [DESC CH]按键反馈支持<br>游戏世界中发生事件的人体感触.
 [DESC TU]Güç geri bildirimi, oyundaki olaylar hakkında<br> mekanik geri bildirim sağlamaya yönelik bir tekniktir.
 [NAME FR]Retour de Force
-[DESC FR]Le retour de force est une technique pour fournir<br>retour mécanique sur les événements du jeu.
+[DESC FR]Le retour de force est une technique pour fournir<br>retour mécanique sur certains événements du jeu.
 [DATE]AUG 1992
 [RES POINTS]400
 [PRICE]80000
@@ -1174,8 +1174,8 @@
 [DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit Motion-Controllern zu bedienen.
 [DESC CH]允许玩家<br>控制运动器材进行游戏.
 [DESC TU]Bu özellik, oyunu hareket kontrolcüleri ile<br> kontrol etmenizi sağlar.
-[NAME FR]Support Contrôleur de Mouvement
-[DESC FR]Cette fonction vous permet de contrôler<br>le jeu avec des contrôleurs de mouvement.
+[NAME FR]Support Mannette de Mouvement
+[DESC FR]Cette fonction vous permet de contrôler<br>le jeu en réalisant des mouvements avec la manette.
 [DATE]FEB 2006
 [RES POINTS]740
 [PRICE]160000
@@ -1196,8 +1196,8 @@
 [DESC GE]Besonders Musik- und Rhythmusspiele<br>profitieren vom Instrument-Support wie zum Beispiel<br>Gitarren oder Trommeln.
 [DESC CH]允许玩家使用吉他或其他音乐设备玩游戏<br>在音乐和节奏游戏中特别受欢迎.
 [DESC TU]Gitar veya davul gibi giriş cihazları, özellikle müzik ve ritim oyunlarında<br> popülerdir.
-[NAME FR]Support d'instruments
-[DESC FR]Les périphériques d'entrée tels que les guitares ou les batteries<br>particulièrement populaire dans les jeux de musique et de rythme.
+[NAME FR]Support Instruments
+[DESC FR]Rend compatible les périphériques d'entrée telles que les guitares ou les batteries,<br>particulièrement populaire dans les jeux de musique et de rythme.
 [DATE]DEC 2007
 [RES POINTS]760
 [PRICE]170000
