@@ -797,18 +797,18 @@ Nom de joueur
 Nom de société aléatoire
 Siège social de l'entreprise
 Niveau de difficulté
-Année de début
-Vitesse de jeu
+Année de départ
+Vitesse du jeu
 Sauvegarder le jeu, charger le jeu, options
 Très facile
 Facile
 Moyen
-Dur
+Difficile
 Légendaire
-Lentement
-Ordinaire
-Vite
-Très vite
+Lent
+Normal
+Rapide
+Très Rapide
 <b> Veuillez sélectionner l'emplacement de l'entreprise </b><br> Chaque pays a un genre spécial, ce qui signifie un bonus de <color=blue>+3%</color> sur les ventes.
 Genre spécial: <color=blue><TEXT></color>
 Votre personnage ▪ PDG
@@ -836,10 +836,10 @@ Désactiver le didacticiel
 Popularité aléatoire de la plateforme
 Paramètres de concept de jeu aléatoires
 Aucun événement aléatoire
-<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traductions francaise peux être pas complète. <br><br> Traduction par <color=red>Tanfus</color> et <color=red>fizzrocks</color><br><br> Amusez-vous bien !
+<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traduction francaise ne peut être pas complète. <br><br> Traduction par <color=red>Tanfus</color> et <color=red>fizzrocks</color><br><br> Amusez-vous bien !
 Plus la vitesse du jeu est basse, plus vos employés<br>peuvent accomplir de tâches en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
-Pour un démarrage rapide du jeu, <br> vous pouvez augmenter l'année de départ.
+Pour un démarrage rapide du jeu, <br> vous pouvez avancer l'année de départ.
 Une mise à jour pour <NAME> a été annulée <br> car le jeu a été retiré du marché.
 <b>Inuits</b><br> Les employés ayant cette caractéristique ne gèlent jamais.
 <b>Modeste</b><br> Les employés modestes n’ont pas besoin de matériel de bureau de haute qualité.
@@ -866,13 +866,13 @@ Plein écran
 Fréquence d'images maximale
 VSync
 SSAO
-Réflexions de l'espace d'écran
-Floraison
+SSR
+Flou Lumineux
 Occlusion ambiante
 Dégradé de couleurs
-Ombres en temps réel
+Ombres
 Langue
-Taille de l'interface graphique
+Taille de l'interface
 Définir les paramètres par défaut
 -
 -
