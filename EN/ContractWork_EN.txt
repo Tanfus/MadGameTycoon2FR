@@ -15,9 +15,9 @@ Compresser les ressources du jeu <0>
 Programmation du système de dialogue <0>
 Développer un système de collision <0>
 Programmation du navigateur de fichiers <0>
-Programmation du Levelloader <0>
+Programmation du Chargement de niveaux <0>
 Programmation du gestionnaire d'entrée <0>
-Programmation du Spritemanager <0>
+Programmation du Gestionnaire de Sprites <0>
 Développer le contrôleur de débogage <0>
 Programmation du gestionnaire d'événements <0>
 Développer le système d'animation <0>
@@ -44,9 +44,9 @@ Dessiner des arrière-plans <2>
 Dessiner des éléments <2>
 Dessiner l’interface utilisateur <2>
 Créer des graphiques conceptuels <2>
-Dessiner des objets d'environnement <2>
+Dessiner des éléments de décor <2>
 Créer des effets spéciaux <2>
-Dessiner l'image de couverture <2>
+Dessiner la couverture <2>
 Créer un jeu de tuiles de niveau <2>
 Polices de conception <2>
 Animer les personnages <2>
@@ -64,7 +64,7 @@ Créer des sons de robot <3>
 Mélange de sons d’explosion <3>
 Enregistrer les mouvements de base <4>
 Enregistrer l'animation d'arts martiaux <4>
-Créer des animations Cutscene <4>
+Créer des animations de scènes coupées <4>
 Créer des animations d'animaux <4>
 Enregistrer l'animation du jeu d'épée <4>
 Créer des animations pour les monstres <4>
