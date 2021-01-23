@@ -1,4 +1,4 @@
-﻿<b>Construire des salles</b><br> Ici, vous pouvez créer des salles.
+<b>Construire des salles</b><br> Ici, vous pouvez créer des salles.
 -
 -
 -
@@ -10,7 +10,7 @@ $
 Graphique
 Son
 Intelligence artificielle
-La physique
+Physique
 Gameplay
 Contrôles
 Multijoueur
@@ -24,7 +24,7 @@ Studio graphique
 Studio de son
 Marketing
 Service Client
-Développement de la console
+Développement Console
 Entrepôt de Stockage
 Studio de capture de mouvement
 Toilettes
@@ -50,8 +50,8 @@ La <color=blue>Salle des serveurs</color> est nécessaire si vous souhaitez dév
 *
 *
 Vous pouvez rechercher l'assurance qualité sous la rubrique <color=blue>"Divers"</color>.
-Vous pouvez rechercher un studio graphique sous la rubrique <color=blue>"Divers"</color>.
-Vous pouvez rechercher un studio de son sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher le studio graphique sous la rubrique <color=blue>"Divers"</color>.
+Vous pouvez rechercher le studio de son sous la rubrique <color=blue>"Divers"</color>.
 Vous pouvez rechercher le département marketing sous la rubrique <color=blue>"Divers"</color>.
 Vous pouvez rechercher la section de support sous l'en-tête <color=blue>"Divers"</color>.
 Le développement de la console ne peut pas encore être déverrouillé.
@@ -79,9 +79,9 @@ Technique
 Acheter des articles
 Faire pivoter l'objet
 Placer l'objet
-Ce n'est pas la bonne chambre!
+Ce n'est pas la bonne pièce !
 C'est à l'extérieur du bâtiment!
-Snapping
+Grille de Placement
 Déplacer l'objet
 Vendre l'article
 Licencier un employé
@@ -91,8 +91,8 @@ Prix de vente
 <b>Statistiques</b><br> Ici vous pouvez voir toutes les statistiques sur les finances, les jeux ou les plateformes.
 <b>Employés</b><br> Ici, vous pouvez ajouter de nouveaux employés et gérer des groupes.
 Couloir
-Cela vous permet de désactiver la levée des employés.
-Cela vous permet de désactiver la levée d'objets.
+Cela vous permet de désactiver le déplacement des employés.
+Cela vous permet de désactiver le déplacement des objets.
 Désactive les affichages de toutes les pièces.
 Argent
 Fans
@@ -116,7 +116,7 @@ Description du serveur
 Description de la machine
 Gardez toujours vos bureaux propres!<br> En raison de la forte pollution, vos employés peuvent démissionner<br> et plus aucun employé ne postulera dans votre entreprise.
 Employés
-Abandonner les employés
+Abandonner les employés *******
 Game Design
 Programmation
 Conception Graphique
@@ -134,7 +134,7 @@ Licencier des employés
 <b>Talentueux</b><br> Les employés talentueux apprennent plus vite.
 <b>Chanceux</b><br> Les réussites critiques sont beaucoup plus fréquentes.
 <b>Sportif</b><br> La vitesse de déplacement est augmentée.
-<b>Ordonné</b><br> Les employés ordonnés ne font produise pas de saleté ni de déchets.
+<b>Ordonné</b><br> Les employés ordonnés ne produisent de déchets.
 Game Designer
 Programmeur
 Artiste Graphique
@@ -147,13 +147,13 @@ Mettre en pause / reprendre le travail en cours
 Employés affectés à cette salle
 Désactiver l'IA pour cette pièce
 Renommer la pièce
-Refonte de la salle
+Modifier la pièce
 Démolir la pièce
 Veuillez saisir le nom de la pièce
 Annuler
-Voulez-vous vraiment démolir la pièce?<br> En vendant l'inventaire, vous obtenez <color=green><NUM></color>.
+Voulez-vous vraiment démolir la pièce ?<br> En vendant l'inventaire, vous obtenez <color=green><NUM></color>.
 Recherche
-Tout rechercher automatiquement
+Recherche automatique
 <NUM> Points de recherche
 Poursuivre la recherche
 Genres
@@ -177,7 +177,7 @@ RAM
 Tour
 Moniteur
 Étui de poche
-Pour déplacer la tâche, cliquez sur une pièce du même type avec le <color=blue>bouton gauche de la souris</color>.
+Pour supporter la tâche, cliquez sur une pièce du même type avec le <color=blue>bouton gauche de la souris</color>.
 Retirer
 Retirer la porte
 <b>Motivation</b><br> Les employés non motivés travaillent plus lentement.
@@ -198,30 +198,30 @@ Licencier
 Sélectionner
 <NUM> Applications
 Détails
-mensuel <NUM>
+Mensuel <NUM>
 Employés non affectés
 Groupe
 Sélectionnez un groupe
 La gestion
 Acheter des DevKits
-Acheter un moteur
-Acheter une protection contre la copie
-Acheter des licences
+Acheter un Moteur
+Acheter une Protection contre la copie
+Acheter des Licences
 Publication d'offres
 Banque
 Immobilier
 Nom et logo de l'entreprise
 Retirer le jeu du marché
 DevKits à acheter
-DevKits appartenant
+DevKits Possédés
 Fabricant
 Date de sortie
 Prix d'achat
-Part de marché
+Parts de marché
 Jeux disponibles
 janvier
 février
-Mars
+mars
 avril
 Mai
 juin
@@ -233,7 +233,7 @@ novembre
 décembre
 Cet appareil n'est plus disponible.
 Vous n'avez pas assez d'argent!
-Voulez-vous vraiment acheter le kit de développement?
+Voulez-vous vraiment acheter le DevKit ?
 Nouvelle plateforme disponible
 Une plateforme a été retirée du marché
 Afficher les plateformes retirées du marché
@@ -274,7 +274,7 @@ traits
 Genre
 Développeur
 Unités vendues
-Rotation
+Revenus
 Résultat de l'examen
 La revue
 HIT!
@@ -283,16 +283,16 @@ Nom de la compagnie
 Logo
 Veuillez choisir le logo de votre entreprise.
 Moteur terminé
-Masquer la protection contre la copie obsolète
+Masquer la Protection contre la copie obsolète
 Efficacité
 Protection contre la copie à l'achat
 Protection contre la copie achetée
-Nouvelle protection contre la copie disponible
-Voulez-vous vraiment acheter cette protection contre la copie?
+Nouvelle Protection contre la copie disponible
+Voulez-vous vraiment acheter cette Protection contre la copie?
 Acheter une nouvelle licence
 Vendre une licence
 Les jeux avec une licence officielle peuvent augmenter les chiffres de vente.
-Avec vos propres moteurs, vous économisez des coûts de licence coûteux. Vous pouvez également vendre vos moteurs à la concurrence.
+Avec vos propres moteurs, vous économisez des frais de licence coûteux. Vous pouvez également vendre vos moteurs à la concurrence.
 Licences à acheter
 Licences achetées
 <NUM> Jeux
@@ -308,7 +308,7 @@ Voulez-vous vraiment acheter la licence?
 Acheté
 Voulez-vous vraiment vendre la licence?
 <b>Amoureux de la nature</b> <br> Les amoureux de la nature ont besoin de plantes à proximité. <br> Leur motivation augmente lorsqu'ils arrosent les plantes.
-Coûts mensuels
+Coûts Mensuels
 Design d'intérieur
 Chaleur
 Régénération de la motivation
@@ -318,11 +318,11 @@ Développer un jeu
 Nom du jeu
 Nouveau jeu
 Suite
-Remasterisé
+Remaster
 Voulez-vous développer un nouveau jeu ou une suite / Remasterisé d'un ancien jeu?
 Jeu standard
 Massivement multijoueur en ligne
-Libre de jouer
+Free-to-play
 Type de jeu
 Veuillez sélectionner le type de jeu. Pour les jeux MMO et F2P, la fonction "Multijoueur en ligne" est requise.
 Taille du jeu
@@ -340,20 +340,20 @@ Adolescents
 Adultes
 Seniors
 Tout
-Veuillez choisir le groupe cible de votre jeu.
-Genre principal
+Veuillez choisir la cible de votre jeu.
+Genre Principal
 Genre Secondaire
 Supprimer le genre
 Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</color>.
 Sera déverrouillé si vous avez recherché <color=blue>Multijoueur en ligne</color>.
 Vous pouvez rechercher d'autres tailles de jeux dans la catégorie <color=blue>"Divers"</color>.
-Vous pouvez rechercher le Genre Secondaire sous l'en-tête <color=blue>"Divers"</color>.
+Vous pouvez rechercher le sous-genre sous l'en-tête <color=blue>"Divers"</color>.
 Vous pouvez rechercher le thème secondaire sous l'en-tête <color=blue>"Divers"</color>.
 Sera déverrouillé si vous avez <color=blue>$1.000.000</color>.
 Thème principal
 Thème Secondaire
 Supprimer le Thème
-Alphabet
+A-Z
 Licence
 Supprimer la licence
 Sans licence
@@ -362,8 +362,8 @@ Plateforme principale
 Plateforme 2
 Plateforme 3
 Plateforme 4
-Jeu exclusif
-▪ Les jeux exclusifs ne peuvent être publiés que sur une seule plateforme.<br>Grâce à l'exclusivité, les chiffres de vente de la plateforme peuvent augmenter.
+Exclusivité
+▪ Les Exclusivités ne peuvent être publiés que sur une seule plateforme.<br>Grâce aux Exclusivités, les chiffres de vente de la plateforme peuvent augmenter.
 Part de marché totale:
 Sera débloqué si l'un de vos jeux obtient une note globale<br> d'au moins <color=blue>70%</color>.
 Sera déverrouillé en <color=blue>Avril 1986</color>.
@@ -373,9 +373,9 @@ Sera débloqué si vous avez publié au moins <color=blue>5 jeux</color>.
 Sera débloqué si vous avez publié au moins <color=blue>10 jeux</color>.
 Sera déverrouillé si vous avez publié au moins <color=blue>15 jeux</color>.
 Supprimer la plateforme
-Dev. frais
+Frais de dév.
 Niveau technologique minimum
-Afficher les plates-formes cachées
+Afficher les platesformes cachées
 Le niveau technologique de cette plate-forme est trop faible. <br> Seules les plates-formes de niveau technologique <br> égal ou supérieur à celui du moteur peuvent être sélectionnées.
 Cette plateforme a déjà été sélectionnée.
 Les plates-formes suivantes ont été supprimées car elles ne disposent pas du niveau technologique requis:
@@ -387,64 +387,64 @@ Priorité de conception
 Priorité de travail
 Langues
 Gameplay
-Visuels
+Graphismes
 Histoire
-Durée du jeu
+Durée de vie
 Atmosphère
 Contenu
 Profondeur de jeu
-Convivial
-Joueurs Confirmé
-Joueur occasionnel
+Convivialité
+Joueurs Confirmés
+Joueurs Occasionnels
 Pour chaque langue, il y a des frais de traduction de <color=red>$5.000</color>.
 Activer / désactiver toutes les langues
-La priorité de travail ne doit pas être supérieure à 100%!
-Un genre principal doit être sélectionné!
-Un thème principal doit être sélectionné!
-Une plateforme principale doit être sélectionnée!
-Au moins une langue doit être sélectionnée!
+La priorité de travail ne doit pas être supérieure à 100% !
+Un genre principal doit être sélectionné !
+Un thème principal doit être sélectionné !
+Une plateforme principale doit être sélectionnée !
+Au moins une langue doit être sélectionnée !
 Concepts du jeu
 Analyse du jeu
-Lettres de fan
+Lettres de fans
 Cette fonctionnalité n'a pas encore été ajoutée.
 Activer / désactiver toutes les fonctionnalités
 Quantité
 Trop de fonctionnalités de jeu ont été activées. <br> Si vous souhaitez ajouter d'autres fonctionnalités de jeu à votre jeu, <br> vous devez modifier la taille du jeu.
-Vous devez donner un nom au jeu!
+Vous devez donner un nom au jeu !
 Type de fonctionnalité
 Frais de recherche
 Points de recherche
-La priorité de travail est inférieure à 100%!
-Jeu terminé
+La priorité de travail est inférieure à 100% !
+Jeu terminé !
 Le travail le plus nécessaire sur ce jeu est terminé et il est <color=blue>prêt pour la sortie</color>. Si vous le souhaitez, vous pouvez continuer à travailler sur le jeu et apporter des améliorations. Cependant, dans la <color=blue>phase de polissage</color>, les résultats du travail sont réduits et les bogues ne sont que lentement supprimés.
-Nouvel enregistrement!
+Nouvel enregistrement !
 Rechercher un éditeur
 Autodistribution
 Jeter le produit
 Continuer le développement
 Bugs
 Programmation terminée
-Nouvelle légende du développeur de jeux
+Nouvelle légende du développeur
 Sur le marché du travail, <NAME> est disponible.
 L'expérience avec les genres affecte le gameplay.
-L'expérience des Thèmes affecte le gameplay.
-L'expérience avec les plates-formes a un impact sur les graphismes, le son et la technologie.
+L'expérience des thèmes affecte le gameplay.
+L'expérience avec les platesformes a un impact sur les graphismes, le son et la technologie.
 Nouveau concurrent
 Éditeur
 Engouement
-La force du marché
+Force du marché
 Relation
 Paiement
 Fanbase
 Oui
 Expérience acquise
 Aucune expérience acquise
-Aperçu, combien de jeux sont actuellement disponibles, qui ont également le genre <color=blue><GENRE></color> ou le Thème <color=blue><THEME></color>.
+Aperçu, Jeux actuellement disponibles qui ont également le genre <color=blue><GENRE></color> ou le Thème <color=blue><THEME></color>.
 Analyse de marché
 Total [Genre]
 Total [Thème]
-Sur la plate-forme [Genre]
-Sur la plate-forme [Topic]
+Sur la plateforme [Genre]
+Sur la plateforme [Topic]
 Rapport de développement
 Changer de plateforme
 Capture d'écran actuelle
@@ -463,34 +463,34 @@ Info-bulle: Son 3
 Info-bulle: Son 4
 Info-bulle: Son 5
 Info-bulle: Son 6
-Info-bulle: Graphique 1
-Info-bulle: Graphique 2
-Info-bulle: Graphique 3
-Info-bulle: Graphique 4
-Info-bulle: Graphique 5
-Info-bulle: Graphique 6
+Info-bulle: Graphismes 1
+Info-bulle: Graphismes 2
+Info-bulle: Graphismes 3
+Info-bulle: Graphismes 4
+Info-bulle: Graphismes 5
+Info-bulle: Graphismes 6
 MoCap [Animations du lecteur]
-MoCap [animations PNJ]
+MoCap [Animations PNJ]
 Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
-Support Développement
+Support le développement
 Annuler l'assistance
-Attendez ...
+Attendez...
 <b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous aurez d'offre d'emplois. <br> De plus, le paiement est plus élevé.
 Motivation moyenne de vos collaborateurs
-Le genre <color=green><NAME1></color> et le Thème <color=green><NAME2></color> sont actuellement à la mode.
-Le genre <color=red><NAME1></color> et le Thème <color=red><NAME2></color> sont actuellement impopulaires.
+Le Genre <color=green><NAME1></color> et le Thème <color=green><NAME2></color> sont actuellement à la mode.
+Le Genre <color=red><NAME1></color> et le Thème <color=red><NAME2></color> sont actuellement impopulaires.
 Cette tendance se poursuivra pendant <color=blue><TIME></color> semaines.
-Nouvelle tendance
-La semaine
+Nouvelle Tendance
+Semaine
 Total
-Montre combien de semaines le jeu est déjà sur le marché.
+Montre depuis combien de semaines le jeu est sur le marché.
 Jeu
 Minimiser / Agrandir la fenêtre
 Jeu retiré du marché
-Profit
-Les chiffres de vente de <color=blue><NAME> </color> ont fortement baissé, de sorte que le produit a été retiré du marché.
+Profits
+Les chiffres de vente de <color=blue><NAME> </color> ont fortement baissé. Le jeu a donc a été retiré du marché.
 Semaines en solde
-Coûts marketing
+Coûts Marketing
 Frais de moteur
 <color=blue><NAME1></color> a publié le jeu <color=blue><NAME2></color>.
 Votre éditeur a lancé une campagne marketing pour <color=blue><NAME1></color>.
@@ -498,9 +498,9 @@ Montre la qualité de vos bureaux.
 Montre la pollution de vos bureaux.
 Cela vous permet de voir si vos bureaux sont trop froids.
 Ici, vous pouvez définir les messages affichés.
-<color=blue><NAME1></color> a autorisé votre moteur <color=blue><NAME2></color>.
+<color=blue><NAME1></color> a utilisé votre moteur <color=blue><NAME2></color>.
 Déclaration
-Le développeur <color=blue><NAME1></color> a autorisé votre moteur pour <color=blue><NAME2></color>. La facture vient de vous être envoyée.
+Le développeur <color=blue><NAME1></color> a utilisé votre moteur pour <color=blue><NAME2></color>. La facture vient de vous être envoyée.
 Part en pourcentage
 Partager par partie
 <b>PDG</b> <br> Votre personnage ne perd pas sa motivation.
@@ -521,8 +521,8 @@ Magazines de jeux
 Radio
 Annonces Internet
 Top streamer
-la télé
-Hype maximum qui peut être généré avec cette campagne.
+TV
+Engouement maximum pouvant être généré avec cette campagne.
 Sera déverrouillé en <color=blue>Février 2005</color>.
 Sera déverrouillé en <color=blue>Mars 1993</color>.
 Débloqué
@@ -536,68 +536,68 @@ Sera déverrouillé si vous avez recherché <color=blue>une fonction du moteur</
 Est disponible à partir de l'année <NUM>
 Commencer la formation
 Cours de formation
-Conception de jeux pour les débutants
-Conception de jeu pour avancé
-Conception de jeux pour les professionnels
-Programmation pour les débutants
-Programmation avancée
-Programmation pour les professionnels
-Conception graphique pour les débutants
-Conception graphique pour avancé
-Conception graphique pour les professionnels
-Musique et son pour les débutants
-Musique et son pour avancé
-Musique et son pour les professionnels
-Marketing et assistance pour les débutants
-Marketing et support avancés
-Marketing et support pour les professionnels
-Gametesting pour les débutants
-Gametesting pour avancé
-Gametesting pour les professionnels
-Matériel et technologie pour les débutants
-Matériel et technologie pour les
-Matériel et technologie pour les professionnels
-Recherche pour les débutants
-Recherche avancée
-Recherche pour les professionnels
+Conception de jeux niveau débutant
+Conception de jeu niveau intermédiaire
+Conception de jeux niveau professionnel
+Programmation niveau débutant
+Programmation niveau intermédiaire
+Programmation niveau professionnel
+Conception Graphique niveau débutant
+Conception Graphique niveau intermédiaire
+Conception Graphique niveau professionnel
+Musique et Son niveau débutant
+Musique et Son niveau intermédiaire
+Musique et Son niveau professionnel
+Marketing et Support niveau débutant
+Marketing et Support niveau intermédiaire
+Marketing et Support niveau professionnel
+Test de jeux niveau débutant
+Test de jeux niveau intermédiaire
+Test de jeux niveau professionnel
+Matériel et Technologie niveau débutant
+Matériel et Technologie niveau intermédiaire
+Matériel et Technologie niveau professionnel
+Recherche niveau débutant
+Recherche niveau intermédiaire
+Recherche niveau professionnel
 Niveau maximum: <color=blue><NUM></color>
 Efficacité: <color=blue>Faible</color>
 Efficacité: <color=blue>Medium</color>
 Efficacité: <color=blue>High</color>
 Cours de formation "<NAME>" terminé
-Voulez-vous vraiment jeter ce produit? Ce processus est irréversible!
-Êtes-vous sûr de vouloir annuler la tâche en cours?
-Vous serez remboursé <color=green><NUM></color>.
+Voulez-vous vraiment jeter ce produit ? Ce processus est irréversible!
+Êtes-vous sûr de vouloir annuler la tâche en cours ?
+Vous serez remboursé de <color=green><NUM></color>.
 Licences
-GFX [Graphiques d'environnement]
+GFX [Graphismes d'environnement]
 GFX [GUI]
 GFX [Arrière-plans]
 GFX [Effets spéciaux]
 GFX [Caractères]
-GFX [Couper les séquences]
+GFX [Cinématiques]
 SFX [Effets sonores]
 SFX [Sons de l'interface utilisateur]
 SFX [Musique]
-SFX [sons d'ambiance]
-SFX [sons dynamiques]
-SFX [enregistrement vocal]
+SFX [Sons d'ambiance]
+SFX [Sons dynamiques]
+SFX [Enregistrement vocal]
 MC [Animations du joueur I]
 MC [Animations du joueur II]
 MC [Animations du joueur III]
-MC [animations PNJ I]
-MC [animations PNJ II]
-MC [animations PNJ III]
+MC [Animations PNJ I]
+MC [Animations PNJ II]
+MC [Animations PNJ III]
 Contrôle qualité [Balance]
 Contrôle qualité [Contrôles]
-Contrôle qualité [performances]
-Contrôle qualité [interface utilisateur]
-Contrôle qualité [mécanique du jeu]
-Contrôle qualité [conception de niveau]
+Contrôle qualité [Performances]
+Contrôle qualité [Interface utilisateur]
+Contrôle qualité [Mécanique du jeu]
+Contrôle qualité [Conception de niveaux]
 Contrats
-Quel type de commande souhaitez-vous faire?
+Quel type de contrat souhaitez-vous réaliser ?
 Mission courte
 Contrat de Jeu
-Traitez tous les travaux automatiquement
+Traiter tous les travaux automatiquement
 Paiement
 Pénalité contractuelle
 Date limite
@@ -611,19 +611,19 @@ Semaines: <NUM>
 Échec des Contrats: <NAME><br>Pénalité contractuelle: <NUM>
 Sélectionnez le jeu
 Jeux disponibles
-Hype qui est créé au début du développement.
+Engouement créé au début du développement.
 A partir de quel jeu une suite doit-elle être développée?
-<b>Suite</b><br>Les suites de jeux bénéficient du succès de leurs prédécesseurs. <br>Au début du développement, le battage médiatique est généré, <br>et il y a un bonus sur les chiffres de vente.
-<b>Remasterisé</b><br>Les coûts de développement des remasters sont réduits de 50%. <br>Seuls les jeux peuvent être remasterisés, <br>qui ont déjà été retirés du marché.
-<b>Nouveau jeu</b><br>Lorsque vous créez un nouveau jeu, <br>vous pouvez par la suite développer un Remasterisé ou une suite.
+<b>Suite</b><br>Les suites de jeux bénéficient du succès de leurs prédécesseurs. <br>Au début du développement, du battage médiatique est généré, <br>et il y a un bonus sur les chiffres de vente.
+<b>Remaster</b><br>Les coûts de développement des Remasters sont réduits de 50%. <br>Seuls les jeux retirés du marché<br>peuvent être remasterisés.
+<b>Nouveau jeu</b><br>Lorsque vous créez un nouveau jeu, <br>vous pouvez par la suite développer un Remaster ou une suite.
 Ce nom de jeu existe déjà!
 Quel jeu souhaitez-vous remasteriser? Seuls les jeux qui ont déjà été retirés du marché peuvent être sélectionnés.
-Remasterisé
-Or
-Rechargé
-De luxe
+Remaster
+Collector
+Réédition
+Deluxe
 <color=black>(<NUM>)</color>
-Plate-forme
+Plateforme
 Note minimale pour le paiement du bonus: <b><NUM>%</b>
 Prime
 Remettez le jeu
@@ -676,9 +676,9 @@ Infos et histoire
 Propres consoles
 Moteurs
 Hit Parade
-Statistiques hebdomadaires
-Statistiques de téléchargement F2P
-Statistiques d'abonnement aux MMO
+Classement Hebdomadaire
+Statistiques Free-to-play
+Statistiques MMO
 Toutes les plateformes disponibles
 Disponible
 Concurrents agissant en tant qu'éditeurs
@@ -853,13 +853,13 @@ Un nouveau moteur NPC est sorti
 Nouvelle recherche disponible
 Nouvelle plateforme disponible
 Plateformes retirées du marché
-Recevez un disque d'or
+Vous recevez un disque d'or
 Paramètres de jeu
 Paramètres graphiques
 Paramètres de son
-l'audio
-Volume principal
-La musique
+Audio
+Volume Principal
+Musique
 Volume de la musique
 Résolution d'écran
 Plein écran
@@ -956,9 +956,9 @@ L'organisateur rapporte que les billets <color=blue><NUM> </color> pour le salon
 Pour quel jeu faut-il développer un DLC payant?
 Nombre de DLC
 Nom du DLC
-Jeux Soldé les plus vendus
-DLC les plus vendus
-Meilleurs Bundles vendus
+Classement des Jeux Soldés
+Classement des DLC
+Classement des Bundles
 Nouvelles fonctionnalités de jeu
 Contenu complémentaire
 Ajouter
@@ -975,9 +975,9 @@ Vous devez donner un nom à votre DLC!
 Trop de fonctionnalités de jeu ont été sélectionnées!
 Nombre de concurrents
 Développer du nouveau contenu
-Pack de jeux
-Jeu de budget
-Stand alone
+Bundles
+Jeu Soldés
+Stand-alone
 ▪ Les DLC normaux nécessitent le jeu principal. <br> Ils augmentent les ventes du jeu principal, <br> mais ne peuvent pas dépasser les ventes du jeu principal. <br> <br> ▪ Les Stand-Alone ne nécessitent pas le jeu principal mais une nouvelle campagne. <br> Les chiffres de vente du jeu principal ne sont pas affectés. <br> Mais les chiffres de vente peuvent être plus élevés que dans le jeu principal.
 DLC terminé
 Le travail le plus nécessaire sur ce DLC est terminé. Si le jeu principal est distribué par un éditeur, vous êtes contractuellement tenu de faire distribuer le DLC par le même éditeur.
