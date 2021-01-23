@@ -836,7 +836,7 @@ Désactiver le didacticiel
 Popularité aléatoire de la plateforme
 Paramètres de concept de jeu aléatoires
 Aucun événement aléatoire
-<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traduction francaise ne peut être pas complète. <br><br> Traduction par <color=red>Tanfus</color> et <color=red>fizzrocks</color><br><br> Amusez-vous bien !
+<size=20>Mad Games Tycoon 2</size> <br> <br> Merci d'avoir acheté <color=blue>Mad Games Tycoon 2</color>. Veuillez garder à l'esprit que la version à accès anticipé manque encore de nombreuses fonctionnalités, que le jeu est déséquilibré à certains endroits et que des bugs peuvent survenir. De plus, la traduction francaise peut être pas complète. <br><br> Traduction par <color=red>Tanfus</color> et <color=red>fizzrocks</color><br><br> Amusez-vous bien !
 Plus la vitesse du jeu est basse, plus vos employés<br>peuvent accomplir de tâches en une semaine. <br> Cela rend le jeu plus facile.
 Le niveau de difficulté influe principalement sur les chiffres de vente de vos jeux.
 Pour un démarrage rapide du jeu, <br> vous pouvez avancer l'année de départ.
@@ -877,10 +877,10 @@ Définir les paramètres par défaut
 -
 -
 -
-<b>Le marketing [Streamer] a été déverrouillé</b><br><br> De plus en plus de gens regardent des jeux sur Internet pendant que les joueurs jouent à leurs jeux préférés. Si nous le faisons correctement, nous pouvons l'utiliser pour promouvoir nos jeux et atteindre directement le groupe cible.
-<b>Le marketing [Internet] a été débloqué</b><br><br> Internet devient de plus en plus important pour les campagnes publicitaires. Par conséquent, nous devrions également envisager de lancer des campagnes publicitaires sur Internet.
-<b>Remaster a été débloqué</b><br><br> Ne serait-ce pas une bonne idée de laisser un ancien jeu briller dans une nouvelle splendeur? De l'argent rapide et des joueurs heureux!
-<b>MMO et salle de serveurs déverrouillés</b><br><br>Vous pouvez maintenant développer des jeux MMO et construire la salle de serveurs nécessaire.
+<b>Le marketing [Streamer] a été déverrouillé</b><br><br> De plus en plus de gens regardent des streams de jeux vidéos sur Internet. Si nous le faisons correctement, nous pouvons l'utiliser pour promouvoir nos jeux et atteindre directement le groupe cible.
+<b>Le marketing [Internet] a été débloqué</b><br><br> Internet devient de plus en plus important pour les campagnes publicitaires. Par conséquent, nous devrions également envisager de lancer des campagnes publicitaires sur ce média incontournable.
+<b>Remaster a été débloqué</b><br><br> Ne serait-ce pas une bonne idée de laisser un ancien jeu briller dans une nouvelle splendeur? De l'argent rapide et des joueurs heureux !
+<b>MMO et salle de serveurs déverrouillés</b><br><br>Vous pouvez maintenant développer des MMO et construire la salle de serveurs nécessaire.
 -
 <b>Les licences ont été débloquées</b><br><br> Vous disposez désormais de suffisamment d'argent pour acheter des licences. Même les jeux avec un gameplay faible qui utilisent une licence officielle se vendent respectueusement.
 <b>Motion Capture Studio a été déverrouillé</b><br><br> Pour parfaire nos animations, nous devons mettre en place un studio de capture de mouvement. Bien que les coûts d'achat soient très élevés, ce sera rentable. Qu'est ce que tu penses de ça?
