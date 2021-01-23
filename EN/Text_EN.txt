@@ -23,13 +23,13 @@ Assurance qualité
 Studio graphique
 Studio de son
 Commercialisation
-Soutien
+Service Client
 Développement de la console
 Magasin
 Studio de capture de mouvement
 Toilettes
 Salon
-Salle d'entrainement
+Salle de Formation
 Production
 Salle des serveurs
 Dans le <color=blue>développement</color>, vous pouvez développer des jeux et des moteurs.
@@ -95,7 +95,7 @@ Cela vous permet de désactiver la levée des employés.
 Cela vous permet de désactiver la levée d'objets.
 Désactive les affichages de toutes les pièces.
 Argent
-Ventilateurs
+Fans
 Faire contrôler tous les employés par l'IA
 ▲
 ▼
@@ -193,8 +193,8 @@ Marché de l'emploi
 Gestion de groupe
 Employés dans cette salle
 Détails de l'employé
-Louer
-Rejeté
+Embaucher
+Licencier
 Sélectionner
 <NUM> Applications
 Détails
@@ -388,13 +388,13 @@ Priorité de travail
 Langues
 Gameplay
 Visuels
-Récit
+Histoire
 Durée du jeu
 Atmosphère
 Contenu
 Profondeur de jeu
 Convient aux débutants
-Joueurs de base
+Joueurs Confirmé
 Joueur occasionnel
 Pour chaque langue, il y a des frais de traduction de <color=red>$5.000</color>.
 Activer / désactiver toutes les langues
@@ -472,7 +472,7 @@ Info-bulle: Grafik 6
 MoCap [Animations du lecteur]
 MoCap [animations PNJ]
 Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
-Soutien
+Support Développement
 Annuler l'assistance
 Attendez ...
 <b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous serez offert d'emplois. <br> De plus, le paiement est plus élevé.
@@ -640,7 +640,7 @@ Vous devez annuler la tâche en cours pour cette salle!
 <b>Nombre de travaux sous contrat </b><br><br>
 Nombre de jeux contractuels
 Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br><br><color=blue>Cliquez pour sélectionner l'employé</color>
-Mises à jour et modules complémentaires
+Mises à jour et DLC
 Quel type de mise à jour ou d'addon souhaitez-vous développer?
 Mise à jour gratuite
 Addon payant
@@ -1285,8 +1285,8 @@ Soutien
 Sabotage
 L'employé se fige!
 Tous les objets sont à jour!
-L'employé est trop sale ici!
-L'employé trouve ça mal à l'aise ici!
+L'employé trouve que c'est sale ici!
+L'employé se sent mal a l'aise ici!
 Critiques d'utilisateurs
 Revues de presse
 Utilisateur
