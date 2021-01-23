@@ -633,13 +633,13 @@ Vous ne pouvez pas accepter ce travail car vous ne disposez pas du kit de dével
 Vous avez reçu la facture finale du jeu contractuel.
 Salaire total
 La date limite a été respectée
-Vous ne pouvez remplacer que les plates-formes déjà retirées du marché.
+Vous ne pouvez remplacer que les platesformes déjà retirées du marché.
 Frais de portage supplémentaires
 Pour les jeux sous contrat, vous n'êtes pas autorisé à changer de plateforme!
 Vous devez annuler la tâche en cours pour cette salle!
 <b>Nombre de travaux sous contrat </b><br><br>
 Nombre de jeux contractuels
-Cet affichage vous informe si un employé <br> n'a pas reçu de chambre. <br><br><color=blue>Cliquez pour sélectionner l'employé</color>
+Cet affichage vous informe si un employé <br> n'a pas été affecté. <br><br><color=blue>Cliquez pour sélectionner l'employé</color>
 Mises à jour et DLC
 Quel type de mise à jour ou de DLC souhaitez-vous développer?
 Mise à jour gratuite
@@ -673,7 +673,7 @@ Finances
 Mes Jeux
 Infos et histoire
 Éditeur et développeur
-Propres consoles
+Mes Consoles
 Moteurs
 Hit Parade
 Classement Hebdomadaire
