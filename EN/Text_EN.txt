@@ -117,7 +117,7 @@ Description de la machine
 Gardez toujours vos bureaux propres!<br> En raison de la forte pollution, vos employés peuvent démissionner<br> et plus aucun employé ne postulera dans votre entreprise.
 Employés
 Abandonner les employés
-Design du Jeu
+Game Designer
 Programmation
 Conception Graphique
 Musique et Son
@@ -135,7 +135,7 @@ Licencier des employés
 <b>Chanceux</b><br> Les réussites critiques sont beaucoup plus fréquentes.
 <b>Sportif</b><br> La vitesse de déplacement est augmentée.
 <b>Ordonné</b><br> Les employés ordonnés ne font produise pas de saleté ni de déchets.
-Designer de jeu
+Game Disigner
 Programmeur
 Artiste Graphique
 Artiste Sonore
