@@ -3,7 +3,7 @@
 [NAME GE]Geschicklichkeit
 [NAME CH]技巧
 [NAME TU]Beceri Oyunu
-[NAME FR]Jeu d'adresse
+[NAME FR]Adresse
 [DESC EN]The player has to prove fast reactions.<br>Not only with the joystick, but also with the head.
 [DESC GE]Der Spieler muss schnelle Reaktionen beweisen.<br>Nicht nur mit dem Joystick, sondern auch mit dem Kopf.
 [DESC CH]玩家需要快速的反应.<br>不仅仅是操纵摇杆那么简单，同时还要动用脑子.
@@ -31,7 +31,7 @@
 [NAME GE]Denkspiel
 [NAME CH]益智
 [NAME TU]Bulmaca Oyunu
-[NAME FR]Jeu d'Enigme
+[NAME FR]Enigmes
 [DESC EN]Players who want to solve challenging puzzles<br>and don't like action are in good hands with this genre.
 [DESC GE]Das Lösen von anspruchsvollen Rätseln lockt<br>jene Spieler vor den Monitor, die keine Action wollen.
 [DESC CH]喜欢解决具有挑战性谜题的玩家<br>和不喜欢动作类型游戏的人都是在这个类型的高手.
@@ -115,7 +115,7 @@
 [NAME GE]Strategie
 [NAME CH]策略
 [NAME TU]Strateji
-[NAME FR]Strategie
+[NAME FR]Stratégie
 [DESC EN]This genre requires tactical action against intelligent opponents.<br>The players do not have to be professionals in the use of the joystick,<br>but must demonstrate intelligence.
 [DESC GE]Dieses Genre verlangt taktisches Vorgehen gegen intelligente Gegner.<br>Die Spieler müssen keine Profis im Umgang mit dem Joystick sein,<br>sondern Intelligenz beweisen.
 [DESC CH]这种类型的游戏需要对电脑对手采取战术策略.<br>队友不一定非得是职业选手，<br>但脑子必须好使.
@@ -171,7 +171,7 @@
 [NAME GE]Platformer
 [NAME CH]横版
 [NAME TU]Platform Oyunu
-[NAME FR]Platforme
+[NAME FR]Plateforme
 [DESC EN]Main features of this genre are running & jumping.<br>Small puzzles and action sequences are also welcome.
 [DESC GE]Hauptmerkmale dieses Genre sind Laufen & Springen.<br>Kleine Rätsel und Actions-Sequenzen werden auch gern gesehen.
 [DESC CH]这种类型游戏的主要特点是奔跑和跳跃.<br>同样也喜欢解谜题和拼图.
@@ -227,7 +227,7 @@
 [NAME GE]Sportspiel
 [NAME CH]体育
 [NAME TU]Spor Oyunu
-[NAME FR]Jeu de Sport
+[NAME FR]Sport
 [DESC EN]Sports fans demand realism and a good computer opponent.<br>Great graphics and sound are a must.
 [DESC GE]Sportfreunde verlangen Realismus und einen guten Computergegner.<br>Tolle Grafik und Sound sind Pflicht.
 [DESC CH]体育迷们对现实主义的要求，以及对电脑对手的实力要求很高.<br>此外还必须拥有极高的画质和很好的音效.
@@ -283,7 +283,7 @@
 [NAME GE]Kampfsportspiel
 [NAME CH]格斗
 [NAME TU]Dövüş Oyunu
-[NAME FR]Jeu de Combat
+[NAME FR]Combat
 [DESC EN]Good graphics and especially violence are the main elements of this genre.<br>No strategic elements are required here, only responsiveness.
 [DESC GE]Gute Grafik und vor allem Gewalt sind Hauptelemente,<br>die in diesem Genre stecken.<br>Keine strategischen Elemente, sondern nur Reaktionsvermögen werden hier verlangt.
 [DESC CH]画质好，尤其是暴力要素是这个类型的主要玩法.<br>这里不需要战略要素，只需要操作速度.
@@ -395,7 +395,7 @@
 [NAME GE]First-Person Shooter
 [NAME CH]第一人称射击
 [NAME TU]Birinci Şahıs Nişancı
-[NAME FR]Tir a la 1er personne
+[NAME FR]Tir à la 1re personne
 [DESC EN]Excessive violence and easy puzzle tasks are<br>the most important gameplay elements of this genre.<br>Fast reactions are absolutely needed here.
 [DESC GE]Übertriebene Gewalt und leichte Rätselaufgaben sind die wichtigsten<br>Gameplay-Elemente dieses Genres.<br>Schnelle Reaktionen werden hier unbedingt gebraucht.
 [DESC CH]极度暴力和简单的益智任务是<br>最重要的游戏要素.<br>在这里玩家需要更快的反应速度.
@@ -451,12 +451,12 @@
 [NAME GE]Third-Person Shooter
 [NAME CH]第三人称射击
 [NAME TU]Üçüncü Şahıs Nişancı
-[NAME FR]Tir a la 3e personne
+[NAME FR]Tir à la 3e personne
 [DESC EN]Action paired with tricky jumping and climbing passages<br>are the most important gameplay elements here.<br>Good graphics are demanded by fans.
 [DESC GE]Action gepaart mit kniffeligen Sprung- und Kletterpassagen<br>sind hier die wichtigsten Gameplay-Elemente.<br>Eine gute Grafik wird von Fans vorausgesetzt.
 [DESC CH]灵活的操作配合巧妙的跳跃<br>是最重要的游戏要素.<br>玩家还需要很好的画质.
 [DESC TU]Zor atlama ve tırmanma pasajlarıyla birleştirilmiş aksiyon<br> buradaki en önemli oyun öğeleridir.<br> Hayranlar iyi grafikler talep etmektedir.
-[DESC FR]Action associée à des sauts et des escalades difficiles<br>sont les éléments de gameplay les plus importants ici.<br>De bons graphismes sont exigés par les fans.
+[DESC FR]Les actions associées à des sauts et des escalades difficiles<br>sont les éléments de gameplay les plus importants ici.<br>De bons graphismes sont exigés par les fans.
 [DATE]AUG 1996
 [RES POINTS]1500
 [PRICE]250000
