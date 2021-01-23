@@ -9,13 +9,13 @@ MARCHE A SUIVRE POUR INSTALLER LE PATCH (A SUIVRE ATTENTIVEMENT)
 
 3 - Ouvrir le fichier zip.
 
-4 - Dans le fichier zip "PatchFR" :  "Glisser le dossier intitulé "TU" vers le fichier "Text"
+4 - Dans le fichier zip "PatchFR" :  "Glisser le dossier intitulé "EN" vers le fichier "Text"
 
 5 - Accepter de remplacer tous les fichiers.
 
 6 - Lancer le jeu.
 
-7 - Dans les options du jeu : changez la langue sur "Turkish"
+7 - Dans les options du jeu : changez la langue sur "English"
 
 8 - Ca y est, votre jeu est en français :)
 
