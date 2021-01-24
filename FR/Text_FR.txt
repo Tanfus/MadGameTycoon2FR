@@ -134,7 +134,7 @@ Licencier des employés
 <b>Talentueux</b><br> Les employés talentueux apprennent plus vite.
 <b>Chanceux</b><br> Les réussites critiques sont beaucoup plus fréquentes.
 <b>Sportif</b><br> La vitesse de déplacement est augmentée.
-<b>Ordonné</b><br> Les employés ordonnés ne produisent de déchets.
+<b>Ordonné</b><br> Les employés ordonnés ne produisent pas de déchets.
 Game Designer
 Programmeur
 Graphiste
