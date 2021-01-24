@@ -21,7 +21,7 @@ Développement
 Recherche
 Assurance Qualité
 Studio Graphique
-Studio de Son
+Studio de son
 Marketing
 Service Client
 Développement Console
@@ -71,7 +71,7 @@ J'accepte
 Prix au mètre carré
 Mètres Carrés
 m2
-▪ Toutes les pièces ne sont pas accessibles.
+▪ Toutes les salles ne sont pas accessibles.
 Technique
 ▪ La taille minimale de <NUM> doit être remplie.
 ▪ Une porte est manquante.
@@ -85,7 +85,7 @@ Grille de Placement
 Déplacer l'objet
 Vendre l'article
 Licencier un Employé
-Raccourci:
+Raccourci :
 Prix de Vente
 <b>Gestion</b><br> Vous trouverez ici toutes les fonctions nécessaires au fonctionnement de votre entreprise.
 <b>Statistiques</b><br> Ici vous pouvez voir toutes les statistiques sur les finances, les jeux ou les plateformes.
@@ -252,10 +252,10 @@ Remarque
 Vous devez choisir un genre spécial!
 Vous devez donner un nom au moteur!
 Vous devez ajouter au moins une nouvelle fonctionnalité du moteur!
-<color=black>Gameplay: <NUM></color>
-<color=black>Graphique: <NUM></color>
-<color=black>Son: <NUM></color>
-<color=black>Technologie: <NUM></color>
+<color=black>Gameplay : <NUM></color>
+<color=black>Graphique : <NUM></color>
+<color=black>Son : <NUM></color>
+<color=black>Technologie : <NUM></color>
 Propres moteurs
 Quel moteur souhaitez-vous mettre à jour?
 Partage des profits
@@ -312,8 +312,8 @@ Coûts Mensuels
 Design d'intérieur
 Chaleur
 Régénération de la motivation
-Aller à:
-Utilisé:
+Aller à : 
+Utilise
 Développer un jeu
 Nom du jeu
 Nouveau jeu
@@ -364,7 +364,7 @@ Plateforme 3
 Plateforme 4
 Exclusivité
 ▪ Les Exclusivités ne peuvent être publiés que sur une seule plateforme.<br>Grâce aux Exclusivités, les chiffres de vente de la plateforme peuvent augmenter.
-Part de marché totale:
+Part de marché totale :
 Sera débloqué si l'un de vos jeux obtient une note globale<br> d'au moins <color=blue>70%</color>.
 Sera déverrouillé en <color=blue>Avril 1986</color>.
 Moteur
@@ -378,7 +378,7 @@ Niveau technologique minimum
 Afficher les platesformes cachées
 Le niveau technologique de cette plate-forme est trop faible. <br> Seules les plates-formes de niveau technologique <br> égal ou supérieur à celui du moteur peuvent être sélectionnées.
 Cette plateforme a déjà été sélectionnée.
-Les plates-formes suivantes ont été supprimées car elles ne disposent pas du niveau technologique requis:
+Les plates-formes suivantes ont été supprimées car elles ne disposent pas du niveau technologique requis :
 Protection contre la copie
 Supprimer la protection contre la copie
 Sans protection contre la copie
@@ -449,26 +449,26 @@ Rapport de développement
 Changer de plateforme
 Capture d'écran actuelle
 Le progrès
-Frais de développement à ce jour:
-Estimation actuelle:
-Info-bulle: Gameplay 1
-Info-bulle: Gameplay 2
-Info-bulle: Gameplay 3
-Info-bulle: Gameplay 4
-Info-bulle: Gameplay 5
-Info-bulle: Gameplay 6
-Info-bulle: Son 1
-Info-bulle: Son 2
-Info-bulle: Son 3
-Info-bulle: Son 4
-Info-bulle: Son 5
-Info-bulle: Son 6
-Info-bulle: Graphismes 1
-Info-bulle: Graphismes 2
-Info-bulle: Graphismes 3
-Info-bulle: Graphismes 4
-Info-bulle: Graphismes 5
-Info-bulle: Graphismes 6
+Frais de développement à ce jour :
+Estimation actuelle :
+Info-bulle : Gameplay 1
+Info-bulle : Gameplay 2
+Info-bulle : Gameplay 3
+Info-bulle : Gameplay 4
+Info-bulle : Gameplay 5
+Info-bulle : Gameplay 6
+Info-bulle : Son 1
+Info-bulle : Son 2
+Info-bulle : Son 3
+Info-bulle : Son 4
+Info-bulle : Son 5
+Info-bulle : Son 6
+Info-bulle : Graphismes 1
+Info-bulle : Graphismes 2
+Info-bulle : Graphismes 3
+Info-bulle : Graphismes 4
+Info-bulle : Graphismes 5
+Info-bulle : Graphismes 6
 MoCap [Animations du lecteur]
 MoCap [Animations PNJ]
 Pour assister une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
@@ -531,7 +531,7 @@ Campagne marketing pour <NAME1> terminée
 Coûts de production
 Coûts du serveur
 Qualité
-Bonus sur les résultats du travail: <NUM>%
+Bonus sur les résultats du travail : <NUM>%
 Sera déverrouillé si vous avez recherché <color=blue>une fonction du moteur</color>.
 Est disponible à partir de l'année <NUM>
 Commencer la formation
@@ -560,10 +560,10 @@ Matériel et Technologie niveau professionnel
 Recherche niveau débutant
 Recherche niveau intermédiaire
 Recherche niveau professionnel
-Niveau maximum: <color=blue><NUM></color>
-Efficacité: <color=blue>Faible</color>
-Efficacité: <color=blue>Moyenne</color>
-Efficacité: <color=blue>Elevée</color>
+Niveau maximum : <color=blue><NUM></color>
+Efficacité : <color=blue>Faible</color>
+Efficacité : <color=blue>Moyenne</color>
+Efficacité : <color=blue>Elevée</color>
 Cours de formation "<NAME>" terminé
 Voulez-vous vraiment jeter ce produit ? Ce processus est irréversible!
 Êtes-vous sûr de vouloir annuler la tâche en cours ?
@@ -603,12 +603,12 @@ Pénalité contractuelle
 Date limite
 Charge de travail
 Client
-Date limite: <b><NUM> semaines</b>
+Date limite : <b><NUM> semaines</b>
 Supprimer le travail
-Contrats terminés: <NAME><br>Paiement: <NUM>
+Contrats terminés : <NAME><br>Paiement : <NUM>
 Vous devez payer une pénalité contractuelle de <color=red><NUM></color>.
-Semaines: <NUM>
-Échec des Contrats: <NAME><br>Pénalité contractuelle: <NUM>
+Semaines : <NUM>
+Échec des Contrats : <NAME><br>Pénalité contractuelle : <NUM>
 Sélectionnez le jeu
 Jeux disponibles
 Engouement créé au début du développement.
@@ -624,7 +624,7 @@ Réédition
 Deluxe
 <color=black>(<NUM>)</color>
 Plateforme
-Note minimale pour le paiement du bonus: <b><NUM>%</b>
+Note minimale pour le paiement du bonus : <b><NUM>%</b>
 Prime
 Remettez le jeu
 ▪ Contrat de Jeu ▪ <br> Les travaux les plus nécessaires sur ce jeu sont terminés. Vous pouvez remettre le jeu à votre client ou y travailler davantage.
@@ -756,7 +756,7 @@ Très faible Charge de Travail
 Charge de Travail Faible
 Charge de Travail Moyenne
 Charge de Travail Forte
-Questions sans réponse: <NUM>
+Questions sans réponse : <NUM>
 Disque d'or reçu
 Votre jeu <color=blue><NAME></color> est considéré comme une étape révolutionnaire dans l'industrie du jeu vidéo et a créé une nouvelle tendance.
 Avant gardiste
@@ -773,7 +773,7 @@ Pire jeu de l'année
 Disques d'or
 Malade
 <b>Miracle médical</b><br> Les employés dotés d'un système immunitaire fort ne tombent jamais malades.
-Utilisation par mois: <NUM>
+Utilisation par mois : <NUM>
 Nouveau jeu
 Charger une Partie
 Options
@@ -810,7 +810,7 @@ Normal
 Rapide
 Très Rapide
 <b>Veuillez sélectionner l'emplacement de l'entreprise</b><br> Chaque pays a un genre spécial, ce qui signifie un bonus de <color=blue>+3%</color> sur les ventes.
-Genre spécial: <color=blue><TEXT></color>
+Genre spécial : <color=blue><TEXT></color>
 Votre personnage ▪ PDG
 Vous devez entrer un nom d'entreprise pour votre studio !
 Tenue
@@ -1018,7 +1018,7 @@ Cela vous permet de déterminer à quel stade de développement commence le temp
 La profession décide quelle capacité peut être entraînée à <color=blue> 100</color>. <br> Toutes les autres capacités ont une limite de <color=blue> 50</color>.
 Profession
 Fonctionnalités de jeu requises
-Les platesformes sélectionnées nécessitent les fonctionnalités de jeu suivantes:
+Les platesformes sélectionnées nécessitent les fonctionnalités de jeu suivantes :
 Contrat exclusif de l'éditeur
 Aucun éditeur ne vous propose de contrat. La relation avec les éditeurs doit être maximisée !
 Période de contrat
@@ -1226,7 +1226,7 @@ Lorsque vous signez un contrat d'exclusivité avec un éditeur, vous êtes oblig
 En attente du serveur ...
 Cette sauvegarde n'existe pas !
 L'hôte veut sauvegarder la partie.
-Port: 7777
+Port : 7777
 Prix de l'abonnement
 Modèle économique du F2P
 Convertir le MMO en F2P
