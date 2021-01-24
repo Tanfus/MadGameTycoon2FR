@@ -3,12 +3,14 @@
 [NAME GE]Geschicklichkeit
 [NAME CH]技巧
 [NAME TU]Beceri Oyunu
-[NAME FR]Adresse
+[NAME FR]Jeu d'adresse
 [DESC EN]The player has to prove fast reactions.<br>Not only with the joystick, but also with the head.
 [DESC GE]Der Spieler muss schnelle Reaktionen beweisen.<br>Nicht nur mit dem Joystick, sondern auch mit dem Kopf.
 [DESC CH]玩家需要快速的反应.<br>不仅仅是操纵摇杆那么简单，同时还要动用脑子.
 [DESC TU]Oyuncunun hızlı tepki vermesi gerekir.<br> Sadece joystick ile değil, aynı zamanda kafa ile de.
 [DESC FR]Le joueur doit faire preuve de réactions rapides.<br>Non seulement avec le joystick, mais aussi avec la tête.
+[NAME PB]Habilidade
+[DESC PB]O jogador tem que ter reações rápidas.<br>Não só com o joystick, mas também com a cabeça.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -31,12 +33,14 @@
 [NAME GE]Denkspiel
 [NAME CH]益智
 [NAME TU]Bulmaca Oyunu
-[NAME FR]Enigmes
+[NAME FR]Jeu d'Enigme
 [DESC EN]Players who want to solve challenging puzzles<br>and don't like action are in good hands with this genre.
 [DESC GE]Das Lösen von anspruchsvollen Rätseln lockt<br>jene Spieler vor den Monitor, die keine Action wollen.
 [DESC CH]喜欢解决具有挑战性谜题的玩家<br>和不喜欢动作类型游戏的人都是在这个类型的高手.
 [DESC TU]Zorlu bulmacaları çözmek isteyen<br> ve aksiyondan hoşlanmayan oyuncular bu türle emin ellerdedir.
 [DESC FR]Les joueurs qui veulent résoudre des énigmes difficiles<br>et n'aiment pas l'action sont entre de bonnes mains avec ce genre.
+[NAME PB]Puzzle
+[DESC PB]Jogadores que querem resolver puzzle desafiadores<br>e não gostam de ação estão em boas mãos com este gênero.
 [DATE]JAN 1976
 [RES POINTS]50
 [PRICE]30000
@@ -65,6 +69,8 @@
 [DESC CH]解决逻辑难题，没有过度的暴力<br>和叙事性的玩法是这一类型的特点.
 [DESC TU]Mantıksal bulmacaları çözmek, aşırı şiddet yok<br> ve anlatımlı bir oyun bu türü karakterize ediyor.
 [DESC FR]Résoudre des énigmes logiques, pas de violence excessive<br>et un gameplay narratif caractérisent ce genre.
+[NAME PB]Aventura
+[DESC PB]Resolver quebra-cabeças lógicos, sem violência excessiva<br>e uma jogabilidade narrativa caracterizam este gênero.
 [DATE]JAN 1976
 [RES POINTS]50
 [PRICE]30000
@@ -87,12 +93,14 @@
 [NAME GE]Rollenspiel
 [NAME CH]角色扮演
 [NAME TU]Rol Yapma Oyunu
-[NAME FR]RPG
+[NAME FR]Jeu de Rôle
 [DESC EN]Character management, solving puzzles, fighting monsters.<br>This genre combines many gameplay elements of other genres.
 [DESC GE]Charaktermanagement, Lösen von Rätseln, Kämpfe gegen Monster.<br>Viele Tätigkeiten übernimmt der Spieler ohne<br>großes Reaktionsvermögen besitzen zu müssen.
 [DESC CH]角色管理、完成任务，打怪升级.<br>角色扮演类的游戏结合了很多其他类型的游戏元素.
 [DESC TU]Karakter yönetimi, bulmaca çözme, canavarlarla savaşma.<br> Bu tür, diğer türlerin birçok oynanış unsurunu birleştirir.
 [DESC FR]Gestion des personnages, résolution d'énigmes, combat de monstres.<br>Ce genre combine de nombreux éléments de gameplay d'autres genres.
+[NAME PB]RPG
+[DESC PB]Gerenciamento de personagens, resolução de quebra-cabeças, luta contra monstros.<br>Este gênero combina muitos elementos de jogabilidade de outros gêneros.
 [DATE]MAY 1977
 [RES POINTS]300
 [PRICE]30000
@@ -112,15 +120,17 @@
 
 [ID]4
 [NAME EN]Strategy
-[NAME GE]Stratégie
+[NAME GE]Strategie
 [NAME CH]策略
 [NAME TU]Strateji
-[NAME FR]Stratégie
+[NAME FR]Strategie
 [DESC EN]This genre requires tactical action against intelligent opponents.<br>The players do not have to be professionals in the use of the joystick,<br>but must demonstrate intelligence.
 [DESC GE]Dieses Genre verlangt taktisches Vorgehen gegen intelligente Gegner.<br>Die Spieler müssen keine Profis im Umgang mit dem Joystick sein,<br>sondern Intelligenz beweisen.
 [DESC CH]这种类型的游戏需要对电脑对手采取战术策略.<br>队友不一定非得是职业选手，<br>但脑子必须好使.
 [DESC TU]Bu tür, zeki rakiplere karşı taktiksel eylem gerektirir.<br> Oyuncuların joystick kullanımında profesyonel olmaları gerekmez,<br> ancak akıl gerekir.
 [DESC FR]Ce genre nécessite une action tactique contre des adversaires intelligents.<br>Les joueurs n'ont pas à être des professionnels dans l'utilisation du joystick, mais doivent faire preuve d'intelligence.
+[NAME PB]Estratégia
+[DESC PB]Este gênero exige estratégia contra oponentes inteligentes.<br>Os jogadores não precisam ser profissionais no uso do joystick,<br>mas devem demonstrar inteligência.
 [DATE]JUL 1978
 [RES POINTS]400
 [PRICE]35000
@@ -149,6 +159,8 @@
 [DESC CH]消灭敌人是这一类型的核心内容.<br>游戏玩法越简单粉丝越喜欢，但同时也要求极好的画质和很好的音效.
 [DESC TU]Düşmanları ortadan kaldırmak bu türün özüdür. Hayranlar basit bir oyundan memnunlar, ancak harika grafikler ve gösterişli sesler talep ediyor.
 [DESC FR]L'élimination des ennemis est au cœur de ce genre.<br>Les fans sont satisfaits d'un gameplay simple, mais exigent de superbes graphismes et des sons explosifs.
+[NAME PB]Ação
+[DESC PB]Eliminar inimigos é o foco deste gênero.<br>Os fãs ficam satisfeitos com uma jogabilidade simples, mas exigem ótimos gráficos e sons.
 [DATE]AUG 1979
 [RES POINTS]500
 [PRICE]40000
@@ -177,6 +189,8 @@
 [DESC CH]这种类型游戏的主要特点是奔跑和跳跃.<br>同样也喜欢解谜题和拼图.
 [DESC TU]Bu türün temel özellikleri koşma ve zıplamadır.<br> Küçük bulmacalar ve aksiyon sekansları da hoş karşılanır.
 [DESC FR]Les principales caractéristiques de ce genre sont la course et le saut.<br>Les petits puzzles et séquences d'action sont également les bienvenus.
+[NAME PB]Plataforma
+[DESC PB]As principais características desse gênero são correr e pular.<br>Pequenos quebra-cabeças e sequências de ação também são bem-vindos.
 [DATE]OCT 1980
 [RES POINTS]600
 [PRICE]50000
@@ -205,6 +219,8 @@
 [DESC CH]在这个类型游戏中，高度真实和突破性的画面是必要的.<br>此外，粉丝们对策略性的游戏元素也很在意.
 [DESC TU]Bu türde yüksek gerçekçilik ve çığır açan grafikler gereklidir.<br> Ayrıca, hayranlar stratejik oynanış öğelerinden memnunlar.
 [DESC FR]Un grand réalisme et des graphismes révolutionnaires sont nécessaires dans ce genre.<br>De plus, les fans sont satisfaits des éléments de gameplay stratégiques.
+[NAME PB]Simulação
+[DESC PB]Alto realismo e gráficos inovadores são necessários neste gênero.<br>Além disso, os fãs estão satisfeitos com os elementos de jogabilidade estratégica.
 [DATE]DEC 1981
 [RES POINTS]700
 [PRICE]60000
@@ -227,12 +243,14 @@
 [NAME GE]Sportspiel
 [NAME CH]体育
 [NAME TU]Spor Oyunu
-[NAME FR]Sport
+[NAME FR]Jeu de Sport
 [DESC EN]Sports fans demand realism and a good computer opponent.<br>Great graphics and sound are a must.
 [DESC GE]Sportfreunde verlangen Realismus und einen guten Computergegner.<br>Tolle Grafik und Sound sind Pflicht.
 [DESC CH]体育迷们对现实主义的要求，以及对电脑对手的实力要求很高.<br>此外还必须拥有极高的画质和很好的音效.
 [DESC TU]Spor hayranları gerçekçilik ve iyi bir bilgisayar rakibi ister.<br> Harika grafikler ve ses şarttır.
 [DESC FR]Les amateurs de sport exigent du réalisme et un bon adversaire informatique.<br>De superbes graphismes et un son sont indispensables.
+[NAME PB]Esporte
+[DESC PB]Os fãs de esportes exigem realismo e um bom oponente IA.<br>Ótimos gráficos e som são obrigatórios.
 [DATE]JAN 1982
 [RES POINTS]800
 [PRICE]70000
@@ -261,6 +279,8 @@
 [DESC CH]这个类型游戏的目标是赚钱，打造一个经济帝国.<br>这个目标不是靠玩家反应来实现的，<br>而是靠商业思维.
 [DESC TU]Bu türdeki amaç para kazanmak ve bir ekonomik imparatorluk yaratmaktır.<br> Bu hedefe reflekslerle değil, stratejik bir yaklaşımla ulaşılmalıdır.
 [DESC FR]Le but dans ce genre est de gagner de l'argent et de créer un empire économique.<br>Cet objectif n'est pas à atteindre avec des réflexes,<br>mais avec une approche stratégique.
+[NAME PB]Simulação Econômica
+[DESC PB]O objetivo desse gênero é ganhar dinheiro e criar um império econômico.<br>Esse objetivo não deve ser alcançado com reflexos,<br>mas com uma abordagem estratégica.
 [DATE]FEB 1983
 [RES POINTS]900
 [PRICE]80000
@@ -283,12 +303,14 @@
 [NAME GE]Kampfsportspiel
 [NAME CH]格斗
 [NAME TU]Dövüş Oyunu
-[NAME FR]Combat
+[NAME FR]Jeu de Combat
 [DESC EN]Good graphics and especially violence are the main elements of this genre.<br>No strategic elements are required here, only responsiveness.
 [DESC GE]Gute Grafik und vor allem Gewalt sind Hauptelemente,<br>die in diesem Genre stecken.<br>Keine strategischen Elemente, sondern nur Reaktionsvermögen werden hier verlangt.
 [DESC CH]画质好，尤其是暴力要素是这个类型的主要玩法.<br>这里不需要战略要素，只需要操作速度.
 [DESC TU]İyi grafikler ve özellikle şiddet bu türün ana unsurlarıdır.<br> Burada hiçbir stratejik öğeye gerek yoktur, yalnızca duyarlılık.
 [DESC FR]Les bons graphismes et surtout la violence sont les principaux éléments de ce genre.<br>Aucun élément stratégique n'est requis ici, seulement la réactivité.
+[NAME PB]Luta
+[DESC PB]Bons gráficos e especialmente a violência são os principais elementos deste gênero.<br>Nenhum elemento estratégico é necessário aqui, apenas pensamento rápido.
 [DATE]APR 1984
 [RES POINTS]1000
 [PRICE]90000
@@ -317,6 +339,8 @@
 [DESC CH]这个类型的游戏目标是建造一座城市，公园或类似的建筑物.<br>除了这些，还有挣钱也是主要目标.
 [DESC TU]Bu türdeki amaç bir şehir, park veya benzeri bir şey inşa etmektir.<br> Ayrıca, temel amaç para kazanmaktır.
 [DESC FR]Le but dans ce genre est de construire une ville, un parc ou similaire.<br>De plus, gagner de l'argent est l'objectif principal.
+[NAME PB]Construção
+[DESC PB]O objetivo neste gênero é construir uma cidade, um parque ou similar.<br>Além disso, ganhar dinheiro é o objetivo principal.
 [DATE]NOV 1988
 [RES POINTS]1100
 [PRICE]100000
@@ -345,6 +369,8 @@
 [DESC CH]解谜和一些动作内容是该类型游戏的主要内容.<br>把所有的游戏要素都混合在一个运行的电影中.
 [DESC TU]Bu türün ana içeriği küçük bulmacalar ve bazı aksiyon içerikleridir.<br> Her şey bir filmde harmanlanır.
 [DESC FR]Les petits puzzles et certains contenus d'action sont le contenu principal de ce genre.<br>Tout se mélange dans un film qui tourne.
+[NAME PB]Filme Interativo
+[DESC PB]Pequenos quebra-cabeças e alguns conteúdos de ação são o conteúdo principal deste gênero.<br>Tudo se mistura em um filme.
 [DATE]FEB 1990
 [RES POINTS]1200
 [PRICE]150000
@@ -373,6 +399,8 @@
 [DESC CH]快速的战术行动，对抗聪明的对手和<br>建基地是这种类型游戏的要素.
 [DESC TU]Zeki bir rakibe karşı hızlı taktiksel aksiyon ve bir üs inşa etmek bu türün ana unsurlarıdır.
 [DESC FR]Action tactique rapide contre un adversaire intelligent et<br>construire une base sont les principaux éléments de ce genre.
+[NAME PB]Estratégia em Tempo Real
+[DESC PB]A estratégia rápida contra um oponente inteligente e a<br>construção de uma base são os principais elementos desse gênero.
 [DATE]JUN 1991
 [RES POINTS]1300
 [PRICE]170000
@@ -395,12 +423,14 @@
 [NAME GE]First-Person Shooter
 [NAME CH]第一人称射击
 [NAME TU]Birinci Şahıs Nişancı
-[NAME FR]Tir à la 1re personne
+[NAME FR]Tir a la 1er personne
 [DESC EN]Excessive violence and easy puzzle tasks are<br>the most important gameplay elements of this genre.<br>Fast reactions are absolutely needed here.
 [DESC GE]Übertriebene Gewalt und leichte Rätselaufgaben sind die wichtigsten<br>Gameplay-Elemente dieses Genres.<br>Schnelle Reaktionen werden hier unbedingt gebraucht.
 [DESC CH]极度暴力和简单的益智任务是<br>最重要的游戏要素.<br>在这里玩家需要更快的反应速度.
 [DESC TU]Aşırı şiddet ve kolay bulmaca görevleri<br> bu türün en önemli oynanış öğeleridir.<br> Burada kesinlikle hızlı tepkilere ihtiyaç vardır.
 [DESC FR]Une violence excessive et des tâches de puzzle faciles sont<br>les éléments de gameplay les plus importants de ce genre.<br>Des réactions rapides sont absolument nécessaires ici.
+[NAME PB]Tiro em Primeira Pessoa
+[DESC PB]Violência excessiva e tarefas fáceis de quebra-cabeça são<br>os elementos de jogo mais importantes desse gênero.<br>Reações rápidas são absolutamente necessárias aqui.
 [DATE]JUL 1992
 [RES POINTS]1400
 [PRICE]200000
@@ -429,6 +459,8 @@
 [DESC CH]这种类型的游戏要有深刻的剧情.<br>游戏的玩法偏向于休闲.
 [DESC TU]Bu tür, düşünceli hikayeleriyle tanınır.<br> Burada odak noktası rahat oynanış ve aksiyondan daha azdır.
 [DESC FR]Ce genre est connu pour ses histoires réfléchies.<br>Ici, l'accent est mis sur un gameplay détendu et moins sur l'action.
+[NAME PB]Visual Novel
+[DESC PB]Este gênero é conhecido por histórias interessantes.<br>Aqui o foco está na jogabilidade relaxada.
 [DATE]JUN 1992
 [RES POINTS]1400
 [PRICE]200000
@@ -451,12 +483,14 @@
 [NAME GE]Third-Person Shooter
 [NAME CH]第三人称射击
 [NAME TU]Üçüncü Şahıs Nişancı
-[NAME FR]Tir à la 3e personne
+[NAME FR]Tir a la 3e personne
 [DESC EN]Action paired with tricky jumping and climbing passages<br>are the most important gameplay elements here.<br>Good graphics are demanded by fans.
 [DESC GE]Action gepaart mit kniffeligen Sprung- und Kletterpassagen<br>sind hier die wichtigsten Gameplay-Elemente.<br>Eine gute Grafik wird von Fans vorausgesetzt.
 [DESC CH]灵活的操作配合巧妙的跳跃<br>是最重要的游戏要素.<br>玩家还需要很好的画质.
 [DESC TU]Zor atlama ve tırmanma pasajlarıyla birleştirilmiş aksiyon<br> buradaki en önemli oyun öğeleridir.<br> Hayranlar iyi grafikler talep etmektedir.
 [DESC FR]Action associée à des sauts et des escalades difficiles<br>sont les éléments de gameplay les plus importants ici.<br>De bons graphismes sont exigés par les fans.
+[NAME PB]Tiro em Terceira Pessoa
+[DESC PB]Ação combinada com dificuldade<br>são os elementos de jogo mais importantes aqui.<br>Bons gráficos são exigidos pelos fãs.
 [DATE]AUG 1996
 [RES POINTS]1500
 [PRICE]250000
@@ -485,6 +519,8 @@
 [DESC CH]玩家们要求赛车游戏要有良好的操控性和出色的画质.
 [DESC TU]Yarış oyunları hayranları iyi bir kullanım ve harika grafikler ister.
 [DESC FR]Les fans de jeux de course exigent une bonne maniabilité et de superbes graphismes.
+[NAME PB]Corrida
+[DESC PB]Os fãs de jogos de corrida exigem bom manuseio e ótimos gráficos.
 [DATE]JAN 1976
 [RES POINTS]50
 [PRICE]30000
