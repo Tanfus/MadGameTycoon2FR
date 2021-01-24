@@ -1,4 +1,4 @@
-﻿[ID]1
+[ID]1
 [NAME EN]Game Eye v1.0
 [NAME GE]Game Eye v1.0
 [NAME CH]游戏侦察 v1.0
