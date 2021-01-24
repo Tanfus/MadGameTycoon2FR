@@ -1,4 +1,4 @@
-﻿[GAMEPLAY_10]
+[GAMEPLAY_10]
 Le jeu n'est pas du tout amusant. Le gameplay est faible partout!
 Le gameplay est si mauvais que nous n'avions aucune motivation pour continuer à jouer.
 Pour l'intrigue et le gameplay, je n'ai qu'un mot: misérable!
@@ -11,7 +11,7 @@ Le gameplay a commencé faible puis a chuté brusquement.
 [END]
 
 [GRAPHIC_10]
-Les graphismes sont vraiment moche! J'ai rarement vu quelque chose comme ça.
+Les graphismes sont vraiment moches! J'ai rarement vu quelque chose comme ça.
 Les graphismes sont une insulte à mes yeux. Terrible!
 Je ne peux que rire des graphismes extrêmement obsolètes. Sans mots.
 Graphiquement, ce jeu est un scandale. Cela ne devient guère plus laid que ça!
@@ -214,7 +214,7 @@ Malheureusement, les effets sonores et la bande son ne correspondent pas du tout
 Connaissez-vous la musique ennuyeuse dans les grands magasins? Voici à quoi ressemble la bande originale de ce jeu.
 La musique semble complètement sans inspiration et les effets sonores sont mal exécutés.
 Malheureusement, les effets sonores ont dû être créés par des amateurs.
-Les effets sonores sont techniquement complètement dépassés. Beaucoup plus est possible sur ce système de jeu.
+Les effets sonores sont techniquement complètement dépassés. il est possible avec ce système de faire beaucoup mieux.
 [END]
 
 [CONTROL_30]
@@ -279,12 +279,12 @@ Même selon les normes du genre, une plus grande attention aurait pu être accor
 Les graphismes semblent impolis. La concurrence a déjà fait mieux.
 Les graphismes obsolètes ne sont pas polis et ne méritent pas de médaille.
 La représentation graphique non polie est au mieux inférieure à la moyenne.
-Les graphistes ne semblaient pas avoir beaucoup de désir. Le résultat est des graphiques inférieurs à la moyenne.
+Les graphistes ne semblaient pas avoir beaucoup de désir. Un résultat et des graphismes inférieurs à la moyenne.
 Si vous êtes un fan de graphisme, évitez ce jeu.
 Malheureusement, les graphismes ne m'ont pas époustouflé. Peut-être que le jeu a d'autres atouts.
 Visuellement, le jeu a l'air absolument fade.
 Les graphismes peu détaillés ne m'ont pas époustouflé. Ils sont en dessous de la moyenne.
-Dire que les graphiques ressemblent à quelqu'un craché sur le moniteur est une exagération. C'est assez moche.
+Dire que les graphiques ressemblent à quelqu'un qui à  craché sur le moniteur est une exagération. C'est assez moche.
 Les graphismes du jeu sont nettement inférieurs à l'état de l'art.
 Le genre mérite vraiment de meilleurs graphismes. Celui-ci est en dessous de la moyenne.
 Le développeur n'a pas compris que les jeux informatiques sont un support visuel. Je ne peux pas expliquer autrement les graphiques non polis.
@@ -297,7 +297,7 @@ Malheureusement, seule la musique monotone sort des enceintes. Pas gentil!
 Les effets sonores sont inférieurs à la norme du genre. J'ai l'habitude d'entendre mieux.
 Aucun effort n'a été fait avec les sons et la bande-son n'était pas beaucoup mieux.
 Les quelques effets sonores ne sont pas très impressionnants. La plupart des joueurs sont habitués à mieux.
-Les effets sonores numérisés offrent peu de variété. J'aurais souhaité plus.
+Les effets sonores numérisés offrent peu de variétés. J'aurais souhaité plus.
 Le son est techniquement médiocre et dépassé.
 La musique est acceptable, mais les effets sonores sont extrêmement ennuyeux.
 Les effets sonores semblent malheureusement avoir été bricolés une semaine avant la sortie.
@@ -305,7 +305,7 @@ La chanson dans le menu sonne bien! Après cela, il vaut mieux désactiver le so
 Les effets sonores semblent avoir été créés par deux personnes. Un très talentueux, un amateur.
 La musique ne correspond pas du tout au jeu. Les effets sonores sont moyens.
 La musique ressemble à monter sans fin dans un ascenseur. Tout simplement trop monotone!
-Les effets sonores sont en fait acceptables. Cela ne correspond tout simplement pas au genre et au jeu.
+Les effets sonores sont en faits acceptables. Cela ne correspond tout simplement pas au genre et au jeu.
 [END]
 
 [CONTROL_40]
@@ -376,7 +376,7 @@ Visuellement, le jeu ne peut être qualifié que de "médiocre".
 Les graphismes me paraissent sans amour ni polis.
 Les graphismes utilitaires n'ont époustouflé aucun d'entre nous.
 Les jeux du même genre ont déjà de bien meilleurs graphismes.
-Les graphismes du jeu ne sont pas un désastre, mais ils ne méritent pas non plus de récompense.
+Les graphismes du jeu ne sont pas un désastre, mais ils ne méritent pas non plus de récompenses.
 Si vous n'avez pas de forte demande en graphisme, vous pouvez vivre avec.
 Les graphismes du jeu sont acceptables. Cependant, j'aurais aimé voir plus d'attention aux détails.
 Graphiquement, le jeu n'est que moyen ordinaire.
@@ -460,8 +460,8 @@ Graphiquement, ce titre ne recevra aucune distinction, mais il n'a pas non plus 
 Les graphismes ne sont que moyens et n'ont vraiment rien de spécial.
 Les graphiques auraient pu être un peu plus détaillés. Norme de genre pour moi.
 En ce qui concerne les effets graphiques, ce jeu n'a pas besoin de se cacher de la concurrence. Ils sont au-dessus de la moyenne.
-La présentation graphique ne répond pas aux attentes. Moyenne du genre certainement supérieure.
-Les graphismes sont assez moche à certains endroits, mais souvent en moyenne supérieure.
+La présentation graphique ne répond pas aux attentes. Moyenne du genre certainement supérieur.
+Les graphismes sont assez moches à certains endroits, mais souvent en moyenne supérieure.
 Les graphismes semblent un peu dépassés, mais ce n'est pas un échec total.
 Graphiquement, cela vaut la peine d'être vu, mais pourrait utiliser plus d'attention aux détails.
 Les graphismes semblent un peu trop stériles. J'aurais aimé les détails et la variété.
