@@ -158,8 +158,8 @@ Recherche Automatique
 Poursuivre la recherche
 Genres
 Les Thèmes
-Options du Moteur
-Fonctionnalités de Jeu
+Option du Moteur
+Fonction en Jeu
 Matériel
 Divers
 Nouvelle recherche disponible
@@ -202,7 +202,7 @@ Mensuel <NUM>
 Employés non affectés
 Groupe
 Sélectionnez un groupe
-La gestion
+Gestion
 Acheter des DevKits
 Acheter un Moteur
 Acheter une Protection contre la copie
@@ -405,7 +405,7 @@ Une plateforme principale doit être sélectionnée !
 Au moins une langue doit être sélectionnée !
 Concepts de Jeu
 Rapport de Jeu
-Lettres de Fans
+Lettres des Fans
 Cette fonctionnalité n'a pas encore été ajoutée.
 Activer / désactiver toutes les fonctionnalités
 Quantité
@@ -472,11 +472,11 @@ Info-bulle: Graphismes 6
 MoCap [Animations du lecteur]
 MoCap [Animations PNJ]
 Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
-Support le développement
+Assistance
 Annuler l'assistance
 Attendez...
-<b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous aurez d'offre d'emplois. <br> De plus, le paiement est plus élevé.
-Motivation moyenne de vos collaborateurs
+<b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous aurez d'offres d'emplois. <br> De plus, le paiement est plus élevé.
+Motivation moyenne de vos employés
 Le Genre <color=green><NAME1></color> et le Thème <color=green><NAME2></color> sont actuellement à la mode.
 Le Genre <color=red><NAME1></color> et le Thème <color=red><NAME2></color> sont actuellement impopulaires.
 Cette tendance se poursuivra pendant <color=blue><TIME></color> semaines.
@@ -504,7 +504,7 @@ Le développeur <color=blue><NAME1></color> a utilisé votre moteur pour <color=
 Part en pourcentage
 Partager par partie
 <b>PDG</b> <br> Votre personnage ne perd pas sa motivation.
-Personnage de joueur
+Personnage du joueur
 Aucune salle attribuée
 L'employé a démissionné
 Le service du personnel rapporte que <color=blue><NAME></color> a démissionné. Vous devez toujours faire attention aux besoins de vos employés et éviter les longues périodes de crise et le manque de motivation.
@@ -914,7 +914,7 @@ L'amélioration du jeu a déjà été réalisée
 En cours
 Vous n'avez pas sélectionné d'amélioration de jeu!
 Amélioration du gameplay pour <NAME1> terminée
-Réaffecter le support
+Rediriger l'assistance
 Graphismes de haute qualité
 Amélioration graphique pour <NAME1> terminée
 Nécessite la fonctionnalité de jeu <color=yellow><NAME></color>
@@ -1148,7 +1148,7 @@ Vendre des actions
 Il n'y a pas d'espace de stockage disponible.
 Vendre le stock entier
 Voulez-vous vraiment vendre le stock complet? Un distributeur de jeux pour petit budget vous a fait une offre.
-Quel jeu souhaitez-vous republier en tant que <color=blue> budgetgame </color>? Seuls les jeux qui ne sont pas disponibles depuis au moins <color=blue> un an </color> peuvent être sélectionnés.
+Quel jeu souhaitez-vous republier en tant que <color=blue> jeu classique </color>? Seuls les jeux qui ne sont pas disponibles depuis au moins <color=blue> un an </color> peuvent être sélectionnés.
 <color=blue><NUM> </color> semaines à disponible
 Semaines à disponible
 Sous quelle étiquette souhaitez-vous publier la version budgétaire?
@@ -1156,7 +1156,7 @@ Classique
 argent
 Meilleur choix
 Platine
-<color=blue> Réédition possible </color>
+<color=blue> réédition possible </color>
 Vous ne pouvez pas choisir de contenu pour les Grands Classiques!
 Les fans sont divisés en fonction de leur genre préféré.
 Étude de marché
