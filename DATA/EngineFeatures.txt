@@ -1,4 +1,4 @@
-﻿[ID]0
+[ID]0
 [TYP]0
 [NAME EN]ASCII Graphics
 [NAME GE]ASCII Grafik
@@ -10,6 +10,8 @@
 [DESC TU]Grafikler yalnızca metin karakterleriyle görüntülenir.
 [NAME FR]ASCII Graphique
 [DESC FR]Les graphiques ne sont affichés que par des caractères de texte.
+[NAME PB]ASCII Graphics
+[DESC PB]Os gráficos do jogo são exibidos apenas em textos.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -33,6 +35,8 @@
 [DESC TU]Oyunun grafikleri çizgilerle temsil edilmektedir.
 [NAME FR]Graphiques en Ligne 2D
 [DESC FR]Les graphismes du jeu sont représentés par des lignes.
+[NAME PB]2D Line Graphics
+[DESC PB]Os gráficos do jogo são exibidos em linhas.
 [DATE]FEB 1977
 [RES POINTS]50
 [PRICE]10000
@@ -56,6 +60,8 @@
 [DESC TU]Grafik, düşük çözünürlüklü bloklar kullanılarak görüntülenir.
 [NAME FR]Graphiques de Blocs 2D Primitifs
 [DESC FR]Le graphique est affiché à l'aide de blocs à basse résolution.
+[NAME PB]Primitive 2D Block Graphics
+[DESC PB]Os gráficos do jogo são exibidos usando blocos de baixa resolução.
 [DATE]DEC 1978
 [RES POINTS]100
 [PRICE]20000
@@ -79,6 +85,8 @@
 [DESC TU]Daha yüksek çözünürlüklü 2B blok grafiklerin geliştirilmiş versiyonu.
 [NAME FR]Graphiques de Blocs 2D Modernes
 [DESC FR]Une version améliorée des graphiques en blocs 2D avec une résolution plus élevée.
+[NAME PB]Modern 2D Block Graphics
+[DESC PB]Uma versão aprimorada de gráficos de blocos 2D com uma resolução mais alta.
 [DATE]AUG 1981
 [RES POINTS]250
 [PRICE]50000
@@ -102,6 +110,8 @@
 [DESC TU]Grafikler, 16 renk ve pürüzsüz kaydırma ile aynı anda görüntülenebilir 64 spritten oluşur.
 [NAME FR]Graphiques 2D 8 Bits
 [DESC FR]Le graphique se compose de 64 affichables simultanément<br>sprites avec 16 couleurs et défilement fluide.
+[NAME PB]2D 8-Bit Graphics
+[DESC PB]Os gráficos consistem em 64 sprites sendo exibíidos<br>simultaneamente com 16 cores e rolagem suave.
 [DATE]JUN 1983
 [RES POINTS]350
 [PRICE]70000
@@ -125,6 +135,8 @@
 [DESC TU]Dokusuz ve düşük kare hızı olmayan tel kafes modelleri oyun dünyasını 3B olarak gösterir.
 [NAME FR]Graphiques Vectoriels 3D Primitifs
 [DESC FR]Les modèles filaires sans textures et avec une faible fréquence d'images montrent le monde du jeu en 3D.
+[NAME PB]Primitive 3D Vector Graphics
+[DESC PB]Modelos de wireframe sem texturas e baixa taxa de quadros mostram o mundo do jogo em 3D.
 [DATE]MAR 1984
 [RES POINTS]400
 [PRICE]80000
@@ -148,6 +160,8 @@
 [DESC TU]Aynı anda görüntülenebilir 128 hareketli karakter ve<br> yumuşak paralaks kaydırma, oyunun aksiyonunu gösterir.
 [NAME FR]Graphiques 2D 16 Bits
 [DESC FR]128 sprites affichables simultanément et<br>le défilement de parallaxe lisse montre l'action du jeu.
+[NAME PB]2D 16-Bit Graphics
+[DESC PB]128 sprites exibíveis simultaneamente e<br>rolagem de paralaxe suave mostram a ação do jogo.
 [DATE]OCT 1987
 [RES POINTS]550
 [PRICE]110000
@@ -171,6 +185,8 @@
 [DESC TU]Dokulu 3B modeller ve makul bir kare hızı ile<br> gerçekçi oyun dünyaları görüntülenebilir.
 [NAME FR]Graphiques Vectoriels 3D Modernes
 [DESC FR]Avec des modèles 3D texturés et une fréquence d'images modérée,<br>des mondes de jeu réalistes peuvent être affichés.
+[NAME PB]Modern 3D Vector Graphics
+[DESC PB]Com modelos 3D texturizados e uma taxa de quadros moderada,<br>mundos de jogos realistas podem ser exibidos.
 [DATE]FEB 1990
 [RES POINTS]700
 [PRICE]140000
@@ -194,6 +210,8 @@
 [DESC TU]2B dünyayı temel alan<br> sahte bir 3B ortamı görüntüleme tekniği.
 [NAME FR]Graphiques Pseudo 3D Primitifs
 [DESC FR]Une technique pour afficher un faux environnement 3D basé sur un monde 2D.
+[NAME PB]Primitive Pseudo 3D Graphics
+[DESC PB]Uma técnica para exibir um ambiente 3D falso<br>baseado em um mundo 2D.
 [DATE]JAN 1991
 [RES POINTS]750
 [PRICE]150000
@@ -217,6 +235,8 @@
 [DESC TU]Bu teknikle gerçekçi görünümlü manzaralar<br> ilk kez 3B olarak görüntülenebilir.
 [NAME FR]Graphiques Voxel 3D
 [DESC FR]Avec cette technique, des paysages d'apparence réaliste<br>peut être affiché en 3D pour la première fois.
+[NAME PB]3D Voxel Graphics
+[DESC PB]Com esta técnica, paisagens de aparência realista<br>podem ser exibidas em 3D pela primeira vez.
 [DATE]APR 1992
 [RES POINTS]800
 [PRICE]160000
@@ -240,6 +260,8 @@
 [DESC TU]Sözde 3B grafiklerin<br> daha iyi çözünürlük, yükseklik farklılıkları ve ışık efektleriyle geliştirilmiş bir sürümü.
 [NAME FR]Graphiques Pseudo 3D Modernes
 [DESC FR]Une version améliorée des pseudo graphismes 3D<br>avec une meilleure résolution, des différences de hauteur et des effets de lumière.
+[NAME PB]Modern Pseudo 3D Graphics
+[DESC PB]Uma versão melhorada dos gráficos pseudo 3D com melhor resolução, diferenças de altura e efeitos de luz.
 [DATE]OCT 1994
 [RES POINTS]900
 [PRICE]180000
@@ -263,6 +285,8 @@
 [DESC TU]Dokulu çokgenler ve gerçekçi ışık efektleri<br> 3B oyun dünyasını gösterir.
 [NAME FR]Graphiques 3D
 [DESC FR]Polygones texturés et effets de lumière réalistes<br>montrer le monde du jeu en trois dimensions.
+[NAME PB]3D Graphics
+[DESC PB]Polígonos texturizados e efeitos de luz realistas<br>mostram o mundo tridimensional do jogo.
 [DATE]FEB 1996
 [RES POINTS]1000
 [PRICE]200000
@@ -286,6 +310,8 @@
 [DESC TU]Daha yüksek çözünürlük, harika su efektleri ve daha fazla görünürlük ile<br> daha da güzel 3B manzaralar görüntülenebilir.
 [NAME FR]Graphiques Voxel 3D Modernes
 [DESC FR]Avec une résolution plus élevée, d'excellents effets d'eau et une plus grande visibilité,<br>des paysages 3D encore plus beaux peuvent être affichés.
+[NAME PB]Modern 3D Voxel Graphics
+[DESC PB]Com uma resolução mais alta, ótimos efeitos de água e maior visibilidade,<br>paisagens 3D ainda mais bonitas podem ser exibidas.
 [DATE]JUL 1997
 [RES POINTS]1050
 [PRICE]210000
@@ -309,6 +335,8 @@
 [DESC TU]Oyun dünyası, donanım hızlandırmalı 3B grafiklerle temsil edilmektedir.
 [NAME FR]Graphiques 3D Avancés
 [DESC FR]Le monde du jeu est représenté par des graphismes 3D accélérés par le matériel.
+[NAME PB]Advanced 3D Graphics
+[DESC PB]O mundo do jogo é representado por gráficos 3D acelerados por hardware.
 [DATE]DEC 1998
 [RES POINTS]1100
 [PRICE]220000
@@ -332,6 +360,8 @@
 [DESC TU]Yansımalar, gerçekçi su<br> ve gölgeler gibi en son efektler, oyunun 3B grafiklerini geliştirir.
 [NAME FR]Graphiques 3D Modernes
 [DESC FR]Derniers effets comme les reflets, l'eau réaliste<br>et les ombres améliorent les graphismes 3D du jeu.
+[NAME PB]Modern 3D Graphics
+[DESC PB]Os efeitos mais recentes como reflexos, imagens de água realistas e sombras melhoram os gráficos 3D do jogo.
 [DATE]MAY 2001
 [RES POINTS]1250
 [PRICE]250000
@@ -355,6 +385,8 @@
 [DESC TU]Bu teknikle, gerçekçi bitki örtüsüne sahip devasa manzaralar 3B olarak görüntülenebilir.
 [NAME FR]Graphiques 3D Monde Ouvert
 [DESC FR]Avec cette technique d'immenses paysages avec<br>une végétation réaliste peut être affichée en 3D.
+[NAME PB]OpenWorld 3D Graphics
+[DESC PB]Com esta técnica, grandes paisagens com vegetação realista podem ser exibidas em 3D.
 [DATE]NOV 2006
 [RES POINTS]1500
 [PRICE]300000
@@ -378,6 +410,8 @@
 [DESC TU]Çok fazla bitki örtüsüne sahip 3B manzaralar,<br> gelişmiş görüş ve yüksek kare hızı oyun dünyasını gösterir.
 [NAME FR]Graphiques 3D Monde Ouvert Avancés
 [DESC FR]Paysages 3D avec beaucoup de végétation,<br>une visibilité améliorée et une fréquence d'images élevée montrent le monde du jeu.
+[NAME PB]Advanced OpenWorld 3D Graphics
+[DESC PB]Paisagens 3D com muita vegetação,<br>melhor visibilidade e alta taxa de quadros mostram o mundo do jogo.
 [DATE]SEP 2011
 [RES POINTS]1750
 [PRICE]350000
@@ -401,6 +435,8 @@
 [DESC TU]Bu teknikle, büyük şehirler, ormanlar<br> ve göller tek bir harita üzerinde görüntülenebilir.
 [NAME FR]Graphiques 3D Monde Ouvert Modernes
 [DESC FR]Avec cette technique, d'immenses villes, des forêts<br>et les lacs peuvent être affichés sur une seule carte.
+[NAME PB]Modern OpenWorld 3D Graphics
+[DESC PB]Com essa técnica, grandes cidades, florestas<br>e lagos podem ser exibidos em um único mapa.
 [DATE]JUN 2015
 [RES POINTS]1950
 [PRICE]390000
@@ -422,8 +458,10 @@
 [DESC GE]In hoher Auflösung werden riesige OpenWorld-Areale<br>mit sehr hoher Sichtweite und tollen Effekten dargestellt.
 [DESC CH]高分辨率，巨大的开放世界<br>显示的逼真度非常高，效果非常好.
 [DESC TU]Yüksek çözünürlükte, büyük Açık Dünya alanları<br> çok yüksek görünürlük ve harika efektlerle görüntülenir.
-[NAME FR]Graphiques 3D Monde Ouvert Haut de Gamme
+[NAME FR]Graphiques 3D Monde Ouver Haut de Gamme
 [DESC FR]En haute résolution, d'énormes zones OpenWorld sont<br>affiché avec une très haute visibilité et de grands effets.
+[NAME PB]High-End OpenWorld 3D Graphics
+[DESC PB]Em alta resolução, grandes áreas do mundo aberto são<br>exibidas com alta visibilidade e ótimos efeitos.
 [DATE]FEB 2018
 [RES POINTS]2100
 [PRICE]420000
@@ -447,6 +485,8 @@
 [DESC TU]Bu teknik, gerçek dünyadan ayırt edilemeyen grafikleri göstermek için kullanılabilir.
 [NAME FR]Graphiques 3D Réels
 [DESC FR]Cette technique peut être utilisée pour afficher des graphiques qui<br>ne peut pas être distingué du monde réel.
+[NAME PB]Real 3D Graphics
+[DESC PB]Esta técnica pode ser usada para exibir gráficos<br>que não podem ser distinguidos do mundo real.
 [DATE]DEC 2022
 [RES POINTS]2300
 [PRICE]460000
@@ -470,6 +510,8 @@
 [DESC TU]Hoparlörlerden yalnızca birkaç bip sesi geliyor.
 [NAME FR]Son Haut-Parleur
 [DESC FR]Seuls quelques bips sortent des enceintes.
+[NAME PB]Speaker Sound
+[DESC PB]Apenas alguns bipes saem dos alto-falantes.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -493,6 +535,8 @@
 [DESC TU]Bu teknikle bazı ilkel mono ses efektleri çalınabilir.
 [NAME FR]Son Mono Primitif
 [DESC FR]Avec cette technique, certains effets sonores mono primitifs peuvent être joués.
+[NAME PB]Primitive Mono Sound
+[DESC PB]Com esta técnica, alguns efeitos sonoros mono primitivos podem ser reproduzidos.
 [DATE]OCT 1977
 [RES POINTS]50
 [PRICE]10000
@@ -516,6 +560,8 @@
 [DESC TU]Bazı Basit Ses Efektleri stereo olarak oynatılır.
 [NAME FR]Son Stéréo Primitif
 [DESC FR]Certains effets sonores simples sont lus en stéréo.
+[NAME PB]Primitive Stereo Sound
+[DESC PB]Alguns efeitos sonoros simples são reproduzidos em estéreo.
 [DATE]MAY 1980
 [RES POINTS]200
 [PRICE]40000
@@ -539,6 +585,8 @@
 [DESC TU]Bu teknikle, ilk kez kabul edilebilir kalitede sesler çıkarılır.
 [NAME FR]Son 8 Bits
 [DESC FR]Avec cette technique, les sons sont acceptables<br>la qualité est sortie pour la première fois.
+[NAME PB]8 Bit Sound
+[DESC PB]Com essa técnica, sons com qualidade<br>aceitável são reproduzidos pela primeira vez.
 [DATE]JUL 1983
 [RES POINTS]350
 [PRICE]70000
@@ -562,6 +610,8 @@
 [DESC TU]8 bit sesin daha fazla kanalla geliştirilmiş bir versiyonu.<br> Bu, ses kalitesini artırır.
 [NAME FR]Son 8 Bits Avancé
 [DESC FR]Une version améliorée du son 8 bits avec plus de canaux.<br>Cela augmente la qualité du son.
+[NAME PB]Advanced 8 Bit Sound
+[DESC PB]Uma versão aprimorada do som de 8 bits com mais canais.<br>Isso aumenta a qualidade do som.
 [DATE]APR 1985
 [RES POINTS]450
 [PRICE]90000
@@ -585,6 +635,8 @@
 [DESC TU]Daha yüksek bit hızı, işitilebilir gürültü olmadan <br> ses ve müzik çalmaya izin verir.
 [NAME FR]Son 16 Bits
 [DESC FR]Un débit plus élevé permet de jouer<br>son et musique sans bruit audible.
+[NAME PB]16 Bit Sound
+[DESC PB]Uma taxa de bits mais alta permite<br>reproduzir som e música sem ruídos.
 [DATE]JAN 1987
 [RES POINTS]550
 [PRICE]110000
@@ -608,6 +660,8 @@
 [DESC TU]Geliştirilmiş bir 16 bit ses teknolojisi, ek ses kanallarının kullanımına<br> izin verir.
 [NAME FR]Son 16 Bits Avancé
 [DESC FR]Une technologie de son 16 bits améliorée permet<br>l'utilisation de canaux sonores supplémentaires.
+[NAME PB]Advanced 16 Bit Sound
+[DESC PB]Uma tecnologia de som de 16 bits aprimorada<br>permite o uso de canais de som adicionais.
 [DATE]MAY 1990
 [RES POINTS]700
 [PRICE]140000
@@ -631,6 +685,8 @@
 [DESC TU]32-bit ses teknolojisi, yüksek kaliteli müzik ve ses efektlerinin<br> çalınmasına izin verir.
 [NAME FR]Son 32 Bits
 [DESC FR]La technologie audio 32 bits permet de jouer<br>musique et effets sonores de haute qualité.
+[NAME PB]32 Bit Sound
+[DESC PB]A tecnologia de som de 32 bits permite reproduzir<br>músicas e efeitos sonoros de alta qualidade. 
 [DATE]MAR 1992
 [RES POINTS]800
 [PRICE]160000
@@ -654,6 +710,8 @@
 [DESC TU]Gelişmiş performansa sahip gelişmiş bir 32 bit ses teknolojisi.
 [NAME FR]Son 32 Bits Avancé
 [DESC FR]Une technologie sonore 32 bits améliorée avec des performances améliorées.
+[NAME PB]Advanced 32 Bit Sound
+[DESC PB]Uma tecnologia de som de 32 bits aprimorada com desempenho aprimorado.
 [DATE]NOV 1998
 [RES POINTS]1100
 [PRICE]220000
@@ -677,6 +735,8 @@
 [DESC TU]Bu teknik, dinleyiciyi çevreleyen<br> birden çok hoparlörün kullanımına izin verir.
 [NAME FR]Technologie de Son Surround
 [DESC FR]Cette technique permet l'utilisation de<br>plusieurs haut-parleurs qui entourent l'auditeur.
+[NAME PB]Surround Sound Technology
+[DESC PB]Essa técnica permite o uso de vários alto-falantes que envolvem o usuário.
 [DATE]OCT 2003
 [RES POINTS]1350
 [PRICE]270000
@@ -700,6 +760,8 @@
 [DESC TU]Gerçekçi 3D sesleri çalabilen çok kanallı bir teknoloji.
 [NAME FR]Son 3D 3.1
 [DESC FR]Une technologie multicanal qui peut jouer des sons 3D réalistes.
+[NAME PB]3D Sound 3.1
+[DESC PB]Uma tecnologia multicanal que pode reproduzir sons 3D realistas.
 [DATE]MAR 2007
 [RES POINTS]1550
 [PRICE]310000
@@ -723,6 +785,8 @@
 [DESC TU]Daha fazla kanala sahip gelişmiş bir 3D ses teknolojisi.
 [NAME FR]Son 3D 5.1
 [DESC FR]Une technologie de son 3D améliorée avec plus de canaux.
+[NAME PB]3D Sound 5.1
+[DESC PB]Uma tecnologia de som 3D aprimorada com mais canais.
 [DATE]JUL 2010
 [RES POINTS]1700
 [PRICE]340000
@@ -746,6 +810,8 @@
 [DESC TU]Bu 3D ses teknolojisi ile gerçekçi<br> efektler ve müzik çok yüksek ses kalitesinde çalınabilir.
 [NAME FR]Son 3D 7.1
 [DESC FR]Avec cette technologie sonore 3D, réaliste<br>les effets et la musique peuvent être joués avec une qualité sonore très élevée.
+[NAME PB]3D Sound 7.1
+[DESC PB]Com esta tecnologia de som 3D, efeitos reais<br>e música podem ser reproduzidos em altíssima qualidade de som.
 [DATE]FEB 2014
 [RES POINTS]1900
 [PRICE]380000
@@ -769,6 +835,8 @@
 [DESC TU]Bu teknoloji ile, sesler ve müzik<br> benzeri görülmemiş kalitede çalınabilir.
 [NAME FR]Véritable son 3D
 [DESC FR]Avec cette technologie, les sons et la musique<br>peut être joué avec une qualité sans précédent.
+[NAME PB]Real 3D Sound
+[DESC PB]Com esta tecnologia, sons e música<br>podem ser reproduzidos com uma qualidade sem precedentes.
 [DATE]DEC 2018
 [RES POINTS]2100
 [PRICE]420000
@@ -792,6 +860,8 @@
 [DESC TU]Oyuncunun hareketlerine tepki veren çok basit bir yapay zeka.
 [NAME FR]AI primitive [niveau 1]
 [DESC FR]Une intelligence artificielle très simple<br>qui réagit aux actions du joueur.
+[NAME PB]Primitive AI [Level 1]
+[DESC PB]Uma inteligência artificial muito simples<br>que reage às ações do jogador.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -815,6 +885,8 @@
 [DESC TU]Oyuncunun hareketlerine tepki veren, biraz geliştirilmiş bir yapay zeka.
 [NAME FR]AI primitive [niveau 2]
 [DESC FR]Une intelligence artificielle légèrement améliorée,<br>qui réagit aux actions du joueur.
+[NAME PB]Primitive AI [Level 2]
+[DESC PB]Uma inteligência artificial ligeiramente melhorada,<br>que reage às ações do jogador.
 [DATE]JAN 1980
 [RES POINTS]200
 [PRICE]40000
@@ -838,6 +910,8 @@
 [DESC TU]Bu basit yapay zeka, birkaç eylemi aynı anda<br> işleyebilir.
 [NAME FR]AI primitive [niveau 3]
 [DESC FR]Cette simple intelligence artificielle peut<br>traiter plusieurs actions simultanément.
+[NAME PB]Primitive AI [Level 3]
+[DESC PB]Esta inteligência artificial simples pode<br>processar várias ações simultaneamente.
 [DATE]JAN 1984
 [RES POINTS]400
 [PRICE]80000
@@ -861,6 +935,8 @@
 [DESC TU]Bu yapay zeka ile rakipler<br> oyuncuya çok daha iyi tepki verebilir.
 [NAME FR]AI améliorée [niveau 1]
 [DESC FR]Avec cette intelligence artificielle, les adversaires<br>peut réagir beaucoup mieux au joueur.
+[NAME PB]Improved AI [Level 1]
+[DESC PB]Com essa inteligência artificial os<br>inimigos podem reagir muito melhor ao jogador.
 [DATE]JAN 1988
 [RES POINTS]600
 [PRICE]120000
@@ -884,6 +960,8 @@
 [DESC TU]Yapay zekanın bu sürümünde, kabul edilebilir bir yol bulma sistemi eklendi.
 [NAME FR]IA améliorée [niveau 2]
 [DESC FR]Dans cette version de l'intelligence artificielle un<br>un système de recherche de chemin acceptable a été ajouté.
+[NAME PB]Improved AI [Level 2]
+[DESC PB]Nesta versão de inteligência artificial, um<br>sistema de pathfinding aceitável foi adicionado.
 [DATE]JAN 1992
 [RES POINTS]800
 [PRICE]160000
@@ -907,6 +985,8 @@
 [DESC TU]Bu yapay zeka sürümü ile<br> ilk kez gerçekçi bir rakip davranışı simüle edilebilir.
 [NAME FR]IA améliorée [niveau 3]
 [DESC FR]Avec cette version de l'intelligence artificielle,<br>un comportement réaliste de l'adversaire peut être simulé pour la première fois.
+[NAME PB]Improved AI [Level 3]
+[DESC PB]Com esta versão de inteligência artificial,<br>um comportamento realista do oponente pode ser simulado pela primeira vez.
 [DATE]JAN 1996
 [RES POINTS]1000
 [PRICE]200000
@@ -930,6 +1010,8 @@
 [DESC TU]Etkili bir yol bulma sistemi ve hızla hesaplanan düşman eylemleri<br> bu sürümü gelişmiş bir yapay zeka haline getiriyor.
 [NAME FR]IA avancée [niveau 1]
 [DESC FR]Un système de repérage efficace et des actions ennemies rapidement calculées<br>faire de cette version une intelligence artificielle avancée.
+[NAME PB]Advanced AI [Level 1]
+[DESC PB]Um sistema de detecção de caminhos eficaz e ações inimigas calculadas rapidamente<br>tornam esta versão uma inteligência artificial avançada.
 [DATE]JAN 2000
 [RES POINTS]1200
 [PRICE]240000
@@ -953,6 +1035,8 @@
 [DESC TU]Bu gelişmiş yapay zeka ile, rakipler oyuncu için ciddi rakipler haline geliyor.
 [NAME FR]IA avancée [niveau 2]
 [DESC FR]Avec cette intelligence artificielle avancée,<br>les adversaires deviennent des adversaires sérieux pour le joueur.
+[NAME PB]Advanced AI [Level 2]
+[DESC PB]Com essa inteligência artificial avançada, os inimigos<br>se tornam adversários perigosos para o jogador.
 [DATE]JAN 2004
 [RES POINTS]1400
 [PRICE]280000
@@ -976,6 +1060,8 @@
 [DESC TU]Yapay zekanın bu versiyonu,<br> birçok eylemi önceden hesaplamaya izin verir.<br> Bu, rakiplerin zekasını yeniden artırır.
 [NAME FR]IA avancée [niveau 3]
 [DESC FR]Cette version de l'intelligence artificielle permet de calculer<br>plusieurs actions à l'avance.<br>Cela augmente à nouveau l'intelligence des adversaires.
+[NAME PB]Advanced AI [Level 3]
+[DESC PB]Esta versão de inteligência artificial permite calcular<br>várias ações com antecedência.<br>Isso aumenta muito a inteligência dos inimigos.
 [DATE]JUN 2008
 [RES POINTS]1600
 [PRICE]320000
@@ -999,6 +1085,8 @@
 [DESC TU]Bu yapay zeka, eğitimli bir kişiyi<br> çeşitli şekillerde yenebilir.
 [NAME FR]IA hautement avancée [niveau 1]
 [DESC FR]Cette intelligence artificielle peut vaincre<br>même une personne formée de diverses manières.
+[NAME PB]Highly Advanced AI [Level 1]
+[DESC PB]Essa inteligência artificial pode derrotar<br>até mesmo uma pessoa treinada de várias maneiras.
 [DATE]JAN 2012
 [RES POINTS]1800
 [PRICE]360000
@@ -1022,6 +1110,8 @@
 [DESC TU]Bu yapay zeka, oyuncunun hareketlerine<br> mükemmel bir şekilde yanıt verir.
 [NAME FR]IA hautement avancée [niveau 2]
 [DESC FR]Cette intelligence artificielle répond<br>parfaitement aux actions du joueur.
+[NAME PB]Highly Advanced AI [Level 2]
+[DESC PB]Esta inteligência artificial responde<br>perfeitamente às ações do jogador.
 [DATE]JAN 2016
 [RES POINTS]2000
 [PRICE]400000
@@ -1045,6 +1135,8 @@
 [DESC TU]Bu oldukça gelişmiş yapay zeka <br> tıpkı bir insan gibi davranıyor.
 [NAME FR]IA hautement avancée [niveau 3]
 [DESC FR]Cette intelligence artificielle très développée<br>se comporte exactement comme un être humain.
+[NAME PB]Highly Advanced AI [Level 3]
+[DESC PB]Esta inteligência artificial altamente desenvolvida<br>se comporta exatamente como um ser humano.
 [DATE]JAN 2020
 [RES POINTS]2200
 [PRICE]440000
@@ -1068,6 +1160,8 @@
 [DESC TU]Bu basit fizik işlevi ile<br> yalnızca birkaç nesnenin çarpışması algılanır.
 [NAME FR]Physique primitive [niveau 1]
 [DESC FR]Avec cette simple fonction physique<br>seules les collisions de quelques objets sont détectées.
+[NAME PB]Primitive Physics [Level 1]
+[DESC PB]Com esta função de física simples,<br>apenas colisões de alguns objetos são detectadas.
 [DATE]JAN 1976
 [RES POINTS]0
 [PRICE]0
@@ -1091,6 +1185,8 @@
 [DESC TU]Çarpışmaları daha doğru ve daha hızlı<br> algılayan biraz geliştirilmiş bir fizik.
 [NAME FR]Physique primitive [niveau 2]
 [DESC FR]Une physique légèrement améliorée, qui<br>détecte les collisions plus précisément et plus rapidement.
+[NAME PB]Primitive Physics [Level 2]
+[DESC PB]Uma física ligeiramente melhorada, que<br>detecta colisões com mais precisão e rapidez.
 [DATE]JUN 1980
 [RES POINTS]200
 [PRICE]40000
@@ -1114,6 +1210,8 @@
 [DESC TU]Bu sürüm ile üç boyutlu uzayda çarpışmalar tespit edilebilir.
 [NAME FR]Physique primitive [niveau 3]
 [DESC FR]Avec cette version, les collisions dans<br>un espace tridimensionnel peut être détecté.
+[NAME PB]Primitive Physics [Level 3]
+[DESC PB]Com esta versão, as colisões no espaço tridimensional podem ser detectadas.
 [DATE]JUL 1984
 [RES POINTS]400
 [PRICE]80000
@@ -1137,6 +1235,8 @@
 [DESC TU]Yerçekimi gibi<br> yeni özelliklere sahip geliştirilmiş bir fizik motoru, oyunlarda fiziğin<br> ilk kez gerçekçi görünmesini sağlar.
 [NAME FR]Physique améliorée [niveau 1]
 [DESC FR]Un moteur physique amélioré avec de nouvelles fonctionnalités,<br>comme la gravité, rend la physique<br>dans les jeux semblent réalistes pour la première fois.
+[NAME PB]Improved Physics [Level 1]
+[DESC PB]Uma engine de física aprimorada com novos recursos,<br>como a gravidade, faz com que a física dos jogos pareça realista pela primeira vez.
 [DATE]AUG 1988
 [RES POINTS]600
 [PRICE]120000
@@ -1160,6 +1260,8 @@
 [DESC TU]Fizik motorunun bu sürümü ile,<br> aynı anda daha fazla nesne hesaplanabilir.
 [NAME FR]Physique améliorée [niveau 2]
 [DESC FR]Avec cette version du moteur physique,<br>encore plus d'objets peuvent être calculés en même temps.
+[NAME PB]Improved Physics [Level 2]
+[DESC PB]Com esta versão da engine de física,<br>ainda mais objetos podem ser calculados ao mesmo tempo.
 [DATE]SEP 1992
 [RES POINTS]800
 [PRICE]160000
@@ -1183,6 +1285,8 @@
 [DESC TU]Motorun yeni işlevleri, oyunlarda daha gerçekçi bir fiziği<br> simüle etmeye olanak tanır.
 [NAME FR]Physique améliorée [niveau 3]
 [DESC FR]Les nouvelles fonctions du moteur permettent de<br>simuler une physique encore plus réaliste dans les jeux.
+[NAME PB]Improved Physics [Level 3]
+[DESC PB]Novas funções da engine permitem<br>simular uma física ainda mais realista nos jogos.
 [DATE]OCT 1996
 [RES POINTS]1000
 [PRICE]200000
@@ -1206,6 +1310,8 @@
 [DESC TU]Fiziksel olarak hesaplanan sıvılar gibi yeni özellikler,<br> bu sürümü gelişmiş bir fizik motoru yapıyor.
 [NAME FR]Physique avancée [niveau 1]
 [DESC FR]Nouvelles fonctionnalités telles que les liquides physiquement calculés,<br>faire de cette version un moteur physique avancé.
+[NAME PB]Advanced Physics [Level 1]
+[DESC PB]Novos recursos, como líquidos calculados fisicamente,<br>tornam esta versão uma engine de física avançada.
 [DATE]NOV 2000
 [RES POINTS]1200
 [PRICE]240000
@@ -1229,6 +1335,8 @@
 [DESC TU]Tüm işlevler optimize edilerek, oyun dünyasındaki tüm nesneler<br> artık fiziksel olarak aynı anda hesaplanabiliyor.
 [NAME FR]Physique avancée [niveau 2]
 [DESC FR]En optimisant toutes les fonctions, tous les objets du monde du jeu<br>peut maintenant être physiquement calculé simultanément.
+[NAME PB]Advanced Physics [Level 2]
+[DESC PB]Ao otimizar todas as funções, todos os objetos no mundo do jogo<br>agora podem ser calculados simultaneamente.
 [DATE]DEC 2004
 [RES POINTS]1400
 [PRICE]280000
@@ -1252,6 +1360,8 @@
 [DESC TU]Kapsamlı bir fizik fonksiyonları kütüphanesi<br> oyunlardaki fiziğin gerçekçi görünmesini sağlar.
 [NAME FR]Physique avancée [niveau 3]
 [DESC FR]Une vaste bibliothèque de fonctions physiques<br>rend la physique des jeux réaliste.
+[NAME PB]Advanced Physics [Level 3]
+[DESC PB]Uma extensa biblioteca de funções de física<br>faz com que a física nos jogos pareça realista.
 [DATE]MAR 2008
 [RES POINTS]1600
 [PRICE]320000
@@ -1275,6 +1385,8 @@
 [DESC TU]Bu fizik motoru,<br> binlerce parçacığı fiziksel olarak doğru hesaplayabilir.
 [NAME FR]Physique très avancée [niveau 1]
 [DESC FR]Ce moteur physique peut même calculer<br>des milliers de particules physiquement correctes.
+[NAME PB]Highly Advanced Physics [Level 1]
+[DESC PB]Esta engine de física pode até calcular milhares de partículas fisicamente corretas.
 [DATE]JUN 2012
 [RES POINTS]1800
 [PRICE]360000
@@ -1298,6 +1410,8 @@
 [DESC TU]Gelişmiş fizik motorunun optimize edilmiş versiyonu,<br> daha gerçekçi bir fiziği<br> simüle eden ek özellikler içerir.
 [NAME FR]Physique très avancée [niveau 2]
 [DESC FR]La version optimisée du moteur physique avancé,<br>contient des fonctionnalités supplémentaires qui simulent<br>une physique encore plus réaliste.
+[NAME PB]Highly Advanced Physics [Level 2]
+[DESC PB]A versão otimizada da engine de física avançada,<br>contém recursos adicionais que simulam<br>uma física ainda mais realista.  
 [DATE]MAY 2016
 [RES POINTS]2000
 [PRICE]400000
@@ -1321,6 +1435,8 @@
 [DESC TU]Bu sürümle milyonlarca nesne aynı anda<br> fiziksel olarak doğru hesaplanabilir.
 [NAME FR]Physique très avancée [niveau 3]
 [DESC FR]Avec cette version, des millions d'objets peuvent<br>être calculé physiquement correct en même temps.
+[NAME PB]Highly Advanced Physics [Level 3]
+[DESC PB]Com esta versão, milhões de objetos podem ser<br>calculados ao mesmo tempo.
 [DATE]JUN 2020
 [RES POINTS]2200
 [PRICE]440000
