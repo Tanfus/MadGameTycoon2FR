@@ -1,4 +1,4 @@
-﻿Optimiser le moteur graphique <0>
+Optimiser le moteur graphique <0>
 Programmation du système audio <0>
 Développer éditeur de niveau <0>
 Optimiser la physique du jeu <0>
