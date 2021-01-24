@@ -1,4 +1,4 @@
-﻿<b><size=20>MAD GAMES TYCOON 2</size></b>
+<b><size=20>MAD GAMES TYCOON 2</size></b>
 Eggcode Games
 
 <b>DEVELOPMENT</b>
@@ -16,11 +16,12 @@ www.unity.com
 openclipart.org
 
 <b>QUALITY ASSURANCE</b>
-Martin Barth
-Patrick Lehmann
+Martin Barth & Patrick Lehmann
 
 <b>TRANSLATION</b>
-Tanfus, Rayane "fizzrocks" Sirat & Astata
+Tanfus, fizzrocks & Astata
+Halil Kapağan & Mertcan Alsat
+Nihat Can Kabataş & Burak Ay
 
 <b>SPECIAL THANKS</b>
 Michaela Tischmacher & Armida Accossu
