@@ -1,4 +1,4 @@
-﻿[ID]0
+[ID]0
 [TYP]0
 [NAME EN]Chipsatz 1 Mhz
 [NAME GE]Chipsatz 1 Mhz
