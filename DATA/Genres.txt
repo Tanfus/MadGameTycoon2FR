@@ -87,7 +87,7 @@
 [NAME GE]Rollenspiel
 [NAME CH]角色扮演
 [NAME TU]Rol Yapma Oyunu
-[NAME FR]Jeu de Rôle
+[NAME FR]RPG
 [DESC EN]Character management, solving puzzles, fighting monsters.<br>This genre combines many gameplay elements of other genres.
 [DESC GE]Charaktermanagement, Lösen von Rätseln, Kämpfe gegen Monster.<br>Viele Tätigkeiten übernimmt der Spieler ohne<br>großes Reaktionsvermögen besitzen zu müssen.
 [DESC CH]角色管理、完成任务，打怪升级.<br>角色扮演类的游戏结合了很多其他类型的游戏元素.
