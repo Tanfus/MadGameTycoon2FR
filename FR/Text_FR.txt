@@ -961,7 +961,7 @@ Classement des DLC
 Classement des Bundles
 Nouvelles fonctionnalités de jeu
 Contenu complémentaire
-Ajouter
+Patch
 Nouveaux articles
 Nouveaux défis
 Nouveaux ennemis
@@ -1285,7 +1285,7 @@ Soutien
 Sabotage
 L'employé se les gèle !
 Tous les objets sont à jour 
-L'employé trouve que l'endroit est sale !
+L'employé trouve l'endroit sale !
 L'employé se sent mal à l'aise !
 Critiques d'utilisateurs
 Revues de presse
