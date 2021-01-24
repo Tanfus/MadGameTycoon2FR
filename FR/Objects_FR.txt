@@ -1,35 +1,35 @@
-﻿-;-
+-;-
 Bureau I;Lieu de travail pour le développement, Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Chauffage;Les employés qui gèlent deviennent insatisfaits plus rapidement.
 Lampe I;Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Poubelle;Gardez toujours vos bureaux propres,<br>sinon vos employés seront insatisfaits.
 Distributeur d'eau;Les employés assoiffés deviennent insatisfaits plus rapidement.
   Bureau I;Bureau de recherches. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
-Plante;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Cactus;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Plante tropicale;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Plante;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Cactus;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Plante tropicale;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Toilettes;Ici, les besoins les plus importants sont satisfaits.
 Lavabo; Penez à vous laver les mains ! COVID oblige.
-Poster UFO; Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Poster Robot; Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Poster Aleon;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Poster Rétro;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Poster Vaisseau;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Poster UFO; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Poster Robot; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Poster Aleon;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Poster Rétro;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Poster Vaisseau;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Disque d'or; Vous obtenez ce prix pour chaque jeu<br>qui s'est vendu à 1.000.000 d'exemplaires.
-Tableau I;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Tableau II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Tableau III;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Tableau IV;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Tableau V;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Tableau I;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Tableau II;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Tableau III;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Tableau IV;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Tableau V;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Sèche-mains; Faites du bruit, ventilez et séchez vos mains.
 Flipper I; Avec cet objet, vos employés<br> regagneront de la motivation.
 Banc - Brun Clair;Ici, vos employés peuvent<br>s'asseoir pour une pause.
 Banc - Brun foncé;Ici, vos employés peuvent<br>s'asseoir pour une pause.
 Banc - Menthe;Ici, vos employés peuvent<br>s'asseoir pour une pause.
-Commode I; Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Commode II; Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Commode III; Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Armoire à dossiers;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Commode I; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Commode II; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Commode III; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Armoire à dossiers;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Sputnik 3000; Ce robot de nettoyage ultra-moderne enlève toute la saleté. Deutsche Qualität.
 Fauteuil I - Marron; Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
 Fauteuil I - Noir; Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
@@ -37,12 +37,12 @@ Fauteuil I - Vert; Avec cet objet, vos employés peuvent obtenir une nouvelle mo
 Machine de production I; Avec cette machine, vous pouvez produire des jeux.
 Flipper II; Avec cet objet, vos employés<br> regagneront de la motivation.
 Flipper III; Avec cet objet, vos employés<br> regagneront de la motivation.
-Horloge;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Horloge;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Fauteuil II - Gris;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
 Fauteuil II - Bleu;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
 Fauteuil II - Orange;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
 Jeu de Fléchette;Avec cet objet, vos employés peuvent obtenir une nouvelle motivation.
-Lampe II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Lampe II;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Serveur Intex; Les serveurs sont requis pour les jeux MMO et F2P.<br>Ce serveur peut gérer <b><color=blue>100.000</color></b> joueurs.
 Climatisation; Utile pour réguler la température dans les salles serveurs.
 Étagère robuste I; Vos jeux produits sont stockés ici.<br>Sur cet objet, vous pouvez stocker <b><color=blue>25.000</color></b> jeux.
@@ -98,17 +98,17 @@ Tapis IV; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bu
 Tapis V; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Tapis VI; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Réfrigérateur; Idéal pour conserver les aliments périssables.
-Téléviseur; Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Télévision moderne; vos employés sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Téléviseur; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Télévision moderne; vos employés sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Radio; Vos employés sont plus motivés quand<br>ils travaillent dans des bureaux bien équipés.
 Bureau II;Bureau du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau III;Bureau du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau IV;Bureau du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau V;Bureau du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
-Radio Moderne;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Petite armoire I;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Petite armoire II;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
-Petite armoire III;Vos collaborateurs sont plus motivés lorsque<br>ils travaillent dans des bureaux bien équipés.
+Radio Moderne;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Petite armoire I;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Petite armoire II;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Petite armoire III;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Bureau de formation II;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
 Bureau de formation III;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
 Bureau de formation IV;Cela permet aux employés d'être formés.<br>Plus la qualité est élevée, meilleur est le résultat.
