@@ -7,7 +7,7 @@ Expérience
 Coûts de Développement
 $
 À mesure que le niveau d'expérience augmente, les coûts de développement diminuent. <br>De plus, le gameplay, les graphismes, la technologie et les points sonores augmentent.
-Graphique
+Graphismes
 Son
 Intelligence Artificielle
 Physique
@@ -21,12 +21,12 @@ Développement
 Recherche
 Assurance Qualité
 Studio Graphique
-Studio de son
+Studio de Son
 Marketing
 Service Client
 Développement Console
 Entrepôt de Stockage
-Studio de Capture de Mouvement
+Capture de Mouvement
 Toilettes
 Salle de Repos
 Salle de Formation
@@ -36,7 +36,7 @@ Dans le <color=blue>développement</color>, vous pouvez développer des jeux et 
 Dans cette salle, vous pouvez développer de nouvelles technologies.
 Avec l '<color=blue>assurance qualité</color>, vous pouvez améliorer <br> le gameplay de vos jeux et éliminer efficacement les bogues.
 <color=blue>Studios graphiques</color> créent des graphismes professionnels pour vos jeux.
-Avec un <color=blue>Sound Studio</color>, vous pouvez créer des sons de haute qualité pour vos jeux.
+Avec un <color=blue>studio de son</color>, vous pouvez créer des sons de haute qualité pour vos jeux.
 Dans le <color=blue>service Marketing</color>, vous pouvez faire la publicité de vos jeux.
 Le <color=blue>service d'assistance</color> est nécessaire pour soutenir vos fans.
 Le <color=blue>développement de la console</color> n'est pas encore disponible.
@@ -71,7 +71,7 @@ J'accepte
 Prix au mètre carré
 Mètres Carrés
 m2
-▪ Toutes les chambres ne sont pas accessibles.
+▪ Toutes les pièces ne sont pas accessibles.
 Technique
 ▪ La taille minimale de <NUM> doit être remplie.
 ▪ Une porte est manquante.
@@ -157,9 +157,9 @@ Recherche Automatique
 <NUM> Points de recherche
 Poursuivre la recherche
 Genres
-Les Thèmes
-Option du Moteur
-Fonction en Jeu
+Thèmes
+Options de Moteur
+Fonctions de Jeu
 Matériel
 Divers
 Nouvelle recherche disponible
@@ -205,7 +205,7 @@ Sélectionnez un groupe
 Gestion
 Acheter des DevKits
 Acheter un Moteur
-Acheter une Protection contre la copie
+Protections contre la copie
 Acheter des Licences
 Publication d'offres
 Banque
@@ -270,13 +270,13 @@ Licences vendues
 Détails du moteur
 Acheter
 Jeux
-traits
+Fonctions
 Genre
 Développeur
 Unités vendues
 Revenus
 Résultat de l'examen
-La revue
+Revue de Presse
 HIT!
 POUBELLE!
 Nom de la compagnie
@@ -332,8 +332,8 @@ B+
 A
 AA
 AAA
-Max. traits
-Infini
+Max. fonctions
+Illimité
 Groupe ciblé
 Enfants
 Adolescents
@@ -355,7 +355,7 @@ Thème Secondaire
 Supprimer le Thème
 A-Z
 Licence
-Supprimer la licence
+Supprimer la Licence
 Sans licence
 Le nom doit-il être utilisé comme nom de jeu?
 Plateforme principale
@@ -471,8 +471,8 @@ Info-bulle: Graphismes 5
 Info-bulle: Graphismes 6
 MoCap [Animations du lecteur]
 MoCap [Animations PNJ]
-Pour soutenir une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
-Assistance
+Pour assister une autre équipe, cliquez sur une salle du même type avec le <color=blue>bouton gauche de la souris</color>.
+Assistance tâche
 Annuler l'assistance
 Attendez...
 <b> Réputation auprès des clients </b> <br> Plus la réputation est élevée, plus vous aurez d'offres d'emplois. <br> De plus, le paiement est plus élevé.
@@ -489,7 +489,7 @@ Minimiser / Agrandir la fenêtre
 Jeu retiré du marché
 Profits
 Les chiffres de vente de <color=blue><NAME></color> ont fortement baissé. Le jeu a donc a été retiré du marché.
-Semaines en solde
+Semaines de vente
 Coûts Marketing
 Frais de moteur
 <color=blue><NAME1></color> a publié le jeu<color=blue><NAME2></color>.
@@ -644,7 +644,7 @@ Mises à jour et DLC
 Quel type de mise à jour ou de DLC souhaitez-vous développer?
 Mise à jour gratuite
 DLC payant
-Module complémentaire MMO
+Module MMO
 Veuillez sélectionner le contenu de la mise à jour gratuite.
 Pour quel jeu une mise à jour gratuite doit-elle être développée?
 Nombre de mises à jour
@@ -675,7 +675,7 @@ Infos et Histoire
 Éditeur et Développeur
 Mes Consoles
 Moteurs
-Hit Parade
+Jeux les plus vendus
 Classement Hebdomadaire
 Statistiques Free-to-play
 Statistiques MMO
@@ -693,8 +693,8 @@ Afficher uniquement vos propres moteurs
 Revue de Presse
 Bundles
 Jeux des filiales
-L'histoire
-Ventes totales
+Histoire
+Ventes Totales
 Total téléchargements
 24 derniers mois
 Mois en cours
@@ -729,7 +729,7 @@ Si vous souhaitez que de nouvelles mises à jour soient créées automatiquement
 Automatique a été arrêté! <br> Pas assez d'argent.
 Automatique a été arrêté! <br> Il n'y a plus d'ordres.
 Automatique a été arrêté! <br> Le battage médiatique est au maximum.
-Lancer une campagne de fans
+Campagne de fans
 Limite de crédit
 Crédit actuel
 Intérêt mensuel
@@ -747,7 +747,7 @@ Convention de jeux
 Service client
 Marketing et assistance
 Campagne de fans <NAME> terminée
-Fanshop
+Produits Dérivés
 <b>Nombre d'appels, de lettres et d'e-mails</b><br> Pour répondre aux questions de vos fans, <br> vous devez créer un service d'assistance. <br> <br> ▪ Si trop de questions restent sans réponse , vous perdrez des fans. <br> ▪ Évitez les jeux bugués. <br> ▪ À partir de 5 000 fans, un service support est nécessaire pour traiter toutes les questions.
 Plus il y a de lettres, d'appels et de courriels sans réponse, plus vos fans sont insatisfaits.
 Démarrer le support client
@@ -764,12 +764,12 @@ Prix Mad Games
 <NUM> Fans
 Récompenses Positives
 Récompenses Négatives
-Meilleure Bande Son
+Meilleure bande son
 Meilleurs graphismes
 Développeur de l'année
 Editeur de l'année
 Jeu de l'année
-Le pire jeu de l'année
+Pire jeu de l'année
 Disques d'or
 Malade
 <b>Miracle médical</b><br> Les employés dotés d'un système immunitaire fort ne tombent jamais malades.
@@ -918,7 +918,7 @@ Rediriger l'assistance
 Graphismes de haute qualité
 Amélioration graphique pour <NAME1> terminée
 Nécessite la fonctionnalité de jeu <color=yellow><NAME></color>
-Des sons de haute qualité
+Sons de haute qualité
 Amélioration du son pour <NAME1> terminée
 Animations de haute qualité
 Enregistrement de Motion Capture pour <NAME1> terminé
@@ -1099,7 +1099,7 @@ Pin's
 Porte-clés
 Bande Originale
 Figurine Collector
-Prix et contenu de l'emballage
+Options de l'emballage
 Coûts de production
 Édition Standard
 Édition Deluxe
@@ -1143,7 +1143,7 @@ Retirer automatiquement les jeux du marché
 Voulez-vous vraiment retirer le jeu du marché? 
 Vous avez retiré manuellement <color=blue><NAME></color> du marché. Le produit n'est désormais plus disponible.
 Logiciel anti-triche
-Acheter un logiciel anti-triche
+LLogiciels anti-triche
 Vendre des actions
 Il n'y a pas d'espace de stockage disponible.
 Vendre le stock entier
@@ -1167,19 +1167,19 @@ Etude de marché terminée
 Une étude de marché a montré que la plateforme <color=blue><NAME></color> se vendra le plus dans les mois qui viennent.
 Rapport final de <color=blue><NAME></color>
 Le public cible est le moins intéressé par la plateforme <color=blue><NAME></color>.
-L'étude de marché a montré que <color=blue><NUM1></color> joueurs voudraient une <color=blue> version physique</color> et <color=blue><NUM2></color> préfèreraient une <color=blue> version dématerialisée</color>.
-Nous avons pu voir que <color=blue><NUM1></color> acheteurs sont intéressés par une <color=blue> Deluxe Edition</color> et <color=blue><NUM2></color> préfèreraient une <color=blue> Édition Collector</color>.
-Bientôt populaires, avec une probabilité de <color=blue> 80%</color> : <color=blue><NAME1></color> et <color=blue><NAME2></color>.
-Bientôt impopulaires avec <color=blue> 80%</color> probabilité : <color=blue><NAME1></color> et <color=blue><NAME2></color>.
+L'étude de marché a montré que <color=blue><NUM1></color> des joueurs voudraient une <color=blue> version physique</color> et <color=blue><NUM2></color> préfèreraient une <color=blue>version dématerialisée</color>.
+Nous avons pu voir que <color=blue><NUM1></color> des acheteurs sont intéressés par une <color=blue>Deluxe Edition</color> et <color=blue><NUM2></color> préfèreraient une <color=blue>Édition Collector</color>.
+Bientôt populaire (probabilité de <color=blue>80%</color>) : <color=blue><NAME1></color> et <color=blue><NAME2></color>.
+Bientôt impopulaires (probabilité <color=blue>80%</color>) : <color=blue><NAME1></color> et <color=blue><NAME2></color>.
 Vous pouvez effectuer des études de marché dans le service marketing.
 Si vous souhaitez vendre votre moteur, vous devez définir le prix de vente ou les frais de licence.
 Désactiver le son de l'icône de travail
-Meilleurs jeux de tous les temps
+Jeux les mieux notés
 Achats intégrés
 Articles Cosmétiques
 Animaux et Montures
 Packs de Booster
-Articles puissants
+Articles Puissants
 Personnages de jeu spéciaux
 Instances et territoires
 Financement
@@ -1228,10 +1228,10 @@ Cette sauvegarde n'existe pas !
 L'hôte veut sauvegarder la partie.
 Port: 7777
 Prix de l'abonnement
-Modèle économique du free-to-play
-Convertir le MMO en free-to-play
-Allumer / Eteindre le serveur
-Afficher / Masquer les murs
+Modèle économique du F2P
+Convertir le MMO en F2P
+Allumer/Eteindre le serveur
+Afficher/Masquer les murs
 Si vous souhaitez héberger un jeu, vous devez ouvrir le port 7777.
 Si vous souhaitez développer un jeu <color=blue> MMO ou F2P</color>, vous devez ajouter la fonction de jeu <color=blue> Multijoueur en ligne</color>.
 Abonnements
@@ -1277,7 +1277,7 @@ Jeu Terminé
 Augmentation du facteur aléatoire pour les avis
 Studio de <NAME>
 Trouver
-Mettre à jour automatiquement avec les meilleurs articles
+Mettre à jour automatiquement avec le meilleur mobilier
 Voulez-vous vraiment mettre à jour tous les éléments de cette salle?
 Cette fonction n'est disponible qu'en multijoueur.
 Vous pouvez soutenir ou saboter un joueur. Que voulez-vous faire ?
