@@ -1,4 +1,4 @@
-﻿[ID]0
+[ID]0
 [NAME EN]Skill Game
 [NAME GE]Geschicklichkeit
 [NAME CH]技巧
@@ -112,7 +112,7 @@
 
 [ID]4
 [NAME EN]Strategy
-[NAME GE]Strategie
+[NAME GE]Stratégie
 [NAME CH]策略
 [NAME TU]Strateji
 [NAME FR]Stratégie
@@ -171,7 +171,7 @@
 [NAME GE]Platformer
 [NAME CH]横版
 [NAME TU]Platform Oyunu
-[NAME FR]Plateforme
+[NAME FR]Platforme
 [DESC EN]Main features of this genre are running & jumping.<br>Small puzzles and action sequences are also welcome.
 [DESC GE]Hauptmerkmale dieses Genre sind Laufen & Springen.<br>Kleine Rätsel und Actions-Sequenzen werden auch gern gesehen.
 [DESC CH]这种类型游戏的主要特点是奔跑和跳跃.<br>同样也喜欢解谜题和拼图.
@@ -456,7 +456,7 @@
 [DESC GE]Action gepaart mit kniffeligen Sprung- und Kletterpassagen<br>sind hier die wichtigsten Gameplay-Elemente.<br>Eine gute Grafik wird von Fans vorausgesetzt.
 [DESC CH]灵活的操作配合巧妙的跳跃<br>是最重要的游戏要素.<br>玩家还需要很好的画质.
 [DESC TU]Zor atlama ve tırmanma pasajlarıyla birleştirilmiş aksiyon<br> buradaki en önemli oyun öğeleridir.<br> Hayranlar iyi grafikler talep etmektedir.
-[DESC FR]Les actions associées à des sauts et des escalades difficiles<br>sont les éléments de gameplay les plus importants ici.<br>De bons graphismes sont exigés par les fans.
+[DESC FR]Action associée à des sauts et des escalades difficiles<br>sont les éléments de gameplay les plus importants ici.<br>De bons graphismes sont exigés par les fans.
 [DATE]AUG 1996
 [RES POINTS]1500
 [PRICE]250000
