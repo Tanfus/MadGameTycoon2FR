@@ -120,10 +120,10 @@
 
 [ID]4
 [NAME EN]Strategy
-[NAME GE]Stratégie
+[NAME GE]Strategie
 [NAME CH]策略
 [NAME TU]Strateji
-[NAME FR]Strategie
+[NAME FR]Stratégie
 [DESC EN]This genre requires tactical action against intelligent opponents.<br>The players do not have to be professionals in the use of the joystick,<br>but must demonstrate intelligence.
 [DESC GE]Dieses Genre verlangt taktisches Vorgehen gegen intelligente Gegner.<br>Die Spieler müssen keine Profis im Umgang mit dem Joystick sein,<br>sondern Intelligenz beweisen.
 [DESC CH]这种类型的游戏需要对电脑对手采取战术策略.<br>队友不一定非得是职业选手，<br>但脑子必须好使.
