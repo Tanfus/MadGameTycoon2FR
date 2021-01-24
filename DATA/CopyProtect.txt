@@ -1,4 +1,4 @@
-﻿[ID]1
+[ID]1
 [NAME EN]SafeForce v1.0
 [NAME GE]SafeForce v1.0
 [NAME CH]超安力量  v1.0
