@@ -205,7 +205,7 @@ Sélectionnez un groupe
 Gestion
 Acheter des DevKits
 Acheter un Moteur
-Protections contre la copie
+Protections anti-copie
 Acheter des Licences
 Publication d'offres
 Banque
@@ -752,7 +752,7 @@ Produits Dérivés
 Plus il y a de lettres, d'appels et de courriels sans réponse, plus vos fans sont insatisfaits.
 Démarrer le support client
 Charge de travail
-Très faible Charge de Travail
+Charge de Travail Très faible 
 Charge de Travail Faible
 Charge de Travail Moyenne
 Charge de Travail Forte
@@ -1283,7 +1283,7 @@ Cette fonction n'est disponible qu'en multijoueur.
 Vous pouvez soutenir ou saboter un joueur. Que voulez-vous faire ?
 Soutien
 Sabotage
-L'employé se les gèle !
+L'employé a froid !
 Tous les objets sont à jour 
 L'employé trouve l'endroit sale !
 L'employé se sent mal à l'aise !
