@@ -339,7 +339,7 @@
 [NAME EN]Personal Computer
 [NAME GE]Personal Computer
 [NAME TU]Personal Computer
-[NAME FR]Personal Computer
+[NAME FR]PC
 [MANUFACTURER EN]ICM
 [MANUFACTURER GE]ICM
 [MANUFACTURER TU]ICM
