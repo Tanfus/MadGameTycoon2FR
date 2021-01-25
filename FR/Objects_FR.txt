@@ -4,7 +4,7 @@ Chauffage;Les employés qui gèlent deviennent insatisfaits plus rapidement.
 Lampe I;Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Poubelle;Gardez toujours vos bureaux propres,<br>sinon vos employés seront insatisfaits.
 Distributeur d'eau;Les employés assoiffés deviennent insatisfaits plus rapidement.
-  Bureau I;Bureau de recherches. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
+Bureau I;Bureau de recherches. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Plante;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Cactus;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Plante tropicale;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
