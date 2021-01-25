@@ -93,7 +93,7 @@
 [NAME GE]Rollenspiel
 [NAME CH]角色扮演
 [NAME TU]Rol Yapma Oyunu
-[NAME FR]RPG
+[NAME FR]Jeu de Rôle
 [DESC EN]Character management, solving puzzles, fighting monsters.<br>This genre combines many gameplay elements of other genres.
 [DESC GE]Charaktermanagement, Lösen von Rätseln, Kämpfe gegen Monster.<br>Viele Tätigkeiten übernimmt der Spieler ohne<br>großes Reaktionsvermögen besitzen zu müssen.
 [DESC CH]角色管理、完成任务，打怪升级.<br>角色扮演类的游戏结合了很多其他类型的游戏元素.
@@ -333,7 +333,7 @@
 [NAME GE]Aufbauspiel
 [NAME CH]模拟建筑
 [NAME TU]İnşa Etme Oyunu
-[NAME FR]Jeu de Construction
+[NAME FR]Construction
 [DESC EN]The goal in this genre is to build a city, a park or similar.<br>In addition, earning money is the main goal.
 [DESC GE]Ziel in diesem Genre ist der Aufbau einer Stadt, eines Parks oder Ähnliches.<br>Zusätzlich ist das Verdienen von Geld hauptrangig.
 [DESC CH]这个类型的游戏目标是建造一座城市，公园或类似的建筑物.<br>除了这些，还有挣钱也是主要目标.
