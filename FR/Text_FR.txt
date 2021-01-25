@@ -240,7 +240,7 @@ Afficher les plateformes retirées du marché
 Attribuer un groupe
 Développer des moteurs
 Développer un nouveau moteur
-Mettre à jour l'ancien moteur
+MàJ d'un ancien moteur
 Nom du moteur
 Nom aléatoire
 Genre spécial
