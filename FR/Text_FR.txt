@@ -1143,7 +1143,7 @@ Retirer automatiquement les jeux du marché
 Voulez-vous vraiment retirer le jeu du marché? 
 Vous avez retiré manuellement <color=blue><NAME></color> du marché. Le produit n'est désormais plus disponible.
 Logiciel anti-triche
-LLogiciels anti-triche
+Logiciels anti-triche
 Vendre des actions
 Il n'y a pas d'espace de stockage disponible.
 Vendre le stock entier
