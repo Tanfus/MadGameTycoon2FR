@@ -512,8 +512,8 @@
 [DESC GE]Dieses Features erlaubt es,<br>das Spiel mit mehreren Personen in einem Raum zu spielen.
 [DESC CH]这个功能可以让你<br>与几个朋友在一个房间进行开黑.
 [DESC TU]Bu özellik, oyunu bir odada birden fazla kişiyle<br> oynamanıza olanak tanır.
-[NAME FR]LAN Multijoueur
-[DESC FR]Cette fonction vous permet de jouer<br>le jeu avec plusieurs personnes dans une même pièce.
+[NAME FR]LAN 
+[DESC FR]Cette fonction vous permet de jouer<br> avec plusieurs personnes sur un réseau local.
 [NAME PB]LAN Multiplayer
 [DESC PB]Este recurso permite que você jogue<br>com várias pessoas em uma sala.
 [DATE]OCT 1989
@@ -537,7 +537,7 @@
 [DESC CH]关卡编辑器允许玩家创建新的关卡.
 [DESC TU]Seviye editörü, oyuncunun yeni seviyeler oluşturmasına izin verir.
 [NAME FR]Editeur de Niveaux
-[DESC FR]Un éditeur de niveau permet au joueur de créer de nouveaux niveaux.
+[DESC FR]Un éditeur qui permet au joueur de créer ses propres niveaux.
 [NAME PB]Level Editor
 [DESC PB]Um editor de níveis permite ao jogador criar novas fases.
 [DATE]NOV 1990
@@ -585,7 +585,7 @@
 [DESC CH]自定义状态栏给玩家更多操作空间<br>只显示他们想要在屏幕显示的信息.
 [DESC TU]Ayarlanabilir HUD, oyunculara<br> ekranda yalnızca istedikleri bilgileri görüntüleme özgürlüğü verir.
 [NAME FR]HUD ajustable
-[DESC FR]Un HUD réglable donne aux joueurs la liberté<br>pour afficher uniquement les informations souhaitées à l'écran.
+[DESC FR]Un HUD réglable donne aux joueurs la liberté<br>d'afficher uniquement les informations souhaitées à l'écran.
 [NAME PB]Adjustable HUD
 [DESC PB]Um HUD ajustável dá aos jogadores a liberdade<br>de exibir apenas as informações que desejam na tela.
 [DATE]JAN 1992
@@ -633,7 +633,7 @@
 [DESC CH]可以让玩家进行道德选择<br>影响游戏世界剧情的发展.
 [DESC TU]Bu özellik, oyuncunun oyun dünyasını etkileyen ahlaki<br> kararlar almasına olanak tanır.
 [NAME FR]Choix Multiples
-[DESC FR]Cette fonctionnalité permet au joueur de rendre moral<br>décisions qui affectent le monde du jeu.
+[DESC FR]Cette fonctionnalité permet au joueur de prendre des décisions<br>moral qui affectent le monde du jeu.
 [NAME PB]Morale Mechanics
 [DESC PB]Esse recurso permite que o jogador tome<br>decisões que afetam o mundo do jogo.
 [DATE]MAR 1994
@@ -656,8 +656,8 @@
 [DESC GE]Mit Voice-Over können sich Spieler<br>per Headset unterhalten.
 [DESC CH]语音系统，玩家可以通过耳机进行交流.
 [DESC TU]Sesli İletişim ile oyuncular kulaklık aracılığıyla iletişim kurabilir.
-[NAME FR]Fonction Vocale
-[DESC FR]Avec la Fonction Vocale, les joueurs peuvent communiquer via un casque.
+[NAME FR]Chat Vocal
+[DESC FR]Les joueurs peuvent communiquer via un casque.
 [NAME PB]Voice Over
 [DESC PB]Com o Voice-Over, os jogadores podem se comunicar via fone de ouvido.
 [DATE]APR 1995
@@ -680,8 +680,8 @@
 [DESC GE]Diese Funktion erlaubt es<br>eine Spielaufzeichnung anzusehen.
 [DESC CH]此功能可让您查看游戏回放.
 [DESC TU]Bu fonksiyon, bir oyun kaydını görüntülemenizi sağlar.
-[NAME FR]Fonction Replay
-[DESC FR]Cette fonction vous permet de visualiser un enregistrement de jeu.
+[NAME FR]Replay
+[DESC FR]Permet de visualiser un enregistrement de jeu.
 [NAME PB]See Replay Function
 [DESC PB]Esta função permite que você visualize um replay gravado.
 [DATE]MAY 1995
@@ -729,7 +729,7 @@
 [DESC CH]有了这个功能，就可以<br>让玩家自行增添游戏新内容.
 [DESC TU]Bu özellikle<br> oyuncular oyuna yeni içerik ekleyebilir.
 [NAME FR]Support de Mods
-[DESC FR]Avec cette fonction, il est possible de<br>ajouter du nouveau contenu au jeu.
+[DESC FR]Avec cette fonction, il est possible de créer<br>et d'ajouter du nouveau contenu au jeu.
 [NAME PB]Mod Support
 [DESC PB]Com este recurso é possível<br>adicionar novos conteúdos ao jogo.
 [DATE]JUL 1997
@@ -753,7 +753,7 @@
 [DESC CH]来自世界各地的玩家可以<br>一起竞争全服最强称号.
 [DESC TU]Dünyanın her yerinden oyuncular<br> bir çevrimiçi liderlik tablosuna girebilir.
 [NAME FR]Classement en Ligne
-[DESC FR]Les joueurs du monde entier peuvent<br>être inscrit dans un classement en ligne.
+[DESC FR]Les joueurs du monde entier peuvent<br>être inscrits dans un classement en ligne.
 [NAME PB]Online Leaderboards
 [DESC PB]Jogadores de todo o mundo podem<br>ser inscritos em uma tabela de classificação online.
 [DATE]AUG 1997
@@ -801,7 +801,7 @@
 [DESC CH]可以最大限度地减少游戏加载时间<br>把新关卡的加载时间降到最低.
 [DESC TU]Bu özellik, yeni seviyelerin yükleme süresini<br> minimuma indirir.
 [NAME FR]Chargement Rapide
-[DESC FR]Cette fonction minimise le chargement<br>temps de nouveaux niveaux à un minimum.
+[DESC FR]Cette fonction minimise le chargement<br> de nouveaux niveaux.
 [NAME PB]Level Streaming
 [DESC PB]Este recurso minimiza o tempo de carregamento de novos mapas.
 [DATE]OCT 1999
@@ -824,7 +824,7 @@
 [DESC GE]In einem Sandbox-Modus kann das Spiel<br>frei und ohne strikten Regeln gespielt werden.
 [DESC CH]可以在沙盒模式下，进行游戏<br>玩家可以无拘无束地操作.
 [DESC TU]Sandbox modunda oyun serbestçe<br> ve katı kurallar olmadan oynanabilir.
-[NAME FR]Mode Bac à Sable
+[NAME FR]Bac à Sable
 [DESC FR]Dans un mode bac à sable, le jeu peut être joué<br>librement et sans règles strictes.
 [NAME PB]Sandbox Mode
 [DESC PB]No modo sandbox, o jogo pode ser jogado<br>livremente e sem regras rígidas.
@@ -873,7 +873,7 @@
 [DESC CH]该功能允许玩家，分享游戏存档，<br>在不同的平台上共享.
 [DESC TU]Bu özellik, örneğin<br> kaydedilmiş oyunları farklı platformlarda paylaşmak için kullanılabilir.
 [NAME FR]Service Cloud
-[DESC FR]Cette fonction peut être utilisée, par exemple,<br>pour partager des jeux de sauvegarde sur différentes plates-formes.
+[DESC FR]Cette fonction peut être utilisée pour utiliser<br>ses sauvegarde sur différentes plates-formes.
 [NAME PB]Cloud Service
 [DESC PB]Este recurso pode ser usado, por exemplo,<br>para compartilhar jogos salvos em diferentes plataformas.
 [DATE]JAN 2012
@@ -896,8 +896,8 @@
 [DESC GE]Mit Argumented Reality kann die<br>reale Welt und die Spielwelt miteinander kombiniert werden.
 [DESC CH]AR增强现实技术允许现实世界<br>和游戏世界相结合.
 [DESC TU]Artırılmış Gerçeklik ile gerçek dünya<br> ve oyun dünyası birleştirilebilir.
-[NAME FR]Prise en charge de la réalité augmentée
-[DESC FR]Avec la réalité augmentée le monde réel<br>et le monde du jeu peut être combiné.
+[NAME FR]Réalité augmentée
+[DESC FR]Avec la réalité augmentée, le monde réel se combine au monde virtuel.
 [NAME PB]Argumented Reality Support
 [DESC PB]Com a Realidade Aumentada, o mundo real<br>e o mundo do jogo podem ser combinados.
 [DATE]FEB 2015
@@ -921,7 +921,7 @@
 [DESC CH]昼夜循环美观性很好，而且<br>能让游戏世界看起来更真实.
 [DESC TU]Bir gündüz-gece döngüsü iyi görünüyor ve<br> oyun dünyasının daha gerçekçi görünmesini sağlıyor.
 [NAME FR]Cycle Jour/Nuit
-[DESC FR]Un cycle jour-nuit semble bon et<br>rend le monde du jeu plus réel.
+[DESC FR]Un cycle jour-nuit <br>rend le monde du jeu plus vivant.
 [NAME PB]Day-Night Cycle
 [DESC PB]Um ciclo de dia-noite parece ser bom e<br>torna o mundo do jogo mais real.
 [DATE]MAR 1983
@@ -992,8 +992,8 @@
 [DESC GE]Mit diesem Feature ist der Spieler<br>nicht mehr gezwungen sämtliche Texte<br>zu lesen.
 [DESC CH]有了这个功能，玩家就不会<br>被迫阅读所有的文本.
 [DESC TU]Bu özellikle, oyuncu artık tüm metinleri okumaya zorlanmaz.
-[NAME FR]Sortie vocale
-[DESC FR]Avec cette fonctionnalité, le joueur n'est pas，<br>plus obligé de lire tous les textes.
+[NAME FR]Sortie Vocale
+[DESC FR]Avec cette fonctionnalité, le joueur n'est<br>plus obligé de lire tous les textes.
 [NAME PB]Voice Output
 [DESC PB]Com este recurso, o jogador não é<br>mais forçado a ler todos os textos.
 [DATE]JUN 1985
@@ -1017,7 +1017,7 @@
 [DESC CH]动态音乐的变化取决于<br>游戏世界所发生的情况.
 [DESC TU]Dinamik müzik, oyundaki duruma bağlı olarak<br> değişir.
 [NAME FR]Musique Dynamique
-[DESC FR]Une musique dynamique change en fonction<br>sur la situation dans le jeu.
+[DESC FR]Une musique dynamique évolue en fonction<br>sur la situation dans le jeu.
 [NAME PB]Dynamic Music
 [DESC PB]Uma música dinâmica que<br>muda dependendo da situação no jogo.
 [DATE]JUL 1988
@@ -1065,7 +1065,7 @@
 [DESC CH]允许玩家<br>用键盘打游戏.
 [DESC TU]Bu özellik, oyunu bir klavye ile<br> kontrol etmenizi sağlar.
 [NAME FR]Support Clavier
-[DESC FR]Cette fonction vous permet de<br>contrôler le jeu avec un clavier.
+[DESC FR]Permet de contrôler le jeu avec un clavier.
 [NAME PB]Keyboard Support
 [DESC PB]Este recurso permite que você<br>controle o jogo com um teclado.
 [DATE]JAN 1976
@@ -1089,7 +1089,7 @@
 [DESC CH]允许玩家<br>使用初级手柄玩游戏.
 [DESC TU]Bu özellik, oyunu bir oyun kontrolcüyle<br> kontrol etmenize olanak sağlar.
 [NAME FR]Support Manette
-[DESC FR]Cette fonction vous permet de<br>contrôler le jeu avec un contrôleur de jeu.
+[DESC FR]Permet de contrôler le jeu avec une manette.
 [NAME PB]Controller Support
 [DESC PB]Este recurso permite que você<br>controle o jogo com um controle.
 [DATE]JAN 1976
@@ -1113,7 +1113,7 @@
 [DESC CH]有了这个功能，玩具枪就可以在<br>屏幕上射击.
 [DESC TU]Bu özellik sayesinde, ekran üzerindeki nesneler bir oyuncak tabanca ile vurulabilir.
 [NAME FR]Support Pistolet Laser
-[DESC FR]Avec cette fonction, les objets sur le<br>l'écran peut être tourné avec un pistolet jouet.
+[DESC FR]Avec cette fonction, les objets sur<br>l'écran peuvent être visés avec un pistolet jouet.
 [NAME PB]Laser Pistols Support
 [DESC PB]Com esse recurso, os objetos na tela<br>podem ser ativados com uma arma de brinquedo.
 [DATE]APR 1983
@@ -1137,7 +1137,7 @@
 [DESC CH]允许玩家使用<br>电脑鼠标打游戏.
 [DESC TU]Bu özellik, oyunu bir bilgisayar faresi ile<br> kontrol etmenizi sağlar.
 [NAME FR]Support Souris
-[DESC FR]Cette fonction vous permet de contrôler<br>le jeu avec une souris d'ordinateur.
+[DESC FR]Permet de contrôler le jeu avec une souris d'ordinateur.
 [NAME PB]Mouse Support
 [DESC PB]Este recurso permite que você controle<br>o jogo com um mouse de computador.
 [DATE]MAY 1984
@@ -1161,7 +1161,7 @@
 [DESC CH]允许玩家设置<br>自己喜欢的输入按钮.
 [DESC TU]Bu özellik, oyuncunun<br> kendi tercih ettiği giriş şemasını yapılandırmasına olanak tanır.
 [NAME FR]Contrôles Réglables
-[DESC FR]This feature allows the player to configure<br>his preferred input scheme by himself.
+[DESC FR]Permet au joueur de configurer ses propres commandes.
 [NAME PB]Adjustable Controls
 [DESC PB]Este recurso permite que o jogador configure<br>seu controle preferido sozinho.
 [DATE]JUN 1989
@@ -1209,7 +1209,7 @@
 [DESC CH]按键反馈支持<br>游戏世界中发生事件的人体感触.
 [DESC TU]Güç geri bildirimi, oyundaki olaylar hakkında<br> mekanik geri bildirim sağlamaya yönelik bir tekniktir.
 [NAME FR]Retour de Force
-[DESC FR]Le retour de force est une technique pour fournir<br>retour mécanique sur les événements du jeu.
+[DESC FR]Le retour de force est une technique pour fournir un<br>retour mécanique sur les événements du jeu.
 [NAME PB]Force Feedback
 [DESC PB]O Force Feedback é uma forma usada para fornecer<br>feedback<br>sobre eventos no jogo.
 [DATE]AUG 1992
@@ -1233,7 +1233,7 @@
 [DESC CH]允许玩家使用高级手柄打游戏.
 [DESC TU]Bu özellik, oyunu modern oyun kontrolcüleri ile oynamanıza izin verir.
 [NAME FR]Support Manette Moderne
-[DESC FR]Cette fonctionnalité vous permet de jouer au jeu avec des contrôleurs de jeu modernes.
+[DESC FR]Permet de jouer au jeu avec des manettes modernes.
 [NAME PB]Modern Controller Support
 [DESC PB]Este recurso permite que você jogue com<br>controles de jogo modernos.
 [DATE]SEP 1993
@@ -1257,7 +1257,7 @@
 [DESC CH]VR虚拟现实可以带来全新的游戏体验.
 [DESC TU]Sanal Gerçeklik, tamamen yeni bir oyun deneyimi sağlar.
 [NAME FR]Support Casque VR
-[DESC FR]La réalité virtuelle permet une toute nouvelle expérience de jeu.
+[DESC FR]La réalité virtuelle permet une toute nouvelle expérience de jeu très immersive.
 [NAME PB]VR Helmet Support
 [DESC PB]A realidade virtual permite uma<br>experiência de jogo completamente nova.
 [DATE]OCT 1994
@@ -1280,8 +1280,8 @@
 [DESC GE]Dieses Feature erlaubt es,<br>das Spiel mit Motion-Controllern zu bedienen.
 [DESC CH]允许玩家<br>控制运动器材进行游戏.
 [DESC TU]Bu özellik, oyunu hareket kontrolcüleri ile<br> kontrol etmenizi sağlar.
-[NAME FR]Support Contrôleur de Mouvement
-[DESC FR]Cette fonction vous permet de contrôler<br>le jeu avec des contrôleurs de mouvement.
+[NAME FR]Support Manette de Mouvement
+[DESC FR]Permet de contrôler<br>le jeu avec des manettes de mouvement.
 [NAME PB]Motion Controller Support
 [DESC PB]Este recurso permite que você controle<br>o jogo com controles de movimento.
 [DATE]FEB 2006
@@ -1304,8 +1304,8 @@
 [DESC GE]Besonders Musik- und Rhythmusspiele<br>profitieren vom Instrument-Support wie zum Beispiel<br>Gitarren oder Trommeln.
 [DESC CH]允许玩家使用吉他或其他音乐设备玩游戏<br>在音乐和节奏游戏中特别受欢迎.
 [DESC TU]Gitar veya davul gibi giriş cihazları, özellikle müzik ve ritim oyunlarında<br> popülerdir.
-[NAME FR]Support d'instruments
-[DESC FR]Les périphériques d'entrée tels que les guitares ou les batteries<br>particulièrement populaire dans les jeux de musique et de rythme.
+[NAME FR]Support Instruments
+[DESC FR]Les périphériques d'entrée tels que les guitares ou les batteries sont<br>particulièrement populaire dans les jeux de musique et de rythme.
 [NAME PB]Instrument Support
 [DESC PB]Dispositivos de entrada, como guitarras ou bateria, são<br>especialmente populares em jogos de música e ritmo.
 [DATE]DEC 2007
@@ -1329,7 +1329,7 @@
 [DESC CH]允许玩家控制相机进行游戏<br>可以更好地全身心投入到游戏里.
 [DESC TU]Bu özellik, oyunu tüm vücudunuzla<br> kontrol etmenizi sağlar.
 [NAME FR]Support Caméra de Mouvement
-[DESC FR]Cette fonction vous permet de contrôler<br>le jeu avec tout votre corps.
+[DESC FR]Permet au joueur de contrôler le jeu avec tout son corps.
 [NAME PB]Motion Camera Support
 [DESC PB]Este recurso permite que você<br>controle o jogo com todo o seu corpo.
 [DATE]JAN 2009
@@ -1353,7 +1353,7 @@
 [DESC CH]允许玩家使用<br>触摸屏进行游戏.
 [DESC TU]Bu özellik, oyunu dokunmatik ekran üzerinden kontrol etmenizi sağlar.
 [NAME FR]Support Ecran Tactile
-[DESC FR]Cette fonction vous permet de contrôler<br>le jeu via l'écran tactile.
+[DESC FR]Permet de contrôler le jeu via un écran tactile.
 [NAME PB]Touch Screen Support
 [DESC PB]Este recurso permite que você<br>controle o jogo pela tela com o toque.
 [DATE]JAN 2004
