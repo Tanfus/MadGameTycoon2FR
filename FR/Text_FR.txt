@@ -492,7 +492,7 @@ Les chiffres de vente de <color=blue><NAME></color> ont fortement baissé. Le je
 Semaines de vente
 Coûts Marketing
 Frais de moteur
-<color=blue><NAME1></color> a publié le jeu<color=blue><NAME2></color>.
+<color=blue><NAME1></color> a publié le jeu <color=blue><NAME2></color>.
 Votre éditeur a lancé une campagne marketing pour <color=blue><NAME1></color>.
 Montre la qualité de vos bureaux.
 Montre la pollution de vos bureaux.
