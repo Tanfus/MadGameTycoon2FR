@@ -19,7 +19,7 @@
 [NAME EN]Controller 1. Gen
 [NAME GE]Controller 1. Gen
 [NAME TU]Kontrolcü 1. Nesil
-[NAME FR]Controller 1. Gen
+[NAME FR]Manette 1re Gén.
 [DESC EN]Description
 [DESC GE]Description
 [DESC TU]Açıklama
