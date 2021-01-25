@@ -792,7 +792,7 @@ Fermer le jeu
 Voulez-vous vraiment revenir au menu Principal ?
 Retour au menu Principal
 Voulez-vous vraiment écraser la sauvegarde de la partie ?
-Le jeu a été enregistré
+Pärtie Sauvegardée
 Nom de Joueur
 Nom de Société Aléatoire
 Siège social de l'entreprise
