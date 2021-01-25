@@ -9,7 +9,7 @@
 [DESC CH]暂停功能可以<br>允许玩家休息.
 [DESC TU]Oynatıcının ara vermesi için <br> duraklatma işlevi yararlıdır.
 [NAME FR]Fonction Pause
-[DESC FR]Une fonction de pause est utile pour<br>le joueur à faire une pause.
+[DESC FR]Une fonction de pause est utile pour<br>le joueur qui veut se changer les esprits.
 [NAME PB]Pause Function
 [DESC PB]A função de pause é útil para<br>o jogador fazer uma pausa.
 [DATE]JAN 1976
@@ -33,7 +33,7 @@
 [DESC CH]可以用来保存本服最高分<br>增加朋友开黑的竞争乐趣.
 [DESC TU]Yerel olarak kaydedilen yüksek puanlar, arkadaşlar arasında<br> ek oyun eğlencesi sağlar.
 [NAME FR]Classement Local
-[DESC FR]Les scores élevés enregistrés localement fournissent<br>plaisir de jeu supplémentaire entre amis.
+[DESC FR]Les scores élevés enregistrés localement fournissent<br>du plaisir de jeu supplémentaire entre amis.
 [NAME PB]Local High Scores
 [DESC PB]Pontuações mais altas salvas localmente fornecem<br>diversão adicional no jogo entre amigos.
 [DATE]FEB 1976
@@ -57,7 +57,7 @@
 [DESC CH]用来隐藏区域、宝藏和秘密通道<br>每次玩游戏都充满未知丰富游戏性.
 [DESC TU]Gizli alanlar, sandıklar ve gizli geçitler<br> her oyunu daha heyecanlı hale getirir.
 [NAME FR]Secrets
-[DESC FR]Zones cachées, coffres et passages secrets<br>rendre chaque jeu plus excitant.
+[DESC FR]Les zones cachées, coffres et passages secrets<br>rendent chaque jeu plus excitant.
 [NAME PB]Secrets
 [DESC PB]Áreas escondidas, baús e passagens secretos<br>tornam os jogos mais emocionante.
 [DATE]MAR 1977
@@ -104,7 +104,7 @@
 [DESC GE]Wem ein Spiel zu schwer ist,<br>kann sich mit Cheat Codes behelfen.
 [DESC CH]如果你是手残党这个游戏对你来说太难了，<br>你可以输入作弊密码帮助自己.
 [DESC TU]Bir oyun sizin için çok zorsa,<br> hile kodları ile kendinize yardımcı olabilirsiniz.
-[NAME FR]Code de Triche
+[NAME FR]Codes de Triche
 [DESC FR]Si un jeu est trop difficile pour vous,<br>vous pouvez vous aider avec des codes de triche.
 [NAME PB]Cheat Codes
 [DESC PB]Se um jogo é muito difícil para você,<br>você pode se ajudar com cheats.
@@ -129,7 +129,7 @@
 [DESC CH]有了密码，你可以随时登录游戏<br>随时随地和朋友开黑.
 [DESC TU]Bu işlev sayesinde oyuncular<br>oyundan çıkıp girdiklerinde tekrar şifre girmeleri gerekmez.
 [NAME FR]Clés de Sauvegardes
-[DESC FR]Avec un mot de passe, vous pouvez reprendre le jeu<br>plus tard à la même position.
+[DESC FR]A l'aide d'une clé alphanumérique, chargez le jeu<br>à une position précise.
 [NAME PB]Password Saves
 [DESC PB]Com uma senha, você pode retomar o jogo<br>de onde parou mais tarde.
 [DATE]JUN 1978
@@ -153,7 +153,7 @@
 [DESC CH]与主线剧情没有联系的任务<br>让玩家有更多的时间探索游戏世界.
 [DESC TU]Ana hikaye ile bağlantılı olmayan görevler<br> oyuncuyu ek olarak meşgul eder.
 [NAME FR]Quêtes Secondaires
-[DESC FR]Quêtes qui ne sont pas liées à l'histoire principale<br>garder le joueur occupé en plus.
+[DESC FR]Des quêtes qui ne sont pas liées à l'histoire principale<br> et qui gardent le joueur occupé.
 [NAME PB]Sidequests
 [DESC PB]Missões que não estão ligadas à história principal<br>ajudam a manter o jogador ocupado.
 [DATE]JUL 1979
@@ -201,7 +201,7 @@
 [DESC CH]保存游戏可以让你在以后的时间恢复并且继续游戏.
 [DESC TU]Oyunu kaydet seçeneği, oyuna daha sonra kaldığınız yerden devam etmenize olanak sağlar.
 [NAME FR]Sauvegardes
-[DESC FR]Sauvegarder les parties vous permet de reprendre le jeu ultérieurement.
+[DESC FR]Sauvegarder les parties permet de reprendre le jeu ultérieurement.
 [NAME PB]Save Games
 [DESC PB]Salvar jogos permite que você retome o jogo de onde parou.
 [DATE]SEP 1980
@@ -224,8 +224,8 @@
 [DESC GE]Multiplayer auf einem Bildschirm macht es möglich,<br> sich mit dem besten Freund zu messen.
 [DESC CH]可以进行分屏多人游戏<br>来和你最好的朋友开黑.
 [DESC TU]Bölünmüş Ekran, en iyi arkadaşınızla<br> rekabet etmenizi mümkün kılar.
-[NAME FR]Ecran Scindé Mutlijoueur
-[DESC FR]Le mode multijoueur en écran partagé permet<br>pour rivaliser avec votre meilleur ami.
+[NAME FR]Ecran Partagé
+[DESC FR]Le mode multijoueur en écran partagé permet<br>de rivaliser avec ses meilleurs amis.
 [NAME PB]Splitscreen Multiplayer
 [DESC PB]Multijogador em tela dividida torna possível<br>competir com seu melhor amigo.
 [DATE]OCT 1980
@@ -249,7 +249,7 @@
 [DESC CH]游戏彩蛋暗藏游戏中许多有趣或者信息量大的秘密，<br>可以有效激发玩家自主探索整个游戏世界.
 [DESC TU]Sürpriz Yumurtalar oyundaki eğlenceli veya bilgilendirici sırlardır.<br> Oyuncuları tüm oyunu keşfetmeye teşvik ederler.
 [NAME FR]Easter Eggs
-[DESC FR]Les Easter Eggs sont des secrets amusants ou informatifs dans le jeu.<br>Ils encouragent les joueurs à explorer l'ensemble du jeu.
+[DESC FR]Les Easter Eggs sont des secrets amusants ou informatifs dans le jeu.<br>Ils encouragent les joueurs à explorer l'ensemble de ce dernier.
 [NAME PB]Easter Eggs
 [DESC PB]Easter Eggs são segredos engraçados ou informativos do jogo.<br>Eles incentivam os jogadores a explorar o jogo inteiro.
 [DATE]NOV 1981
@@ -273,7 +273,7 @@
 [DESC CH]多结局事件<br>游戏剧情的发展，结果并不总是只有一个.
 [DESC TU]Rastgele hikaye olayları, hikaye her zaman aynı olmadığından<br> oyunu geliştirir.
 [NAME FR]Evénements Aléatoires
-[DESC FR]Les événements d'histoires aléatoires améliorent<br>jeu car l'histoire n'est pas toujours la même.
+[DESC FR]Les événements d'histoires aléatoires améliorent<br> le jeu car l'histoire n'est pas toujours la même.
 [NAME PB]Random Story Events
 [DESC PB]Os eventos aleatórios da história melhoram o jogo,<br>pois a história nem sempre é a mesma.
 [DATE]DEC 1981
@@ -297,7 +297,7 @@
 [DESC CH]可玩性高的任务<br>不会让玩家在游戏中无所事事.
 [DESC TU]Tekrarlanabilir görevler, oyuncuyu daha uzun süre meşgul etmek <br> için iyidir.
 [NAME FR]Quêtes Rejouables
-[DESC FR]Les quêtes répétables sont bonnes pour<br>garder le joueur occupé plus longtemps.
+[DESC FR]Les quêtes répétables sont utiles pour<br>garder le joueur occupé plus longtemps.
 [NAME PB]Repeatable Quests
 [DESC PB]Missões repetíveis são boas para<br>manter o jogador ocupado por mais tempo.
 [DATE]JAN 1982
@@ -321,7 +321,7 @@
 [DESC CH]人物角色可以自由捏脸<br>可以让玩家更好地代入游戏角色.
 [DESC TU]Oyuncular, kendi oluşturdukları bir oyun karakteriyle<br> kendilerini daha iyi tanımlayabilirler.
 [NAME FR]Personnalisation Personnage
-[DESC FR]Les joueurs peuvent s'identifier<br>mieux avec un personnage de jeu auto-créé.
+[DESC FR]Les joueurs peuvent mieux s'identifier<br> avec un personnage de jeu auto-créé.
 [NAME PB]Character Customization
 [DESC PB]Os jogadores podem se identificar<br>melhor com um personagem criado por ele mesmo.
 [DATE]FEB 1982
@@ -345,7 +345,7 @@
 [DESC CH]这个功能可以使<br>角色，根据玩家的意思进行组合连招.
 [DESC TU]Bu özellik,<br> karakterinin yeteneklerinin oyuncunun isteklerine göre genişletilmesine izin verir.
 [NAME FR]Arbre de Compétences
-[DESC FR]Cette fonction permet aux capacités du<br>personnage à agrandir selon les souhaits du joueur.
+[DESC FR]Cette fonction permet aux capacités du<br>personnage de progresser selon les souhaits du joueur.
 [NAME PB]Skill Trees
 [DESC PB]Este recurso permite que as habilidades do personagem<br>sejam expandidas de acordo com os desejos do jogador.
 [DATE]MAR 1983
@@ -368,7 +368,7 @@
 [DESC GE]Mittels eines Tutorials finden die Spieler<br>schneller ins Spiel.<br>Ein zeitintensives studieren des Spielanleitung<br>ist nicht mehr nötig.
 [DESC CH]新手教程帮助萌新快速上手<br>让萌新快速熟悉游戏玩法.
 [DESC TU]Öğretici, oyuncunun oyunun işlevlerini<br> daha hızlı anlamasına yardımcı olur.
-[NAME FR]Tutoriel
+[NAME FR]Didactitiel
 [DESC FR]Un tutoriel aide le joueur à comprendre<br>les fonctions du jeu plus rapidement.
 [NAME PB]Tutorial
 [DESC PB]Um tutorial ajuda o jogador a entender<br>as funções do jogo mais rápido.
@@ -393,7 +393,7 @@
 [DESC CH]因为有存档所以玩家不怕过不了任务<br>让玩家更加了解任务的速通玩法.
 [DESC TU]Oyuncular, oyundaki tüm başarılara <br> ulaşmak için motive olmuşlardır.
 [NAME FR]Succès
-[DESC FR]Les joueurs sont motivés à<br>réussir tous les succès du jeu.
+[DESC FR]Peut motiver les joueurs à<br>réussir tous les succès du jeu.
 [NAME PB]Archivements
 [DESC PB]Os jogadores ficam motivados à alcançar todas as conquistas do jogo.
 [DATE]MAY 1984
@@ -417,7 +417,7 @@
 [DESC CH]小游戏提供<br>这个游戏中还有不同的玩法.
 [DESC TU]Mini oyunlar, ana oyundan tamamen<br> farklı bir oyun deneyimi sunar.
 [NAME FR]Mini Jeux
-[DESC FR]Les mini-jeux offrent une<br>gameplay différent du jeu principal.
+[DESC FR]Les mini-jeux permettent de faire <br>une pause du jeu... dans le jeu !
 [NAME PB]Mini Games
 [DESC PB]Os mini games oferecem uma jogabilidade<br>completamente diferente do jogo principal.
 [DATE]JUN 1985
@@ -440,8 +440,8 @@
 [DESC GE]Diese Funktion macht es möglich,<br>das Spiel ein weiteres mal mit neuen Inhalt durchzuspielen.
 [DESC CH]可以实现<br>玩家游玩新赛季的游戏内容.
 [DESC TU]Bu işlev, oyunu yeni içerikle<br> oynamayı mümkün kılar.
-[NAME FR]New Game Plus
-[DESC FR]Cette fonction permet de<br>rejouez le jeu avec un nouveau contenu.
+[NAME FR]New Game +
+[DESC FR]Cette fonction permet de<br>rejouer le jeu avec un nouveau contenu.
 [NAME PB]New Game Plus
 [DESC PB]Esta função torna possível jogar<br>novamente o jogo com novos conteúdos.
 [DATE]JUL 1986
@@ -465,7 +465,7 @@
 [DESC CH]多个结局鼓励玩家<br>尝试游戏多个玩法.
 [DESC TU]Birden fazla son, oyuncuları <br> oyunu birkaç kez oynamaya motive eder.
 [NAME FR]Fins Multiples
-[DESC FR]Les fins multiples motivent les joueurs<br>pour jouer plusieurs fois au jeu.
+[DESC FR]Les fins multiples motivent les joueurs<br>à recommencer plusieurs fois le jeu.
 [NAME PB]Multiple Ends
 [DESC PB]Finais múltiplos motivam os jogadores<br>a jogar o jogo várias vezes.
 [DATE]AUG 1987
@@ -489,7 +489,7 @@
 [DESC CH]动态难度等级<br>根据玩家的实力进行自动调整.
 [DESC TU]Dinamik bir zorluk seviyesi<br> oyuncunun yeteneklerine göre otomatik olarak ayarlanır.
 [NAME FR]Difficulté Dynamique
-[DESC FR]Un niveau de difficulté dynamique automatiquement<br>s'adapte aux capacités du joueur.
+[DESC FR]Un niveau de difficulté dynamique automatique<br>s'adapte aux capacités du joueur.
 [NAME PB]Dynamic Level of Difficulty
 [DESC PB]Um nível de dificuldade dinâmico se ajusta<br>automaticamente às habilidades do jogador.
 [DATE]SEP 1988
@@ -968,7 +968,7 @@
 [DESC GE]Zwischensequenzen eignen sich hervorragend<br>um die Geschichte des Spiels voran zu treiben.
 [DESC CH]过场动画非常适合描述<br>游戏剧情.
 [DESC TU]Ara sahneler oyunun hikayesini anlatmak için mükemmeldir.
-[NAME FR]Scène Coupé
+[NAME FR]Cinématiques
 [DESC FR]Les cinématiques sont parfaites pour raconter<br>l'histoire du jeu.
 [NAME PB]Cutscenen
 [DESC PB]As cutscenes são perfeitas para<br>contar a história do jogo.
