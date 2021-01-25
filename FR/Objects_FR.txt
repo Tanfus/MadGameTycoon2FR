@@ -10,7 +10,7 @@ Cactus;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des
 Plante tropicale;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Toilettes;Ici, les besoins les plus importants sont satisfaits.
 Lavabo; Penez à vous laver les mains ! COVID oblige.
-Poster UFO; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Poster OVNI; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Poster Robot; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Poster Aleon;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Poster Rétro;Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
@@ -99,7 +99,7 @@ Tapis V; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bur
 Tapis VI; Vos employés sont plus motivés<br>lorsqu'ils travaillent dans des bureaux bien équipés.
 Réfrigérateur; Idéal pour conserver les aliments périssables.
 Téléviseur; Vos collaborateurs sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
-Télévision moderne; vos employés sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
+Ecran Plat; Vos employés sont plus motivés lorsqu'ils<br> travaillent dans des bureaux bien équipés.
 Radio; Vos employés sont plus motivés quand<br>ils travaillent dans des bureaux bien équipés.
 Bureau II;Bureau du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
 Bureau III;Bureau du studio graphique. Plus la qualité est élevée,<br>meilleur est le résultat du travail.
